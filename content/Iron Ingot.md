@@ -23,7 +23,6 @@ Energy consumption:
 
 ##  Gathering
 
-
 Mining Machines gather:
 - [[Iron Ore]]
 - [[Copper Ore]]
