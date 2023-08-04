@@ -1,28 +1,14 @@
 # Mining
 
-Nodes:
-- [[Iron Ore]]
-- [[Copper Ore]]
-- [[Stone]]
-- [[Coal]]
-- [[Silicon Ore]]
-- [[Titanium Ore]]
-- [[Kimberlite Ore]]
-- [[Fractal Silicon]]
-- [[Optical Grating Crystal]]
-- [[Spiniform Stalagmite Crystal]]
-- [[Unipolar Magnet]]
-
 ## General Formulas
 
-General formula with **Vein Utilization** for Mining Machines.
-
 $$
-\frac{V}{M\cdot\left(1+\frac{k}{10}\right)}
+n = \frac{V}{M\cdot\left(1+\frac{k}{10}\right)}
 $$
 
 | Symbol | Meaning                                   |
 | ------ | ----------------------------------------- |
+| $n$    | Number of nodes requires                  |
 | $V$    | Target transport volume (item per minute) |
 | $M$    | Mining speed (item per minute per node)   |
 | $k$    | Vein Utilization level                    |
@@ -37,29 +23,220 @@ Different transport volumes of Conveyor Belts (item per minute).
 | Mk. II        | 720         | 1,440                 | 2,160                 | 2,880                    |
 | Mk. III       | 1,800       | 3,600                 | 5,400                 | 7,200                    |
 
-Total number of nodes required to fill different setup of **Conveyor Belt Mk. I**.
+### Conveyor Belt Mk. I
 
-| Conveyor Belt Mk. I Setup | Mining Machine | Advanced Mining Machine |
-| ------------------------- | -------------- | ----------------------- |
-| Base Volume               | 12             | 6                       |
-| Double Cargo Stacking     | 24             | 12                      |
-| Triple Cargo Stacking     | 36             | 18                      |
-| Quadruple Cargo Stacking  | 48             | 24                      |
+#### Base Transport Volume
 
-Total number of nodes required to fill different setup of **Conveyor Belt Mk. II**.
+Total number of nodes required to fully saturate **Convey belt Mk. I** using **Mining Machines** and **Advanced Mining Machines**.
 
-| Conveyor Belt Mk. II Setup | Mining Machine | Advanced Mining Machine |
-| -------------------------- | -------------- | ----------------------- |
-| Base Volume                | 24             | 12                      |
-| Double Cargo Stacking      | 48             | 24                      |
-| Triple Cargo Stacking      | 72             | 36                      |
-| Quadruple Cargo Stacking   | 96             | 48                      |
+| Vein Utilization Level | Mining Machine | Advanced Mining Machine |
+| ---------------------- | -------------- | ----------------------- |
+| 0                      | 12             | 6                       |
+| 1                      | 11             | 6                       |
+| 2                      | 10             | 5                       |
+| 4                      | 9              | 5                       |
+| 5                      | 8              | 4                       |
+| 8                      | 7              | 4                       |
+| 10                     | 6              | 3                       |
+| 14                     | 5              | 3                       |
+| 20                     | 4              | 2                       |
+| 30                     | 3              | 2                       |
+| 50                     | 2              | 1                       |
+| 110                    | 1              | 1                       |
 
-Total number of nodes required to fill different setups of **Conveyor Belt Mk. III**.
+#### With Double Cargo Stacking
 
-| Conveyor Belt Mk. III Setup | Mining Machine | Advanced Mining Machine |
-| --------------------------- | -------------- | ----------------------- |
-| Base Volume                 | 60             | 30                      |
-| Double Cargo Stacking       | 120            | 60                      |
-| Triple Cargo Stacking       | 180            | 90                      |
-| Quadruple Cargo Stacking    | 240            | 120                     |
+Total number of nodes required to fully saturate **Convey belt Mk. I** with **Double Cargo Stacking** using **Mining Machines** and **Advanced Mining Machines**.
+
+| Vein Utilization Level | Mining Machine | Advanced Mining Machine |
+| ---------------------- | -------------- | ----------------------- |
+| 0                      | 24             | 12                      |
+| 1                      | 22             | 11                      |
+| 2                      | 20             | 10                      |
+| 3                      | 19             | 10                      |
+| 4                      | 18             | 9                       |
+| 5                      | 16             | 8                       |
+| 6                      | 15             | 8                       |
+| 8                      | 14             | 7                       |
+| 9                      | 13             | 7                       |
+| 10                     | 12             | 6                       |
+| 12                     | 11             | 6                       |
+| 14                     | 10             | 5                       |
+| 17                     | 9              | 5                       |
+| 20                     | 8              | 4                       |
+| 25                     | 7              | 4                       |
+| 30                     | 6              | 3                       |
+| 38                     | 5              | 3                       |
+| 50                     | 4              | 2                       |
+| 70                     | 3              | 2                       |
+| 110                    | 2              | 1                       |
+| 230                    | 1              | 1                       |
+
+#### With Triple Cargo Stacking
+
+Total number of nodes required to fully saturate **Convey belt Mk. I** with **Triple Cargo Stacking** using **Mining Machines** and **Advanced Mining Machines**.
+
+| Vein Utilization Level | Mining Machine | Advanced Mining Machine |
+| ---------------------- | -------------- | ----------------------- |
+| 0                      | 36             | 18                      |
+| 1                      | 33             | 17                      |
+| 2                      | 30             | 15                      |
+| 3                      | 28             | 14                      |
+| 4                      | 26             | 13                      |
+| 5                      | 24             | 12                      |
+| 6                      | 23             | 12                      |
+| 7                      | 22             | 11                      |
+| 8                      | 20             | 10                      |
+| 9                      | 19             | 10                      |
+| 10                     | 18             | 9                       |
+| 12                     | 17             | 9                       |
+| 13                     | 16             | 8                       |
+| 14                     | 15             | 8                       |
+| 16                     | 14             | 7                       |
+| 18                     | 13             | 7                       |
+| 20                     | 12             | 6                       |
+| 23                     | 11             | 6                       |
+| 26                     | 10             | 5                       |
+| 30                     | 9              | 5                       |
+| 35                     | 8              | 4                       |
+| 42                     | 7              | 4                       |
+| 50                     | 6              | 3                       |
+| 62                     | 5              | 3                       |
+| 80                     | 4              | 2                       |
+| 110                    | 3              | 2                       |
+| 170                    | 2              | 1                       |
+| 350                    | 1              | 1                       |
+
+
+#### With Quadruple Cargo Stacking
+
+Total number of nodes required to fully saturate **Convey belt Mk. I** with **Quadruple Cargo Stacking** using **Mining Machines** and **Advanced Mining Machines**.
+
+| Vein Utilization Level | Mining Machine | Advanced Mining Machine |
+| ---------------------- | -------------- | ----------------------- |
+| 0                      | 48             | 24                      |
+| 1                      | 44             | 22                      |
+| 2                      | 40             | 20                      |
+| 3                      | 37             | 19                      |
+| 4                      | 35             | 18                      |
+| 5                      | 32             | 16                      |
+| 6                      | 30             | 15                      |
+| 7                      | 29             | 15                      |
+| 8                      | 27             | 14                      |
+| 9                      | 26             | 13                      |
+| 10                     | 24             | 12                      |
+| 11                     | 23             | 12                      |
+| 12                     | 22             | 11                      |
+| 13                     | 21             | 11                      |
+| 14                     | 20             | 10                      |
+| 16                     | 19             | 10                      |
+| 17                     | 18             | 9                       |
+| 19                     | 17             | 9                       |
+| 20                     | 16             | 8                       |
+| 22                     | 15             | 8                       |
+| 25                     | 14             | 7                       |
+| 27                     | 13             | 7                       |
+| 30                     | 12             | 6                       |
+| 34                     | 11             | 6                       |
+| 38                     | 10             | 5                       |
+| 44                     | 9              | 5                       |
+| 50                     | 8              | 4                       |
+| 59                     | 7              | 4                       |
+| 70                     | 6              | 3                       |
+| 86                     | 5              | 3                       |
+| 110                    | 4              | 2                       |
+| 150                    | 3              | 2                       |
+| 230                    | 2              | 1                       |
+| 470                    | 1              | 1                       |
+
+
+### Conveyor Belt Mk. II
+
+#### Base Transport Volume
+
+Total number of nodes required to fully saturate **Convey belt Mk. II** using **Mining Machines** and **Advanced Mining Machines**.
+
+Equivalent to [[#Conveyor Belt Mk. I#With Double Cargo Stacking]].
+
+#### With Double Cargo Stacking
+
+Total number of nodes required to fully saturate **Convey belt Mk. II** with **Double Cargo Stacking** using **Mining Machines** and **Advanced Mining Machines**.
+
+Equivalent to [[#Conveyor Belt Mk. I#With Quadruple Cargo Stacking]].
+
+#### With Triple Cargo Stacking
+
+Total number of nodes required to fully saturate **Convey belt Mk. I** with **Triple Cargo Stacking** using **Mining Machines** and **Advanced Mining Machines**.
+
+| Vein Utilization Level | Mining Machine | Advanced Mining Machine |
+| ---------------------- | -------------- | ----------------------- |
+| 0                      | 36             | 18                      |
+| 1                      | 33             | 17                      |
+| 2                      | 30             | 15                      |
+| 3                      | 28             | 14                      |
+| 4                      | 26             | 13                      |
+| 5                      | 24             | 12                      |
+| 6                      | 23             | 12                      |
+| 7                      | 22             | 11                      |
+| 8                      | 20             | 10                      |
+| 9                      | 19             | 10                      |
+| 10                     | 18             | 9                       |
+| 12                     | 17             | 9                       |
+| 13                     | 16             | 8                       |
+| 14                     | 15             | 8                       |
+| 16                     | 14             | 7                       |
+| 18                     | 13             | 7                       |
+| 20                     | 12             | 6                       |
+| 23                     | 11             | 6                       |
+| 26                     | 10             | 5                       |
+| 30                     | 9              | 5                       |
+| 35                     | 8              | 4                       |
+| 42                     | 7              | 4                       |
+| 50                     | 6              | 3                       |
+| 62                     | 5              | 3                       |
+| 80                     | 4              | 2                       |
+| 110                    | 3              | 2                       |
+| 170                    | 2              | 1                       |
+| 350                    | 1              | 1                       |
+
+
+#### With Quadruple Cargo Stacking
+
+Total number of nodes required to fully saturate **Convey belt Mk. I** with **Quadruple Cargo Stacking** using **Mining Machines** and **Advanced Mining Machines**.
+
+| Vein Utilization Level | Mining Machine | Advanced Mining Machine |
+| ---------------------- | -------------- | ----------------------- |
+| 0                      | 48             | 24                      |
+| 1                      | 44             | 22                      |
+| 2                      | 40             | 20                      |
+| 3                      | 37             | 19                      |
+| 4                      | 35             | 18                      |
+| 5                      | 32             | 16                      |
+| 6                      | 30             | 15                      |
+| 7                      | 29             | 15                      |
+| 8                      | 27             | 14                      |
+| 9                      | 26             | 13                      |
+| 10                     | 24             | 12                      |
+| 11                     | 23             | 12                      |
+| 12                     | 22             | 11                      |
+| 13                     | 21             | 11                      |
+| 14                     | 20             | 10                      |
+| 16                     | 19             | 10                      |
+| 17                     | 18             | 9                       |
+| 19                     | 17             | 9                       |
+| 20                     | 16             | 8                       |
+| 22                     | 15             | 8                       |
+| 25                     | 14             | 7                       |
+| 27                     | 13             | 7                       |
+| 30                     | 12             | 6                       |
+| 34                     | 11             | 6                       |
+| 38                     | 10             | 5                       |
+| 44                     | 9              | 5                       |
+| 50                     | 8              | 4                       |
+| 59                     | 7              | 4                       |
+| 70                     | 6              | 3                       |
+| 86                     | 5              | 3                       |
+| 110                    | 4              | 2                       |
+| 150                    | 3              | 2                       |
+| 230                    | 2              | 1                       |
+| 470                    | 1              | 1                       |
