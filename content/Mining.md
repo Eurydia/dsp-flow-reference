@@ -9,25 +9,17 @@ $$
 | Symbol | Meaning                                   |
 | ------ | ----------------------------------------- |
 | $n$    | Number of nodes required                  |
-| $V$    | Target transport volume (item per minute) |
+| $V$    | Transport volume (item per minute) |
 | $M$    | Mining speed (item per minute per node)   |
 | $k$    | Vein Utilization level                    |
 
 ## Datasheet
 
-Different transport volumes of Conveyor Belts (item per minute).
-
-| Conveyor Belt | Base Volume | Double Cargo Stacking | Triple Cargo Stacking | Quadruple Cargo Stacking |
-| ------------- | ----------- | --------------------- | --------------------- | ------------------------ |
-| Mk. I         | 360         | 720                   | 1,080                 | 1,440                    |
-| Mk. II        | 720         | 1,440                 | 2,160                 | 2,880                    |
-| Mk. III       | 1,800       | 3,600                 | 5,400                 | 7,200                    |
-
 ### Conveyor Belt Mk. I
 
 #### Base Transport Volume
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* (360 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 360 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -46,7 +38,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. I* (360 items 
 
 #### With Double Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* with *Double Cargo Stacking* (720 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 720 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -74,7 +66,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. I* with *Doubl
 
 #### With Triple Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* with *Triple Cargo Stacking* (1,080 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 1080 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -109,7 +101,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. I* with *Tripl
 
 #### With Quadruple Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* with *Quadruple Cargo Stacking* (1,440 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 1440 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -152,19 +144,15 @@ Total number of nodes required to fully saturate *Convey belt Mk. I* with *Quadr
 
 #### Base Transport Volume
 
-Total number of nodes required to fully saturate *Convey belt Mk. II* (720 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
-
 Equivalent to [[#Datasheet#Conveyor Belt Mk. I#With Double Cargo Stacking]].
 
 #### With Double Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. II* with *Double Cargo Stacking* (1,440 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
-
-Equivalent to [[#Datasheet#Conveyor Belt Mk. I#With Quadruple Cargo Stacking]].
+	Equivalent to [[#Datasheet#Conveyor Belt Mk. I#With Quadruple Cargo Stacking]].
 
 #### With Triple Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. II* with *Triple Cargo Stacking* (2,160 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 2160 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -215,7 +203,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. II* with *Trip
 
 #### With Quadruple Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* with *Quadruple Cargo Stacking* (2,880 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 2880 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -276,7 +264,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. I* with *Quadr
 
 #### Base Transport Volume
 
-Total number of nodes required to fully saturate *Convey belt Mk. III* (1,800 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 1800 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -322,7 +310,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. III* (1,800 it
 
 #### With Double Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* with *Double Cargo Stacking* (3,600 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 3600 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -389,7 +377,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. I* with *Doubl
 
 #### With Triple Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* with *Triple Cargo Stacking* (5,400 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 5400 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
@@ -471,7 +459,7 @@ Total number of nodes required to fully saturate *Convey belt Mk. I* with *Tripl
 
 #### With Quadruple Cargo Stacking
 
-Total number of nodes required to fully saturate *Convey belt Mk. I* with *Quadruple Cargo Stacking* (7,200 items per minute) using *Mining Machines* and *Advanced Mining Machines*.
+Number of nodes required to saturate transport volume of 7200 items per minute at different Vein Utilization levels.
 
 | Vein Utilization Level | Mining Machine | Advanced Mining Machine |
 | ---------------------- | -------------- | ----------------------- |
