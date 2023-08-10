@@ -2,6 +2,8 @@
 
 ## Recipe
 
+**Cycle time**: 60 cycles per minute
+
 **Material**
 
 | Item       | Quantity |

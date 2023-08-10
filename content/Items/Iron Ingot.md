@@ -2,6 +2,8 @@
 
 ## Recipe
 
+**Cycle time**: 60 cycles per minute
+
 **Material**
 
 | Item     | Quantity |
@@ -20,6 +22,12 @@
 
 > [!important] Production target
 > 360 items per minute
+
+Baseline:
+
+$$
+360\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Arc Smelter}}{60\ \text{items}\cdot\text{minute}^{-1}} = 6\ \text{Arc Smelter}
+$$
 
 **Number of facilities**
 
@@ -50,6 +58,12 @@
 > [!important] Production target
 > 720 items per minute
 
+Baseline:
+
+$$
+720\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Arc Smelter}}{60\ \text{items}\cdot\text{minute}^{-1}} = 12\ \text{Arc Smelter}
+$$
+
 **Number of facilities**
 
 | Mode             | Proliferator | Number of Facilities Required |
@@ -77,7 +91,13 @@
 ### Conveyor Belt Mk. III + Arc Smelter
 
 > [!important] Production target
-> 1800 per minute
+> 1800 items per minute
+
+Baseline:
+
+$$
+1800\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Arc Smelter}}{60\ \text{items}\cdot\text{minute}^{-1}} = 30\ \text{Arc Smelter}
+$$
 
 **Number of facilities**
 
@@ -106,7 +126,13 @@
 ### Conveyor Belt Mk. III + Plane Smelter
 
 > [!important] Production target
-> 1800 per minute
+> 1800 items per minute
+
+Baseline:
+
+$$
+1800\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Plane Smelter}}{120\ \text{items}\cdot\text{minute}^{-1}} = 15\ \text{Plane Smelter}
+$$
 
 **Number of facilities**
 
