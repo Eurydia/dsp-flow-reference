@@ -23,12 +23,6 @@
 > [!important] Production target
 > 360 items per minute
 
-Baseline:
-
-$$
-360\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Arc Smelter}}{40\ \text{items}\cdot\text{minute}^{-1}} = 9\ \text{Arc Smelter}
-$$
-
 **Number of facilities**
 
 | Mode             | Proliferator | Number of Facilities Required |
@@ -49,20 +43,11 @@ $$
 | Extra Products   | Mk. I        | 320      |
 |                  | Mk. II       | 300      |
 |                  | Mk. III      | 288      |
-| Production Speed | Mk. I        | 360      |
-|                  | Mk. II       | 360      |
-|                  | Mk. III      | 360      |
 
 ### Conveyor Belt Mk. II + Arc Smelter
 
 > [!important] Production target
 > 720 items per minute
-
-Baseline:
-
-$$
-720\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Arc Smelter}}{40\ \text{items}\cdot\text{minute}^{-1}} = 18\ \text{Arc Smelter}
-$$
 
 **Number of facilities**
 
@@ -84,55 +69,37 @@ $$
 | Extra Products   | Mk. I        | 640      |
 |                  | Mk. II       | 600      |
 |                  | Mk. III      | 576      |
-| Production Speed | Mk. I        | 720      |
-|                  | Mk. II       | 720      |
-|                  | Mk. III      | 720      |
 
 ### Conveyor Belt Mk. III + Arc Smelter
 
 > [!important] Production target
 > 1800 items per minute
 
-Baseline:
-
-$$
-1800\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Arc Smelter}}{40\ \text{items}\cdot\text{minute}^{-1}} = 45\ \text{Arc Smelter}
-$$
-
 **Number of facilities**
 
 | Mode             | Proliferator | Number of Facilities Required |
 | ---------------- | ------------ | ----------------------------- |
 |                  | None         | 45                            |
-| Extra Products   | Mk. I        | 42.67                         |
-|                  | Mk. II       | 40                            |
-|                  | Mk. III      | 38.4                          |
-| Production Speed | Mk. I        | 38.4                          |
-|                  | Mk. II       | 32                            |
-|                  | Mk. III      | 24                            |
+| Extra Products   | Mk. I        | 40                            |
+|                  | Mk. II       | 37.5                          |
+|                  | Mk. III      | 36                            |
+| Production Speed | Mk. I        | 36                            |
+|                  | Mk. II       | 30                            |
+|                  | Mk. III      | 22.5                          |
 
 **Material consumption** (items per minute)
 
-| Mode             | Proliferator | Iron Ore |
-| ---------------- | ------------ | -------- |
-|                  | None         | 1800     |
-| Extra Products   | Mk. I        | 1706.8   |
-|                  | Mk. II       | 1600     |
-|                  | Mk. III      | 1536     |
-| Production Speed | Mk. I        | 1800     |
-|                  | Mk. II       | 1800     |
-|                  | Mk. III      | 1800     |
+| Mode           | Proliferator | Iron Ore |
+| -------------- | ------------ | -------- |
+|                | None         | 1800     |
+| Extra Products | Mk. I        | 1600     |
+|                | Mk. II       | 1500     |
+|                | Mk. III      | 1440     |
 
 ### Conveyor Belt Mk. III + Plane Smelter
 
 > [!important] Production target
 > 1800 items per minute
-
-Baseline:
-
-$$
-1800\ \text{items}\cdot\text{minute}^{-1}\cdot\frac{1\ \text{Plane Smelter}}{80\ \text{items}\cdot\text{minute}^{-1}} = 22.5\ \text{Plane Smelter}
-$$
 
 **Number of facilities**
 
@@ -154,6 +121,3 @@ $$
 | Extra Products   | Mk. I        | 1600     |
 |                  | Mk. II       | 1500     |
 |                  | Mk. III      | 1440     |
-| Production Speed | Mk. I        | 1800     |
-|                  | Mk. II       | 1800     |
-|                  | Mk. III      | 1800     |
