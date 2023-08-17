@@ -16,12 +16,23 @@
 | ---------- | -------- |
 | Iron Ingot | 1        | 
 
-## Scenarios
+## Blueprints
 
-### Conveyor Belt Mk. I + Arc Smelter
+### Early game
 
-> [!important] Production target
-> 360 items per minute
+
+
+**Specifications**
+
+Facilities:
+- 6 Arc Smelter
+
+Consumption:
+ - 360 Iron Ore per minute
+
+Production:
+- 360 Iron Ingot per minute 
+
 
 **Number of facilities**
 
