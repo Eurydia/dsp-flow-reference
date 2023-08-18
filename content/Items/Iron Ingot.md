@@ -18,114 +18,101 @@
 
 ## Blueprints
 
-### Early game
+These blueprints also work with production of 
+- [[Copper Ingot]]
+- [[Stone Brick]]
 
+### Arc Smelter + Conveyor Belt Mk. I
 
+**Blueprint**
+
+[[001.txt]]
 
 **Specifications**
 
 Facilities:
-- 6 Arc Smelter
+- 6 Arc Smelters
 
 Consumption:
  - 360 Iron Ore per minute
 
 Production:
-- 360 Iron Ingot per minute 
+- 360 Iron Ingot per minute
+
+### Arc Smelter + Conveyor Belt Mk. I  + Extra Product Proliferator Mk. I
+
+**Blueprint**
+
+[[002.txt]]
+
+**Specifications**
+
+Facilities:
+- 6 Arc Smelters
+- 3 Spray Coater
+
+Consumption:
+ - 360 Iron Ore per minute
+ - 63.75 Proliferator Mk. I per minute
+
+Production:
+- 405 Iron Ingot per minute
 
 
-**Number of facilities**
+### Arc Smelter + Conveyor Belt Mk. II  + Extra Product Proliferator Mk. II
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 6                             |
-| Extra Products   | Mk. I        | 5.33                          |
-|                  | Mk. II       | 5                             |
-|                  | Mk. III      | 4.8                           |
-| Production Speed | Mk. I        | 4.8                           |
-|                  | Mk. II       | 4                             |
-|                  | Mk. III      | 3                             |
+**Blueprint**
 
-**Material consumption** (items per minute)
+[[003.txt]]
 
-| Mode           | Proliferator | Iron Ore |
-| -------------- | ------------ | -------- |
-|                | None         | 360      |
-| Extra Products | Mk. I        | 320      |
-|                | Mk. II       | 300      |
-|                | Mk. III      | 288      |
+**Specifications**
 
-### Conveyor Belt Mk. II + Arc Smelter
+Facilities:
+- 12 Arc Smelters
+- 3 Spray Coater
 
-> [!important] Production target
-> 720 items per minute
+Consumption:
+ - 720 Iron Ore per minute
+ - 66 Proliferator Mk. II per minute
 
-**Number of facilities**
+Production:
+- 864 Iron Ingot per minute
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 12                            |
-| Extra Products   | Mk. I        | 10.67                         |
-|                  | Mk. II       | 10                            |
-|                  | Mk. III      | 9.6                           |
+### Arc Smelter + Conveyor Belt Mk. III  + Extra Product Proliferator Mk. III
 
-**Material consumption** (items per minute)
+**Blueprint**
 
-| Mode           | Proliferator | Iron Ore |
-| -------------- | ------------ | -------- |
-|                | None         | 720      |
-| Extra Products | Mk. I        | 640      |
-|                | Mk. II       | 600      |
-|                | Mk. III      | 576      |
+[[004.txt]]
 
-### Conveyor Belt Mk. III + Arc Smelter
+**Specifications**
 
-> [!important] Production target
-> 1800 items per minute
+Facilities:
+- 30 Arc Smelters
+- 3 Spray Coater
 
-**Number of facilities**
+Consumption:
+ - 1800 Iron Ore per minute
+ - 67.5 Proliferator Mk. II per minute
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 30                            |
-| Extra Products   | Mk. I        | 26.67                         |
-|                  | Mk. II       | 25                            |
-|                  | Mk. III      | 24                            |
-| Production Speed | Mk. I        | 24                            |
-|                  | Mk. II       | 20                            |
-|                  | Mk. III      | 15                            |
+Production:
+- 2250 Iron Ingot per minute
 
-**Material consumption** (items per minute)
 
-| Mode           | Proliferator | Iron Ore |
-| -------------- | ------------ | -------- |
-|                | None         | 1800     |
-| Extra Products | Mk. I        | 1600     |
-|                | Mk. II       | 1500     |
-|                | Mk. III      | 1440     |
+### Plane Smelter + Conveyor Belt Mk. III  + Extra Product Proliferator Mk. III
 
-### Conveyor Belt Mk. III + Plane Smelter
+**Blueprint**
 
-> [!important] Production target
-> 1800 items per minute
+[[005.txt]]
 
-**Number of facilities**
+**Specifications**
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 15                            |
-| Extra Products   | Mk. I        | 13.33                         |
-|                  | Mk. II       | 12.5                          |
-|                  | Mk. III      | 12                            |
-| Production Speed | Mk. I        | 12                            |
-|                  | Mk. II       | 10                            |
-|                  | Mk. III      | 7.5                           |
+Facilities:
+- 15 Plane Smelters
+- 3 Spray Coater
 
-**Material consumption** (items per minute)
+Consumption:
+ - 1800 Iron Ore per minute
+ - 67.5 Proliferator Mk. II per minute
 
-| Mode           | Proliferator | Iron Ore |
-| -------------- | ------------ | -------- |
-|                | None         | 1800     |
-| Extra Products | Mk. I        | 1600     |
-|                | Mk. II       | 1500     |
-|                | Mk. III      | 1440     |
+Production:
+- 2250 Iron Ingot per minute

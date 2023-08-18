@@ -18,4 +18,4 @@
 
 ## Scenarios
 
-This recipe shares the same scenarios as [[Iron Ingot]].
+This recipe shares the same blueprints as [[Iron Ingot]].
