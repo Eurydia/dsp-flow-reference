@@ -26,7 +26,7 @@ These blueprints also work with production of
 
 **Blueprint**
 
-[[001.txt]]
+[[Iron Ingot 01.txt]]
 
 **Specifications**
 
@@ -34,7 +34,7 @@ Facilities:
 - 6 Arc Smelters
 
 Consumption:
- - 360 Iron Ore per minute
+- 360 Iron Ore per minute
 
 Production:
 - 360 Iron Ingot per minute
@@ -43,17 +43,16 @@ Production:
 
 **Blueprint**
 
-[[002.txt]]
+[[Iron Ingot 02.txt]]
 
 **Specifications**
 
 Facilities:
 - 6 Arc Smelters
-- 3 Spray Coater
 
 Consumption:
- - 360 Iron Ore per minute
- - 63.75 Proliferator Mk. I per minute
+- 360 Iron Ore per minute
+- 63.75 Proliferator Mk. I per minute
 
 Production:
 - 405 Iron Ingot per minute
@@ -63,17 +62,16 @@ Production:
 
 **Blueprint**
 
-[[003.txt]]
+[[Iron Ingot 03.txt]]
 
 **Specifications**
 
 Facilities:
 - 12 Arc Smelters
-- 3 Spray Coater
 
 Consumption:
- - 720 Iron Ore per minute
- - 66 Proliferator Mk. II per minute
+- 720 Iron Ore per minute
+- 66 Proliferator Mk. II per minute
 
 Production:
 - 864 Iron Ingot per minute
@@ -82,17 +80,16 @@ Production:
 
 **Blueprint**
 
-[[004.txt]]
+[[Iron Ingot 04.txt]]
 
 **Specifications**
 
 Facilities:
 - 30 Arc Smelters
-- 3 Spray Coater
 
 Consumption:
- - 1800 Iron Ore per minute
- - 67.5 Proliferator Mk. II per minute
+- 1800 Iron Ore per minute
+- 67.5 Proliferator Mk. II per minute
 
 Production:
 - 2250 Iron Ingot per minute
@@ -102,17 +99,16 @@ Production:
 
 **Blueprint**
 
-[[005.txt]]
+[[Iron Ingot 05.txt]]
 
 **Specifications**
 
 Facilities:
 - 15 Plane Smelters
-- 3 Spray Coater
 
 Consumption:
- - 1800 Iron Ore per minute
- - 67.5 Proliferator Mk. II per minute
+- 1800 Iron Ore per minute
+- 67.5 Proliferator Mk. II per minute
 
 Production:
 - 2250 Iron Ingot per minute

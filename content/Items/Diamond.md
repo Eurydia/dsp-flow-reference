@@ -16,108 +16,78 @@
 | ------- | -------- |
 | Diamond | 1        |
 
-## Scenarios
+## Blueprints
 
-### Conveyor Belt Mk. I + Arc Smelter
+These blueprints also work with production of 
+- [[Crystal Silicon]]
 
-> [!important] Production target
-> 360 items per minute
+### Arc Smelter + Conveyor Belt Mk. I
 
-**Number of facilities**
+**Blueprint**
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 12                            |
-| Extra Products   | Mk. I        | 10.67                         |
-|                  | Mk. II       | 10                            |
-|                  | Mk. III      | 9.6                           |
-| Production Speed | Mk. I        | 9.6                           |
-|                  | Mk. II       | 8                             |
-|                  | Mk. III      | 6                             |
+[[Diamond 01.txt]]
 
-**Material consumption** (items per minute)
+**Specifications**
 
-| Mode           | Proliferator | Energetic Graphite |
-| -------------- | ------------ | ------------------ |
-|                | None         | 360                |
-| Extra Products | Mk. I        | 320                |
-|                | Mk. II       | 300                |
-|                | Mk. III      | 288                |
+Facilities:
+- 12 Arc Smelters
 
-### Conveyor Belt Mk. II + Arc Smelter
+Consumption:
+- 360 Energetic Graphite per minute
 
-> [!important] Production target
-> 720 items per minute
+Production:
+- 360 Diamond per minute
 
-**Number of facilities**
+### Arc Smelter + Conveyor Belt Mk. I + Extra Product Proliferator Mk. I
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 24                            |
-| Extra Products   | Mk. I        | 21.33                         |
-|                  | Mk. II       | 20                            |
-|                  | Mk. III      | 19.2                          |
-| Production Speed | Mk. I        | 19.2                          |
-|                  | Mk. II       | 16                            |
-|                  | Mk. III      | 12                            |
+**Blueprint**
 
-**Material consumption** (items per minute)
+[[Diamond 02.txt]]
 
-| Mode           | Proliferator | Energetic Graphite |
-| -------------- | ------------ | ------------------ |
-|                | None         | 720                |
-| Extra Products | Mk. I        | 640                |
-|                | Mk. II       | 600                |
-|                | Mk. III      | 576                |
+**Specifications**
 
-### Conveyor Belt Mk. III + Arc Smelter
+Facilities:
+- 12 Arc Smelters
 
-> [!important] Production target
-> 1800 items per minute
+Consumption:
+- 360 Energetic Graphite per minute
+- 63.75 Proliferator Mk. I per minute
 
-**Number of facilities**
+Production:
+- 405 Diamond per minute
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 60                            |
-| Extra Products   | Mk. I        | 53.33                         |
-|                  | Mk. II       | 50                            |
-|                  | Mk. III      | 48                            |
-| Production Speed | Mk. I        | 48                            |
-|                  | Mk. II       | 40                            |
-|                  | Mk. III      | 30                            |
+### Arc Smelter + Conveyor Belt Mk. II + Extra Product Proliferator Mk. II
 
-**Material consumption** (items per minute)
+**Blueprint**
 
-| Mode           | Proliferator | Energetic Graphite |
-| -------------- | ------------ | ------------------ |
-|                | None         | 1800               |
-| Extra Products | Mk. I        | 1600               |
-|                | Mk. II       | 1500               |
-|                | Mk. III      | 1440               |
+[[Diamond 03.txt]]
 
-### Conveyor Belt Mk. III + Plane Smelter
+**Specifications**
 
-> [!important] Production target
-> 1800 items per minute
+Facilities:
+- 24 Arc Smelters
 
-**Number of facilities**
+Consumption:
+- 720 Energetic Graphite per minute
+- 66 Proliferator Mk. I per minute
 
-| Mode             | Proliferator | Number of Facilities Required |
-| ---------------- | ------------ | ----------------------------- |
-|                  | None         | 30                            |
-| Extra Products   | Mk. I        | 26.67                         |
-|                  | Mk. II       | 25                            |
-|                  | Mk. III      | 24                            |
-| Production Speed | Mk. I        | 24                            |
-|                  | Mk. II       | 20                            |
-|                  | Mk. III      | 15                            |
+Production:
+- 864 Diamond per minute
 
-**Material consumption** (items per minute)
+### Arc Smelter + Conveyor Belt Mk. III + Extra Product Proliferator Mk. III
 
-| Mode           | Proliferator | Energetic Graphite |
-| -------------- | ------------ | ------------------ |
-|                | None         | 1800               |
-| Extra Products | Mk. I        | 1600               |
-|                | Mk. II       | 1500               |
-|                | Mk. III      | 1440               |
+**Blueprint**
+
+[[Diamond 04.txt]]
+
+**Specifications**
+
+Facilities:
+- 60 Arc Smelters
+
+Consumption:
+- 1800 Energetic Graphite per minute
+- 67.5 Proliferator Mk. I per minute
+
+Production:
+- 2250 Diamond per minute
