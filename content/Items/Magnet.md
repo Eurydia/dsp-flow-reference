@@ -84,7 +84,7 @@ Facilities:
 
 Consumption:
 - 1800 Iron Ore per minute
-- 67.5 Proliferator Mk. II per minute
+- 67.5 Proliferator Mk. IiI per minute
 
 Production:
 - 2250 Magnet per minute
@@ -93,17 +93,17 @@ Production:
 
 **Blueprint**
 
-[[Magnet 04.txt]]
+[[Magnet 05.txt]]
 
 **Specifications**
 
 Facilities:
-- 45 Arc Smelters
+- 22 Plane Smelters
 
 Consumption:
-- 1800 Iron Ore per minute
-- 67.5 Proliferator Mk. II per minute
+- 1760 Iron Ore per minute
+- 66 Proliferator Mk. III per minute
 
 Production:
-- 2250 Magnet per minute
+- 2200 Magnet per minute
 

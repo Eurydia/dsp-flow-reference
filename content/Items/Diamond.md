@@ -69,7 +69,7 @@ Facilities:
 
 Consumption:
 - 720 Energetic Graphite per minute
-- 66 Proliferator Mk. I per minute
+- 66 Proliferator Mk. II per minute
 
 Production:
 - 864 Diamond per minute
@@ -87,7 +87,26 @@ Facilities:
 
 Consumption:
 - 1800 Energetic Graphite per minute
-- 67.5 Proliferator Mk. I per minute
+- 67.5 Proliferator Mk. III per minute
+
+Production:
+- 2250 Diamond per minute
+
+
+### Plane Smelter + Conveyor Belt Mk. III + Extra Product Proliferator Mk. III
+
+**Blueprint**
+
+[[Diamond 05.txt]]
+
+**Specifications**
+
+Facilities:
+- 30 Plane Smelters
+
+Consumption:
+- 1800 Energetic Graphite per minute
+- 67.5 Proliferator Mk. III per minute
 
 Production:
 - 2250 Diamond per minute

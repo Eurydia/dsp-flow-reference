@@ -30,16 +30,19 @@ These blueprints also work with production of
 
 **Specifications**
 
-Facilities:
-- 6 Arc Smelters
+Consumption
 
-Consumption:
-- 360 Iron Ore per minute
+|          | Consumption per minute |
+| -------- | ---------------------- |
+| Iron Ore | 360                    |
 
-Production:
-- 360 Iron Ingot per minute
+Production
 
-### Arc Smelter + Conveyor Belt Mk. I  + Extra Product Proliferator Mk. I
+|            | Production per minute |
+| ---------- | --------------------- |
+| Iron Ingot | 360                   |
+
+### Arc Smelter + Conveyor Belt Mk. I + Proliferator Mk. I
 
 **Blueprint**
 
@@ -47,16 +50,24 @@ Production:
 
 **Specifications**
 
-Facilities:
-- 6 Arc Smelters
+- 
+- Coats input and output belts
+- Proliferator mode set to Extra Products
+- One line of belt as input
+- Two lines of belt as output
 
-Consumption:
-- 360 Iron Ore per minute
-- 63.75 Proliferator Mk. I per minute
+Consumption
 
-Production:
-- 405 Iron Ingot per minute
+|                    | Consumption per minute |
+| ------------------ | ---------------------- |
+| Iron Ore           | 360                    |
+| Proliferator Mk. I | 63.75 / 56.67          |
 
+Production
+
+|            | Production per minute |
+| ---------- | --------------------- |
+| Iron Ingot | 405                   |
 
 ### Arc Smelter + Conveyor Belt Mk. II  + Extra Product Proliferator Mk. II
 
@@ -66,15 +77,18 @@ Production:
 
 **Specifications**
 
-Facilities:
-- 12 Arc Smelters
+Consumption
 
-Consumption:
-- 720 Iron Ore per minute
-- 66 Proliferator Mk. II per minute
+|                     | Consumption per minute |
+| ------------------- | ---------------------- |
+| Iron Ore            | 720                    |
+| Proliferator Mk. II | 66                     |
 
-Production:
-- 864 Iron Ingot per minute
+Production
+
+|            | Production per minute |
+| ---------- | --------------------- |
+| Iron Ingot | 864                   |
 
 ### Arc Smelter + Conveyor Belt Mk. III  + Extra Product Proliferator Mk. III
 
@@ -84,16 +98,18 @@ Production:
 
 **Specifications**
 
-Facilities:
-- 30 Arc Smelters
+Consumption
 
-Consumption:
-- 1800 Iron Ore per minute
-- 67.5 Proliferator Mk. II per minute
+|                     | Consumption per minute |
+| ------------------- | ---------------------- |
+| Iron Ore            | 1800                   |
+| Proliferator Mk. II | 67.5                   |
 
-Production:
-- 2250 Iron Ingot per minute
+Production
 
+|            | Production per minute |
+| ---------- | --------------------- |
+| Iron Ingot | 2250                  |
 
 ### Plane Smelter + Conveyor Belt Mk. III  + Extra Product Proliferator Mk. III
 
@@ -103,12 +119,4 @@ Production:
 
 **Specifications**
 
-Facilities:
-- 15 Plane Smelters
-
-Consumption:
-- 1800 Iron Ore per minute
-- 67.5 Proliferator Mk. II per minute
-
-Production:
-- 2250 Iron Ingot per minute
+Same  as [[#Arc Smelter + Conveyor Belt Mk. III + Extra Product Proliferator Mk. III]].
