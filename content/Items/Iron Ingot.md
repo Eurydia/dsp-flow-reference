@@ -1,122 +1,85 @@
 # Iron Ingot
 
-## Recipe
-
-**Cycle time**: 60 cycles per minute
-
-**Material**
-
-| Item     | Quantity |
-| -------- | -------- |
-| Iron Ore | 1        |
-
-**Product**
-
-| Item       | Quantity |
-| ---------- | -------- |
-| Iron Ingot | 1        | 
-
-## Blueprints
-
 These blueprints also work with production of 
-- [[Copper Ingot]]
-- [[Stone Brick]]
+- **Copper Ingot**
+- **Stone Brick**
 
-### Arc Smelter + Conveyor Belt Mk. I
+## Input-Oriented Blueprints
 
-**Blueprint**
+### Iron Ingot I
 
-[[Iron Ingot 01.txt]]
+> [!note] Blueprint
+> [[Iron Ingot 01.txt]]
 
-**Specifications**
+- **Facilities**
+	- Conveyor Belt Mk. I
+	- Arc Smelter
+	- Sorter Mk. I
+- **Consumption** (per minute)
+	- 360x Iron Ore
+- **Production** (per minute)
+	- 360x Iron Ingot 
 
-Consumption
+### Iron Ingot II
 
-|          | Consumption per minute |
-| -------- | ---------------------- |
-| Iron Ore | 360                    |
+> [!note] Blueprint
+> [[Iron Ingot 02.txt]]
 
-Production
+- **Facilities**
+	- Conveyor Belt Mk. I
+	- Arc Smelter
+	- Sorter Mk. I
+	- Spray Coater
+- **Consumption** (per minute)
+	- 360 Iron Ore
+	- 63.75 Proliferator Mk. I
+- **Production** (per minute)
+	- 405 Iron Ingot
 
-|            | Production per minute |
-| ---------- | --------------------- |
-| Iron Ingot | 360                   |
+### Iron Ingot III
 
-### Arc Smelter + Conveyor Belt Mk. I + Proliferator Mk. I
+> [!note] Blueprint
+> [[Iron Ingot 03.txt]]
 
-**Blueprint**
+- **Facilities**
+	- Conveyor Belt Mk. II
+	- Arc Smelter
+	- Sorter Mk. II
+	- Spray Coater
+- **Consumption** (per minute)
+	- 720 Iron Ore
+	- 66 Proliferator Mk. II
+- **Production** (per minute)
+	- 864 Iron Ingot
 
-[[Iron Ingot 02.txt]]
+### Iron Ingot IV
 
-**Specifications**
+> [!note] Blueprint
+> [[Iron Ingot 04.txt]]
 
-- 
-- Coats input and output belts
-- Proliferator mode set to Extra Products
-- One line of belt as input
-- Two lines of belt as output
+- **Facilities**
+	- Conveyor Belt Mk. III
+	- Arc Smelter
+	- Sorter Mk. III
+	- Spray Coater
+- **Consumption** (per minute)
+	- 1800 Iron Ore
+	- 67.5 Proliferator Mk. III
+- **Production** (per minute)
+	- 2250 Iron Ingot
 
-Consumption
+### Iron Ingot V
 
-|                    | Consumption per minute |
-| ------------------ | ---------------------- |
-| Iron Ore           | 360                    |
-| Proliferator Mk. I | 63.75 / 56.67          |
+> [!note] Blueprint
+> [[Iron Ingot 05.txt]]
 
-Production
-
-|            | Production per minute |
-| ---------- | --------------------- |
-| Iron Ingot | 405                   |
-
-### Arc Smelter + Conveyor Belt Mk. II  + Extra Product Proliferator Mk. II
-
-**Blueprint**
-
-[[Iron Ingot 03.txt]]
-
-**Specifications**
-
-Consumption
-
-|                     | Consumption per minute |
-| ------------------- | ---------------------- |
-| Iron Ore            | 720                    |
-| Proliferator Mk. II | 66                     |
-
-Production
-
-|            | Production per minute |
-| ---------- | --------------------- |
-| Iron Ingot | 864                   |
-
-### Arc Smelter + Conveyor Belt Mk. III  + Extra Product Proliferator Mk. III
-
-**Blueprint**
-
-[[Iron Ingot 04.txt]]
-
-**Specifications**
-
-Consumption
-
-|                     | Consumption per minute |
-| ------------------- | ---------------------- |
-| Iron Ore            | 1800                   |
-| Proliferator Mk. II | 67.5                   |
-
-Production
-
-|            | Production per minute |
-| ---------- | --------------------- |
-| Iron Ingot | 2250                  |
-
-### Plane Smelter + Conveyor Belt Mk. III  + Extra Product Proliferator Mk. III
-
-**Blueprint**
-
-[[Iron Ingot 05.txt]]
-
-**Specifications**
-
-Same  as [[#Arc Smelter + Conveyor Belt Mk. III + Extra Product Proliferator Mk. III]].
+- **Facilities**
+	- Conveyor Belt Mk. III
+	- Plane Smelter
+	- Sorter Mk. III
+	- Spray Coater
+- **Consumption** (per minute)
+	- 1800 Iron Ore
+	- 67.5 Proliferator Mk. III
+- **Production** (per minute)
+	- 2250 Iron Ingot
