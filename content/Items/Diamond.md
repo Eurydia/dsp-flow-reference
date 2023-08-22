@@ -1,112 +1,79 @@
 # Diamond
 
-## Recipe
-
-**Cycle time**: 30 cycles per minute
-
-**Material**
-
-| Item               | Quantity |
-| ------------------ | -------- |
-| Energetic Graphite | 1        |
-
-**Product**
-
-| Item    | Quantity |
-| ------- | -------- |
-| Diamond | 1        |
-
 ## Blueprints
 
 These blueprints also work with production of 
 - [[Crystal Silicon]]
 
-### Arc Smelter + Conveyor Belt Mk. I
+### Diamond 01
 
-**Blueprint**
+> [!note] Blueprint
+> [[Diamond 01.txt]]
 
-[[Diamond 01.txt]]
+- **Facilities**
+	- Arc Smelter
+	- Conveyor Belt Mk. I
+- **Consumption** (per minute)
+	- 360 Energetic Graphite
+- **Production** (per minute)
+	- 360 Diamond
 
-**Specifications**
+### Diamond 02
 
-Facilities:
-- 12 Arc Smelters
+> [!note] Blueprint
+> [[Diamond 02.txt]]
 
-Consumption:
-- 360 Energetic Graphite per minute
+- **Facilities:**
+	- Arc Smelter
+	- Conveyor Belt Mk. I
+	- Spray Coater
+- **Consumption** (per minute)
+	- 300 Energetic Graphite
+	- 53.125 unproliferated Proliferator Mk. I
+- **Production**
+	- 337.5 Diamond per minute
 
-Production:
-- 360 Diamond per minute
+### Diamond 03
 
-### Arc Smelter + Conveyor Belt Mk. I + Extra Product Proliferator Mk. I
+> [!note] Blueprint
+> [[Diamond 03.txt]]
 
-**Blueprint**
+- **Facilities**
+	- Arc Smelters
+	- Conveyor Belt Mk. II
+	- Spray Coater
+- **Consumption** (per minute)
+	- 600 Energetic Graphite
+	- 55 unproliferated Proliferator Mk. II
+- **Production**  (per minute)
+	- 720 Diamond
 
-[[Diamond 02.txt]]
+### Diamond 04
 
-**Specifications**
+> [!note] Blueprint
+> [[Diamond 04.txt]]
 
-Facilities:
-- 12 Arc Smelters
+- **Facilities**
+	- Arc Smelter
+	- Conveyor Belt Mk. III
+	- Spray Coater
+- **Consumption** (per minute)
+	- 1440 Energetic Graphite
+	- 54 unproliferated Proliferator Mk. III
+- **Production** (per minute)
+	- 1800 Diamond 
 
-Consumption:
-- 360 Energetic Graphite per minute
-- 63.75 Proliferator Mk. I per minute
+### Diamond 05
 
-Production:
-- 405 Diamond per minute
+> [!note] Blueprint
+> [[Diamond 05.txt]]
 
-### Arc Smelter + Conveyor Belt Mk. II + Extra Product Proliferator Mk. II
-
-**Blueprint**
-
-[[Diamond 03.txt]]
-
-**Specifications**
-
-Facilities:
-- 24 Arc Smelters
-
-Consumption:
-- 720 Energetic Graphite per minute
-- 66 Proliferator Mk. II per minute
-
-Production:
-- 864 Diamond per minute
-
-### Arc Smelter + Conveyor Belt Mk. III + Extra Product Proliferator Mk. III
-
-**Blueprint**
-
-[[Diamond 04.txt]]
-
-**Specifications**
-
-Facilities:
-- 60 Arc Smelters
-
-Consumption:
-- 1800 Energetic Graphite per minute
-- 67.5 Proliferator Mk. III per minute
-
-Production:
-- 2250 Diamond per minute
-
-
-### Plane Smelter + Conveyor Belt Mk. III + Extra Product Proliferator Mk. III
-
-**Blueprint**
-
-[[Diamond 05.txt]]
-
-**Specifications**
-
-Facilities:
-- 30 Plane Smelters
-
-Consumption:
-- 1800 Energetic Graphite per minute
-- 67.5 Proliferator Mk. III per minute
-
-Production:
-- 2250 Diamond per minute
+- **Facilities**
+	- Plane Smelter
+	- Conveyor Belt Mk. III
+	- Spray Coater
+- **Consumption** (per minute)
+	- 1440 Energetic Graphite
+	- 54 unproliferated Proliferator Mk. III
+- **Production** (per minute)
+	- 1800 Diamond

@@ -1,85 +1,80 @@
 # Iron Ingot
 
+## Blueprints
+
 These blueprints also work with production of 
-- **Copper Ingot**
-- **Stone Brick**
+- [[Copper Ingot]]
+- [[Stone Brick]]
 
-## Input-Oriented Blueprints
-
-### Iron Ingot I
+### Iron Ingot 01
 
 > [!note] Blueprint
 > [[Iron Ingot 01.txt]]
 
 - **Facilities**
-	- Conveyor Belt Mk. I
 	- Arc Smelter
-	- Sorter Mk. I
+	- Conveyor Belt Mk. I
 - **Consumption** (per minute)
-	- 360x Iron Ore
+	- 360 Iron Ore
 - **Production** (per minute)
-	- 360x Iron Ingot 
+	- 360 Iron Ingot 
 
-### Iron Ingot II
+### Iron Ingot 02
 
 > [!note] Blueprint
 > [[Iron Ingot 02.txt]]
 
 - **Facilities**
-	- Conveyor Belt Mk. I
 	- Arc Smelter
-	- Sorter Mk. I
+	- Conveyor Belt Mk. I
 	- Spray Coater
 - **Consumption** (per minute)
-	- 360 Iron Ore
-	- 63.75 Proliferator Mk. I
+	- 300 Iron Ore
+	- 53.125 unproliferated Proliferator Mk. I
 - **Production** (per minute)
-	- 405 Iron Ingot
+	- 337.5 Iron Ingot
 
-### Iron Ingot III
+### Iron Ingot 03
 
 > [!note] Blueprint
 > [[Iron Ingot 03.txt]]
 
 - **Facilities**
-	- Conveyor Belt Mk. II
 	- Arc Smelter
-	- Sorter Mk. II
+	- Conveyor Belt Mk. II
 	- Spray Coater
 - **Consumption** (per minute)
-	- 720 Iron Ore
-	- 66 Proliferator Mk. II
+	- 600 Iron Ore
+	- 55 unproliferated Proliferator Mk. II
 - **Production** (per minute)
-	- 864 Iron Ingot
+	- 720 Iron Ingot
 
-### Iron Ingot IV
+### Iron Ingot 04
 
 > [!note] Blueprint
 > [[Iron Ingot 04.txt]]
 
 - **Facilities**
-	- Conveyor Belt Mk. III
 	- Arc Smelter
-	- Sorter Mk. III
+	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 1800 Iron Ore
-	- 67.5 Proliferator Mk. III
+	- 1440 Iron Ore
+	- 54 unproliferated Proliferator Mk. III
 - **Production** (per minute)
-	- 2250 Iron Ingot
+	- 1800 Iron Ingot
 
-### Iron Ingot V
+### Iron Ingot 05
 
 > [!note] Blueprint
 > [[Iron Ingot 05.txt]]
 
 - **Facilities**
-	- Conveyor Belt Mk. III
 	- Plane Smelter
-	- Sorter Mk. III
+	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 1800 Iron Ore
-	- 67.5 Proliferator Mk. III
+	- 1440 Iron Ore
+	- 54 unproliferated Proliferator Mk. III
 - **Production** (per minute)
-	- 2250 Iron Ingot
+	- 1800 Iron Ingot

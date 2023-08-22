@@ -1,109 +1,76 @@
 # Magnet
 
-## Recipe
-
-**Cycle time**: 40 cycles per minute
-
-**Material**
-
-| Item     | Quantity |
-| -------- | -------- |
-| Iron Ore | 1        |
-
-**Product**
-
-| Item   | Quantity |
-| ------ | -------- |
-| Magnet | 1        |
-
 ## Blueprints
 
-### Arc Smelter + Conveyor Belt Mk. I
+### Magnet 01
 
-**Blueprint**
+> [!note] Blueprint
+> [[Magnet 01.txt]]
 
-[[Magnet 01.txt]]
+- **Facilities**
+	- Arc Smelter
+	- Conveyor Belt Mk. I
+- **Consumption** (per minute)
+	- 360 Iron Ore
+- **Production** (per minute)
+	- 360 Magnet
 
-**Specifications**
+### Magnet 02
 
-Facilities:
-- 9 Arc Smelters
+> [!note] Blueprint
+> [[Iron Ingot 02.txt]]
 
-Consumption:
-- 360 Iron Ore per minute
+- **Facilities**
+	- Arc Smelter
+	- Conveyor Belt Mk. I
+	- Spray Coater
+- **Consumption** (per minute)
+	- 320 Iron Ore
+	- 56.67 unproliferated Proliferator Mk. I
+- **Production** (per minute)
+	- 360 Magnet
 
-Production:
-- 360 Magnet per minute
+d### Magnet 03
 
-### Arc Smelter + Conveyor Belt Mk. I + Extra Product Mk. I
+> [!note] Blueprint
+> [[Magnet 03.txt]]
 
-**Blueprint**
+- **Facilities**
+	- Arc Smelter
+	- Conveyor Belt Mk. II
+	- Spray Coater
+- **Consumption** (per minute)
+	- 600 Iron Ore
+	- 55 unproliferated Proliferator Mk. II
+- **Production** (per minute)
+	- 720 Magnet
 
-[[Magnet 02.txt]]
+### Magnet 04
 
-**Specifications**
+> [!note] Blueprint
+> [[Magnet 04.txt]]
 
-Facilities:
-- 9 Arc Smelters
+- **Facilities**
+	- Arc Smelter
+	- Conveyor Belt Mk. III
+	- Spray Coater
+- **Consumption** (per minute)
+	- 1440 Iron Ore
+	- 54 unproliferated Proliferator Mk. III
+- **Production** (per minute)
+	- 1800 Magnet
 
-Consumption:
-- 360 Iron Ore per minute
-- 63.75 Proliferator Mk. I per minute
+### Magnet 05
 
-Production:
-- 405 Magnet per minute
+> [!note] Blueprint
+> [[Magnet 05.txt]]
 
-### Arc Smelter + Conveyor Belt Mk. II + Extra Product Mk. II
-
-**Blueprint**
-
-[[Magnet 03.txt]]
-
-**Specifications**
-
-Facilities:
-- 18 Arc Smelters
-
-Consumption:
-- 720 Iron Ore per minute
-- 66 Proliferator Mk. II per minute
-
-Production:
-- 864 Magnet per minute
-
-### Arc Smelter + Conveyor Belt Mk. III + Extra Product Mk. III
-
-**Blueprint**
-
-[[Magnet 04.txt]]
-
-**Specifications**
-
-Facilities:
-- 45 Arc Smelters
-
-Consumption:
-- 1800 Iron Ore per minute
-- 67.5 Proliferator Mk. IiI per minute
-
-Production:
-- 2250 Magnet per minute
-
-### Plane Smelter + Conveyor Belt Mk. III + Extra Product Mk. III
-
-**Blueprint**
-
-[[Magnet 05.txt]]
-
-**Specifications**
-
-Facilities:
-- 22 Plane Smelters
-
-Consumption:
-- 1760 Iron Ore per minute
-- 66 Proliferator Mk. III per minute
-
-Production:
-- 2200 Magnet per minute
-
+- **Facilities**
+	- Plane Smelter
+	- Conveyor Belt Mk. III
+	- Spray Coater
+- **Consumption** (per minute)
+	- 1440 Iron Ore
+	- 54 unproliferated Proliferator Mk. III
+- **Production** (per minute)
+	- 1800 Magnet
