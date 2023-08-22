@@ -1,3 +1,3 @@
 # Crystal Silicon
 
-See [[Diamond]].
+See [[Items/Diamond|Diamond]].

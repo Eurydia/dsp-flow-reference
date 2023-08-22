@@ -18,8 +18,8 @@ Group 3
 - [x] Diamond
 
 Others:
-- [ ] Diamond (Advanced) (Smelting)
+- [x] Diamond (Advanced) (Smelting)
 - [x] Magnet
-- [ ] Steel
+- [x] Steel
 - [ ] Titanium Alloy
 - [ ] Silicon Ore

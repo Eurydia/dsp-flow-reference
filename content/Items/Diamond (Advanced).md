@@ -1,16 +1,16 @@
-# Diamond (Advanced)
+# Diamond (advanced)
 
-As this recipe consumes rare resource, it will not have early game blueprints.
+This recipe does not have early game blueprints.
 
 ## Blueprints
 
-### Diamond (Advanced) 04
+### 04
 
 > [!note] Blueprint
-> [[Blueprint Books/Diamond (Advanced)/04.txt]]
+> [[Blueprint Books/Diamond (advanced)/04.txt]]
 
 - **Facilities**
-	- Arc Smelter
+	- 18 Arc Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
@@ -19,13 +19,13 @@ As this recipe consumes rare resource, it will not have early game blueprints.
 - **Production** (per minute)
 	- 1800 Diamond
 
-### Diamond (Advanced) 05
+### 05
 
 > [!note] Blueprint
-> [[Blueprint Books/Diamond (Advanced)/05.txt]]
+> [[Blueprint Books/Diamond (advanced)/05.txt]]
 
 - **Facilities**
-	- Plane Smelter
+	- 9 Plane Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)

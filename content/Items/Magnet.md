@@ -2,26 +2,26 @@
 
 ## Blueprints
 
-### Magnet 01
+### 01
 
 > [!note] Blueprint
-> [[Blueprint Books/Magnet/01.txt|01]]
+> [[Blueprint Books/Magnet/01.txt]]
 
 - **Facilities**
-	- Arc Smelter
+	- 9 Arc Smelter
 	- Conveyor Belt Mk. I
 - **Consumption** (per minute)
 	- 360 Iron Ore
 - **Production** (per minute)
 	- 360 Magnet
 
-### Magnet 02
+### 02
 
 > [!note] Blueprint
-> [[Blueprint Books/Iron Ingot/02.txt]]
+> [[Blueprint Books/Magnet/02.txt]]
 
 - **Facilities**
-	- Arc Smelter
+	- 8 Arc Smelter
 	- Conveyor Belt Mk. I
 	- Spray Coater
 - **Consumption** (per minute)
@@ -30,13 +30,13 @@
 - **Production** (per minute)
 	- 360 Magnet
 
-### Magnet 03
+### 03
 
 > [!note] Blueprint
 > [[Blueprint Books/Magnet/03.txt]]
 
 - **Facilities**
-	- Arc Smelter
+	- 15 Arc Smelter
 	- Conveyor Belt Mk. II
 	- Spray Coater
 - **Consumption** (per minute)
@@ -45,13 +45,13 @@
 - **Production** (per minute)
 	- 720 Magnet
 
-### Magnet 04
+### 04
 
 > [!note] Blueprint
 > [[Blueprint Books/Magnet/04.txt]]
 
 - **Facilities**
-	- Arc Smelter
+	- 36 Arc Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
@@ -60,17 +60,17 @@
 - **Production** (per minute)
 	- 1800 Magnet
 
-### Magnet 05
+### 05
 
 > [!note] Blueprint
 > [[Blueprint Books/Magnet/05.txt]]
 
 - **Facilities**
-	- Plane Smelter
+	- 18 Plane Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
 	- 1440 Iron Ore
-	- 54 unproliferated Proliferator Mk. III
+	- 54 Proliferator Mk. III
 - **Production** (per minute)
 	- 1800 Magnet
