@@ -8,7 +8,7 @@ These blueprints also work with production of
 ### Diamond 01
 
 > [!note] Blueprint
-> [[Diamond 01.txt]]
+> [[Blueprint Books/Diamond/01.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -21,7 +21,7 @@ These blueprints also work with production of
 ### Diamond 02
 
 > [!note] Blueprint
-> [[Diamond 02.txt]]
+> [[Blueprint Books/Diamond/02.txt]]
 
 - **Facilities:**
 	- Arc Smelter
@@ -36,7 +36,7 @@ These blueprints also work with production of
 ### Diamond 03
 
 > [!note] Blueprint
-> [[Diamond 03.txt]]
+> [[Blueprint Books/Diamond/03.txt]]
 
 - **Facilities**
 	- Arc Smelters
@@ -51,7 +51,7 @@ These blueprints also work with production of
 ### Diamond 04
 
 > [!note] Blueprint
-> [[Diamond 04.txt]]
+> [[Blueprint Books/Diamond/04.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -66,7 +66,7 @@ These blueprints also work with production of
 ### Diamond 05
 
 > [!note] Blueprint
-> [[Diamond 05.txt]]
+> [[Blueprint Books/Diamond/05.txt]]
 
 - **Facilities**
 	- Plane Smelter

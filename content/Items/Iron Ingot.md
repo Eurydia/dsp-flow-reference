@@ -3,13 +3,13 @@
 ## Blueprints
 
 These blueprints also work with production of 
-- [[Copper Ingot]]
-- [[Stone Brick]]
+- [[Items/Copper Ingot|Copper Ingot]]
+- [[Items/Stone Brick|Stone Brick]]
 
 ### Iron Ingot 01
 
 > [!note] Blueprint
-> [[Iron Ingot 01.txt]]
+> [[Blueprint Books/Iron Ingot/01.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -19,10 +19,10 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 360 Iron Ingot 
 
-### Iron Ingot 02
+### Energetic Graphite 02
 
 > [!note] Blueprint
-> [[Iron Ingot 02.txt]]
+> [[Blueprint Books/Iron Ingot/02.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -37,7 +37,7 @@ These blueprints also work with production of
 ### Iron Ingot 03
 
 > [!note] Blueprint
-> [[Iron Ingot 03.txt]]
+> [[Blueprint Books/Iron Ingot/03.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -52,7 +52,7 @@ These blueprints also work with production of
 ### Iron Ingot 04
 
 > [!note] Blueprint
-> [[Iron Ingot 04.txt]]
+> [[Blueprint Books/Iron Ingot/04.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -67,7 +67,7 @@ These blueprints also work with production of
 ### Iron Ingot 05
 
 > [!note] Blueprint
-> [[Iron Ingot 05.txt]]
+> [[Blueprint Books/Iron Ingot/05.txt]]
 
 - **Facilities**
 	- Plane Smelter

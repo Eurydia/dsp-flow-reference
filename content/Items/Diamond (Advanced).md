@@ -7,7 +7,7 @@ As this recipe consumes rare resource, it will not have early game blueprints.
 ### Diamond (Advanced) 04
 
 > [!note] Blueprint
-> [[Diamond (Advanced) 04.txt]]
+> [[Blueprint Books/Diamond (Advanced)/04.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -22,7 +22,7 @@ As this recipe consumes rare resource, it will not have early game blueprints.
 ### Diamond (Advanced) 05
 
 > [!note] Blueprint
-> [[Diamond (Advanced) 05.txt]]
+> [[Blueprint Books/Diamond (Advanced)/05.txt]]
 
 - **Facilities**
 	- Plane Smelter

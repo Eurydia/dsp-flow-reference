@@ -1,3 +1,3 @@
 # Stone Brick
 
-See [[Iron Ingot]].
+See [[Items/Iron Ingot|Iron Ingot]].

@@ -5,7 +5,7 @@
 ### Magnet 01
 
 > [!note] Blueprint
-> [[Magnet 01.txt]]
+> [[Blueprint Books/Magnet/01.txt|01]]
 
 - **Facilities**
 	- Arc Smelter
@@ -18,7 +18,7 @@
 ### Magnet 02
 
 > [!note] Blueprint
-> [[Iron Ingot 02.txt]]
+> [[Blueprint Books/Iron Ingot/02.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -30,10 +30,10 @@
 - **Production** (per minute)
 	- 360 Magnet
 
-d### Magnet 03
+### Magnet 03
 
 > [!note] Blueprint
-> [[Magnet 03.txt]]
+> [[Blueprint Books/Magnet/03.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -48,7 +48,7 @@ d### Magnet 03
 ### Magnet 04
 
 > [!note] Blueprint
-> [[Magnet 04.txt]]
+> [[Blueprint Books/Magnet/04.txt]]
 
 - **Facilities**
 	- Arc Smelter
@@ -63,7 +63,7 @@ d### Magnet 03
 ### Magnet 05
 
 > [!note] Blueprint
-> [[Magnet 05.txt]]
+> [[Blueprint Books/Magnet/05.txt]]
 
 - **Facilities**
 	- Plane Smelter
