@@ -1,0 +1,39 @@
+# Assembling
+
+- [ ] Magnetic Coil
+- [ ] Electric Motor
+- [ ] Crystal Silicon (advanced)
+- [ ] Titanium Glass
+- [ ] Prism
+- [ ] Gear
+- [ ] Electromagnetic Turbine
+- [ ] Circuit Board
+- [ ] Graviton Lens
+- [ ] Plasma Exciter
+- [ ] Super-magnetic Ring
+- [ ] Particle Broadband
+- [ ] Processor
+- [ ] Casimir Crystal
+- [ ] Particle Container
+- [ ] Photon Combiner
+- [ ] Photon Combiner (advanced)
+- [ ] Microcrystalline Component
+- [ ] Quantum Chip
+- [ ] Casimir Crystal (advanced)
+- [ ] Space Warper
+- [ ] Space Warper (advanced)
+- [ ] Proliferator Mk. I
+- [ ] Proliferator Mk. II
+- [ ] Proliferator Mk. III
+- [ ] Hydrogen Fuel Rod
+- [ ] Deuteron Fuel Rod
+- [ ] Anti-matter Fuel Rod
+- [ ] Titanium Crystal
+- [ ] Thruster
+- [ ] Reinforced Thruster
+- [ ] Small Carrier Rocket
+- [ ] Plane Filter
+- [ ] Solar Sail
+- [ ] Frame Material
+- [ ] Dyson Sphere Component
+- [ ] Annihilation Constraint Sphere

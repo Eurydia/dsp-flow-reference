@@ -2,14 +2,11 @@
 
 ## Blueprints
 
-These blueprints also work with production of 
+These  also work with production of 
 - [[Items/Copper Ingot|Copper Ingot]]
 - [[Items/Stone Brick|Stone Brick]]
 
-### 01
-
-> [!note] Blueprint
-> [[Blueprint Books/Iron Ingot/01.txt]]
+### Starter
 
 - **Facilities**
 	- 6 Arc Smelter
@@ -19,10 +16,7 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 360 Iron Ingot 
 
-### 02
-
-> [!note] Blueprint
-> [[Blueprint Books/Iron Ingot/02.txt]]
+### Early game
 
 - **Facilities**
 	- 5 Arc Smelter
@@ -34,10 +28,7 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 337.5 Iron Ingot
 
-### 03
-
-> [!note] Blueprint
-> [[Blueprint Books/Iron Ingot/03.txt]]
+### Mid game
 
 - **Facilities**
 	- 10 Arc Smelter
@@ -49,10 +40,7 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 720 Iron Ingot
 
-### 04
-
-> [!note] Blueprint
-> [[Blueprint Books/Iron Ingot/04.txt]]
+### Late game
 
 - **Facilities**
 	- 24 Arc Smelter
@@ -64,17 +52,13 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 1800 Iron Ingot
 
-### 05
-
-> [!note] Blueprint
-> [[Blueprint Books/Iron Ingot/05.txt]]
+### End game
 
 - **Facilities**
 	- 12 Plane Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 1440 Iron Ore
-	- 54 unproliferated Proliferator Mk. III
+	- Same as [[#Late game]]
 - **Production** (per minute)
-	- 1800 Iron Ingot
+	- Same as [[#Late game]]

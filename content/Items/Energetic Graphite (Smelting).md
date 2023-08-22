@@ -4,13 +4,10 @@
 
 These blueprints also work with production of 
 - [[Items/Glass|Glass]]
-- [[Items/High-Purity Silicon|High-Purity Silicon]]
+- [[Items/High-purity Silicon|High-purity Silicon]]
 - [[Items/Titanium Ingot|Titanium Ingot]]
 
-### 01
-
-> [!note] Blueprint
-> [[Blueprint Books/Energetic Graphite (Smelting)/01.txt]]
+### Starter
 
 - **Facilities**
 	- 12 Arc Smelter
@@ -20,10 +17,7 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 360 Energetic Graphite
 
-### 02
-
-> [!note] Blueprint
-> [[Blueprint Books/Energetic Graphite (Smelting)/02.txt]]
+### Early game
 
 - **Facilities**
 	- 10 Arc Smelter
@@ -35,10 +29,7 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 337.5 Energetic Graphite
 
-### 03
-
-> [!note] Blueprint
-> [[Blueprint Books/Energetic Graphite (Smelting)/03.txt]]
+### Mid game
 
 - **Facilities**
 	- 20 Arc Smelter
@@ -50,10 +41,7 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 720 Energetic Graphite
 
-### 04
-
-> [!note] Blueprint
-> [[Blueprint Books/Energetic Graphite (Smelting)/04.txt]]
+### Late game
 
 - **Facilities**
 	- 48 Arc Smelter
@@ -65,17 +53,13 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 1800 Energetic Graphite
 
-### 05
-
-> [!note] Blueprint
-> [[Blueprint Books/Energetic Graphite (Smelting)/05.txt]]
+### End game
 
 - **Facilities**
 	- 24 Plane Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 2880 Coal
-	- 78 unproliferated Proliferator Mk. III
+	- Same as [[#Late game]]
 - **Production** (per minute)
-	- 1800 Energetic Graphite
+	- Same as [[#Late game]]

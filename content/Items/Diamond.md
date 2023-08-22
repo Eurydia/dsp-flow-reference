@@ -5,10 +5,7 @@
 These blueprints also work with production of 
 - [[Items/Crystal Silicon|Crystal Silicon]]
 
-### 01
-
-> [!note] Blueprint
-> [[Blueprint Books/Diamond/01.txt]]
+### Starter
 
 - **Facilities**
 	- 12 Arc Smelter
@@ -18,12 +15,9 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 360 Diamond
 
-### 02
+### Early game
 
-> [!note] Blueprint
-> [[Blueprint Books/Diamond/02.txt]]
-
-- **Facilities:**
+- **Facilities**
 	- 10 Arc Smelter
 	- Conveyor Belt Mk. I
 	- Spray Coater
@@ -33,10 +27,7 @@ These blueprints also work with production of
 - **Production**
 	- 337.5 Diamond per minute
 
-### 03
-
-> [!note] Blueprint
-> [[Blueprint Books/Diamond/03.txt]]
+### Mid game
 
 - **Facilities**
 	- 20 Arc Smelters
@@ -48,10 +39,7 @@ These blueprints also work with production of
 - **Production**  (per minute)
 	- 720 Diamond
 
-### 04
-
-> [!note] Blueprint
-> [[Blueprint Books/Diamond/04.txt]]
+### Late game
 
 - **Facilities**
 	- 48 Arc Smelter
@@ -63,17 +51,13 @@ These blueprints also work with production of
 - **Production** (per minute)
 	- 1800 Diamond 
 
-### 05
-
-> [!note] Blueprint
-> [[Blueprint Books/Diamond/05.txt]]
+### End game
 
 - **Facilities**
 	- 24 Plane Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 1440 Energetic Graphite
-	- 54 unproliferated Proliferator Mk. III
+	- Same as [[#Late game]]
 - **Production** (per minute)
-	- 1800 Diamond
+	- Same as [[#Late game]]

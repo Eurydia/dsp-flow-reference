@@ -2,10 +2,7 @@
 
 ## Blueprints
 
-### 01
-
-> [!note] Blueprint
-> [[Blueprint Books/Magnet/01.txt]]
+### Starter
 
 - **Facilities**
 	- 9 Arc Smelter
@@ -15,10 +12,7 @@
 - **Production** (per minute)
 	- 360 Magnet
 
-### 02
-
-> [!note] Blueprint
-> [[Blueprint Books/Magnet/02.txt]]
+### Early game
 
 - **Facilities**
 	- 8 Arc Smelter
@@ -30,10 +24,7 @@
 - **Production** (per minute)
 	- 360 Magnet
 
-### 03
-
-> [!note] Blueprint
-> [[Blueprint Books/Magnet/03.txt]]
+### Mid game
 
 - **Facilities**
 	- 15 Arc Smelter
@@ -45,10 +36,7 @@
 - **Production** (per minute)
 	- 720 Magnet
 
-### 04
-
-> [!note] Blueprint
-> [[Blueprint Books/Magnet/04.txt]]
+### Late game
 
 - **Facilities**
 	- 36 Arc Smelter
@@ -60,17 +48,13 @@
 - **Production** (per minute)
 	- 1800 Magnet
 
-### 05
-
-> [!note] Blueprint
-> [[Blueprint Books/Magnet/05.txt]]
+### End game
 
 - **Facilities**
 	- 18 Plane Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 1440 Iron Ore
-	- 54 Proliferator Mk. III
+	- Same as [[#Late game]]
 - **Production** (per minute)
-	- 1800 Magnet
+	- Same as [[#Late game]]
