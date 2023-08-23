@@ -1,21 +1,20 @@
-# Energetic Graphite (Smelting)
+# Magnetic Coil
 
 ## Blueprints
 
 These blueprints also work with production of 
-- [[Items/Glass|Glass]]
-- [[Items/High-purity Silicon|High-purity Silicon]]
-- [[Items/Titanium Ingot|Titanium Ingot]]
+- [[Item Production/Assembling/Circuit Board|Circuit Board]]
 
 ### Starter
 
 - **Facilities**
-	- 12 Arc Smelter
+	- 4 Assembling Machine Mk. I
 	- Conveyor Belt Mk. I
 - **Consumption** (per minute)
-	- 720 Coal
+	- 180 Copper Ingot
+	- 2 Magnet
 - **Production** (per minute)
-	- 360 Energetic Graphite
+	- 360 Diamond
 
 ### Early game
 
@@ -24,22 +23,22 @@ These blueprints also work with production of
 	- Conveyor Belt Mk. I
 	- Spray Coater
 - **Consumption** (per minute)
-	- 600 Coal
-	- 78.125 unproliferated Proliferator Mk. I
-- **Production** (per minute)
-	- 337.5 Energetic Graphite
+	- 300 Energetic Graphite
+	- 53.125 unproliferated Proliferator Mk. I
+- **Production**
+	- 337.5 Diamond per minute
 
 ### Mid game
 
 - **Facilities**
-	- 20 Arc Smelter
+	- 20 Arc Smelters
 	- Conveyor Belt Mk. II
 	- Spray Coater
 - **Consumption** (per minute)
-	- 1200 Coal
-	- 80 unproliferated Proliferator Mk. II
-- **Production** (per minute)
-	- 720 Energetic Graphite
+	- 600 Energetic Graphite
+	- 55 unproliferated Proliferator Mk. II
+- **Production**  (per minute)
+	- 720 Diamond
 
 ### Late game
 
@@ -48,10 +47,10 @@ These blueprints also work with production of
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 2880 Coal
-	- 78 unproliferated Proliferator Mk. III
+	- 1440 Energetic Graphite
+	- 54 unproliferated Proliferator Mk. III
 - **Production** (per minute)
-	- 1800 Energetic Graphite
+	- 1800 Diamond 
 
 ### End game
 

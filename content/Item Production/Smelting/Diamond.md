@@ -1,61 +1,60 @@
-# Iron Ingot
+# Diamond
 
 ## Blueprints
 
-These  also work with production of 
-- [[Items/Copper Ingot|Copper Ingot]]
-- [[Items/Stone Brick|Stone Brick]]
+These blueprints also work with production of 
+- [[Item Production/Smelting/Crystal Silicon|Crystal Silicon]]
 
 ### Starter
 
 - **Facilities**
-	- 6 Arc Smelter
+	- 12 Arc Smelter
 	- Conveyor Belt Mk. I
 - **Consumption** (per minute)
-	- 360 Iron Ore
+	- 360 Energetic Graphite
 - **Production** (per minute)
-	- 360 Iron Ingot 
+	- 360 Diamond
 
 ### Early game
 
 - **Facilities**
-	- 5 Arc Smelter
+	- 10 Arc Smelter
 	- Conveyor Belt Mk. I
 	- Spray Coater
 - **Consumption** (per minute)
-	- 300 Iron Ore
+	- 300 Energetic Graphite
 	- 53.125 unproliferated Proliferator Mk. I
-- **Production** (per minute)
-	- 337.5 Iron Ingot
+- **Production**
+	- 337.5 Diamond per minute
 
 ### Mid game
 
 - **Facilities**
-	- 10 Arc Smelter
+	- 20 Arc Smelters
 	- Conveyor Belt Mk. II
 	- Spray Coater
 - **Consumption** (per minute)
-	- 600 Iron Ore
+	- 600 Energetic Graphite
 	- 55 unproliferated Proliferator Mk. II
-- **Production** (per minute)
-	- 720 Iron Ingot
+- **Production**  (per minute)
+	- 720 Diamond
 
 ### Late game
 
 - **Facilities**
-	- 24 Arc Smelter
+	- 48 Arc Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
-	- 1440 Iron Ore
+	- 1440 Energetic Graphite
 	- 54 unproliferated Proliferator Mk. III
 - **Production** (per minute)
-	- 1800 Iron Ingot
+	- 1800 Diamond 
 
 ### End game
 
 - **Facilities**
-	- 12 Plane Smelter
+	- 24 Plane Smelter
 	- Conveyor Belt Mk. III
 	- Spray Coater
 - **Consumption** (per minute)
