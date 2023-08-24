@@ -2,25 +2,19 @@
 
 ## Blueprints
 
-### Late game
+### Smelting-IV
 
-- **Facilities**
-	- 18 Arc Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
+- **Facilities**: 18 Arc Smelter
 - **Consumption** (per minute)
 	- 720 Kimberlite Ore
 	- 42 unproliferated Proliferator Mk. III
 - **Production** (per minute)
 	- 1800 Diamond
 
-### End game
+### Smelting-V
 
-- **Facilities**
-	- 9 Plane Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
+- **Facilities**: 9 Plane Smelter
 - **Consumption** (per minute)
-	- Same as [[#Late game]]
+	- Same as [[#Smelting-IV]]
 - **Production** (per minute)
-	- Same as [[#Late game]]
+	- Same as [[#Smelting-IV]]

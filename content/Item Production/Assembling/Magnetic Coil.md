@@ -5,60 +5,41 @@
 These blueprints also work with production of 
 - [[Item Production/Assembling/Circuit Board|Circuit Board]]
 
-### Starter
+### Assembling-I
 
-- **Facilities**
-	- 4 Assembling Machine Mk. I
-	- Conveyor Belt Mk. I
+- **Facilities**: 4 Assembling Machine Mk. I
 - **Consumption** (per minute)
 	- 180 Copper Ingot
-	- 2 Magnet
+	- 360 Magnet
 - **Production** (per minute)
-	- 360 Diamond
+	- 360 Magnetic Coil
 
-### Early game
+### Assembling-II
 
-- **Facilities**
-	- 10 Arc Smelter
-	- Conveyor Belt Mk. I
-	- Spray Coater
+- **Facilities**: 3 Assembling Machine Mk. I
 - **Consumption** (per minute)
-	- 300 Energetic Graphite
-	- 53.125 unproliferated Proliferator Mk. I
+	- 135 Copper Ingot
+	- 270 Magnet
+	- 59.063  unproliferated Proliferator Mk. I
 - **Production**
-	- 337.5 Diamond per minute
+	- 303.75 Magnetic Coil
 
-### Mid game
+### Assembling-III
 
-- **Facilities**
-	- 20 Arc Smelters
-	- Conveyor Belt Mk. II
-	- Spray Coater
+- **Facilities**: 5 Assembling Machine Mk. II
 - **Consumption** (per minute)
-	- 600 Energetic Graphite
-	- 55 unproliferated Proliferator Mk. II
+	- 300 Copper Ingot
+	- 600 Magnet
+	- 67.5 unproliferated Proliferator Mk. II
 - **Production**  (per minute)
-	- 720 Diamond
+	- 720 Magnetic Coil
 
-### Late game
+### Assembling-IV
 
-- **Facilities**
-	- 48 Arc Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
+- **Facilities**: 8 Assembling Machine Mk. III
 - **Consumption** (per minute)
-	- 1440 Energetic Graphite
-	- 54 unproliferated Proliferator Mk. III
+	- 720 Copper Ingot
+	- 1440 Magnet
+	- 66 unproliferated Proliferator Mk. III
 - **Production** (per minute)
-	- 1800 Diamond 
-
-### End game
-
-- **Facilities**
-	- 24 Plane Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
-- **Consumption** (per minute)
-	- Same as [[#Late game]]
-- **Production** (per minute)
-	- Same as [[#Late game]]
+	- 1800 Magnetic Coil

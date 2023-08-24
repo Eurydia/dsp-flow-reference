@@ -2,12 +2,9 @@
 
 ## Blueprints
 
-### Mid game
+### Smelting-III
 
-- **Facilities**
-	- 30 Arc Smelter
-	- Conveyor Belt Mk. II
-	- Spray Coater
+- **Facilities**: 30 Arc Smelter
 - **Consumption** (per minute)
 	- 600 Titanium Ingot
 	- 600 Steel
@@ -16,12 +13,9 @@
 - **Production** (per minute)
 	- 720 Titanium Alloy
 
-### Late game
+### Smelting-IV
 
-- **Facilities**
-	- 72 Arc Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
+- **Facilities**: 72 Arc Smelter
 - **Consumption** (per minute)
 	- 1440 Titanium Ingot
 	- 1440 Steel
@@ -30,13 +24,10 @@
 - **Production** (per minute)
 	- 1800 Titanium Alloy
 
-### End game
+### Smelting-V
 
-- **Facilities**
-	- 36 Plane Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
+- **Facilities**: 36 Plane Smelter
 - **Consumption** (per minute)
-	- Same as [[#Late game]]
+	- Same as [[#Smelting-IV]]
 - **Production** (per minute)
-	- Same as [[#Late game]]
+	- Same as [[#Smelting-IV]]

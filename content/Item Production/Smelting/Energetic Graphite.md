@@ -1,4 +1,4 @@
-# Energetic Graphite (Smelting)
+# Energetic Graphite
 
 ## Blueprints
 
@@ -7,59 +7,45 @@ These blueprints also work with production of
 - [[Item Production/Smelting/High-purity Silicon|High-purity Silicon]]
 - [[Item Production/Smelting/Titanium Ingot|Titanium Ingot]]
 
-### Starter
+### Smelting-I
 
-- **Facilities**
-	- 12 Arc Smelter
-	- Conveyor Belt Mk. I
+- **Facilities**: 12 Arc Smelter
 - **Consumption** (per minute)
 	- 720 Coal
 - **Production** (per minute)
 	- 360 Energetic Graphite
 
-### Early game
+### Smelting-II
 
-- **Facilities**
-	- 10 Arc Smelter
-	- Conveyor Belt Mk. I
-	- Spray Coater
+- **Facilities**: 10 Arc Smelter
 - **Consumption** (per minute)
 	- 600 Coal
 	- 78.125 unproliferated Proliferator Mk. I
 - **Production** (per minute)
 	- 337.5 Energetic Graphite
 
-### Mid game
+### Smelting-III
 
-- **Facilities**
-	- 20 Arc Smelter
-	- Conveyor Belt Mk. II
-	- Spray Coater
+- **Facilities**: 20 Arc Smelter
 - **Consumption** (per minute)
 	- 1200 Coal
 	- 80 unproliferated Proliferator Mk. II
 - **Production** (per minute)
 	- 720 Energetic Graphite
 
-### Late game
+### Smelting-IV
 
-- **Facilities**
-	- 48 Arc Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
+- **Facilities**: 48 Arc Smelter
 - **Consumption** (per minute)
 	- 2880 Coal
 	- 78 unproliferated Proliferator Mk. III
 - **Production** (per minute)
 	- 1800 Energetic Graphite
 
-### End game
+### Smelting-V
 
-- **Facilities**
-	- 24 Plane Smelter
-	- Conveyor Belt Mk. III
-	- Spray Coater
+- **Facilities**: 24 Plane Smelter
 - **Consumption** (per minute)
-	- Same as [[#Late game]]
+	- Same as [[#Smelting-IV]]
 - **Production** (per minute)
-	- Same as [[#Late game]]
+	- Same as [[#Smelting-IV]]
