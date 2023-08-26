@@ -1,6 +1,6 @@
 # Mining
 
-## Generalized Formula
+## General Formula
 
 $$
 \begin{align*}
