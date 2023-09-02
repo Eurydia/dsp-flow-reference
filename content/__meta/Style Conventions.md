@@ -1,8 +1,8 @@
 # Style Conventions
 
-**Markdown syntax**
+~~**Markdown syntax**~~
 
-Notes are written in basic Markdown syntax to ensure portability.
+~~Notes are written in basic Markdown syntax to ensure portability.~~
 
 **In-game items**
 

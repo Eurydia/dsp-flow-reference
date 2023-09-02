@@ -2,14 +2,13 @@
 
 ## Smelter
 
-### Blueprint: [1-1](content/Standard%20Set/Blueprints/Smelter/1-1.txt)
+### Blueprint: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
 
 **Target Items**
-- [Copper Ingot](Copper%20Ingot.md)
-- [Magnet](Magnet.md)
-- [Iron Ingot](Iron%20Ingot.md)
-- [Crystal Silicon](Crystal%20Silicon.md)
-- [Diamond](Diamond.md)
+- [[Copper Ingot]]
+- [[Magnet]]
+- [[Iron Ingot]]
+- [[Crystal Silicon]]
+- [[Diamond]]
 
-![smelter-1-to-1](smelter%201-1.png)
-
+![[content/__medias/smelter 1-1.png]]
