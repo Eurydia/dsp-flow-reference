@@ -3,8 +3,8 @@
 ## Blueprints
 
 The content of this note also applies to
-- [[Item Production/Smelting/Copper Ingot|Copper Ingot]]
-- [[Item Production/Smelting/Stone Brick|Stone Brick]]
+- [[Copper Ingot]]
+- [[Stone Brick]]
 
 **Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
 
