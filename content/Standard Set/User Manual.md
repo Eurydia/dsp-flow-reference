@@ -23,6 +23,6 @@
 
 - [[Steel]]
 
-### Smelter [[content/Standard Set/Blueprints/Smelter/4-1.txt|4-1]]
+### Smelter: [[content/Standard Set/Blueprints/Smelter/4-1.txt|4-1]]
 
 - [[Titanium Alloy]]
