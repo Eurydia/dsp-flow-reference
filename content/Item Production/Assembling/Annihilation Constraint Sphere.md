@@ -2,62 +2,47 @@
 
 ## Blueprints
 
-**Recommended standard blueprints**: -
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/2-1.txt|2-1]]
 
-**Overview**
+### Assembling Machine Mk.I
 
-The table displays the number of **Assembling Machine Mk. I** required to satisfy different production targets (items per minute).
+The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
 
-| Proliferation         | 360                       | 720                    | 1800                  |
-| --------------------- | ------------------------- | ---------------------- | --------------------- |
-| None                  | [[#Assembling-I\|160*]]   | 24                     | 60                    |
-| Extra Products +12.5% | [[#Smelting-II\|142.22*]] | 21.33                  | 53.33                 |
-| Extra Products +20%   | 10                        | [[#Smelting-III\|20*]] | 50                    |
-| Extra Products +25%   | 9.6                       | 19.2                   | [[#Smelting-IV\|48*]] |
+| Proliferation            | 360    | 720    | 1800   |
+| ------------------------ | ------ | ------ | ------ |
+| None                     | 160    | 320    | 800    |
+| Extra Products +12.5%    | 142.22 | 284.44 | 711.11 |
+| Extra Products +20%      | 133.33 | 266.67 | 666.67 |
+| Extra Products +25%      | 128    | 256    | 640    |
+| Production Speedup +25%  | 128    | 256    | 640    |
+| Production Speedup +50%  | 106.67 | 213.33 | 533.33 |
+| Production Speedup +100% | 80     | 160    | 400    |
 
-The table displays the number of **Assembling Machine Mk. II** required to satisfy different production targets (items per minute).
+### Assembling Machine Mk.II
 
-| Proliferation         | 360                      | 720                    | 1800                  |
-| --------------------- | ------------------------ | ---------------------- | --------------------- |
-| None                  | [[#Smelting-I\|12*]]     | 24                     | 60                    |
-| Extra Products +12.5% | [[#Smelting-II\|10.67*]] | 21.33                  | 53.33                 |
-| Extra Products +20%   | 10                       | [[#Smelting-III\|20*]] | 50                    |
-| Extra Products +25%   | 9.6                      | 19.2                   | [[#Smelting-IV\|48*]] |
+The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
 
-The table displays the number of **Assembling Machine Mk. III** required to satisfy different production targets (items per minute).
+| Proliferation            | 360    | 720    | 1800   |
+| ------------------------ | ------ | ------ | ------ |
+| None                     | 120    | 240    | 600    | 
+| Extra Products +12.5%    | 106.67 | 213.33 | 533.33 |
+| Extra Products +20%      | 100.00 | 200.00 | 500.00 |
+| Extra Products +25%      | 96     | 192    | 480    |
+| Production Speedup +25%  | 96     | 192    | 480    |
+| Production Speedup +50%  | 80     | 160    | 400    |
+| Production Speedup +100% | 60     | 120    | 300    |
 
-| Proliferation         | 360                      | 720                    | 1800                  |
-| --------------------- | ------------------------ | ---------------------- | --------------------- |
-| None                  | [[#Smelting-I\|12*]]     | 24                     | 60                    |
-| Extra Products +12.5% | [[#Smelting-II\|10.67*]] | 21.33                  | 53.33                 |
-| Extra Products +20%   | 10                       | [[#Smelting-III\|20*]] | 50                    |
-| Extra Products +25%   | 9.6                      | 19.2                   | [[#Smelting-IV\|48*]] |
+### Assembling Machine Mk.III
 
-### Assembling-I
+The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 160 Assembling Machine Mk. I
-- **Consumption** (items per minute)
-	- 360 Particle Container
-	- 360 Processor
-- **Production** (items per minute)
-	- 360 Annihilation Constraint Sphere
+| Proliferation            | 360   | 720    | 1800   |
+| ------------------------ | ----- | ------ | ------ |
+| None                     | 80    | 160    | 400    |
+| Extra Products +12.5%    | 71.11 | 142.22 | 355.56 |
+| Extra Products +20%      | 66.67 | 133.33 | 333.33 |
+| Extra Products +25%      | 64    | 128    | 320    |
+| Production Speedup +25%  | 64    | 128    | 320    |
+| Production Speedup +50%  | 53.33 | 106.67 | 266.67 |
+| Production Speedup +100% | 40    | 80     | 200    |
 
-### Assembling-II
-
-- **Facilities**: 142 Assembling Machine Mk. I
-- **Consumption** (items per minute)
-	- 319.5 Particle Container
-	- 319.5 Processor
-	- 83.203 unproliferated Proliferator Mk. I
-- **Production** (items per minute)
-	- 359.438 Annihilation Constraint Sphere
-
-### Assembling-IV
-
-- **Facilities**: 320 Assembling Machine Mk. III
-- **Consumption** (items per minute)
-	- 1440 Dyson Sphere Component
-	- 1440 Quantum Chip
-	- 78 unproliferated Proliferator Mk. III
-- **Production** (items per minute)
-	- 1800 Small Carrier Rocket

@@ -4,57 +4,31 @@
 
 **Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
 
-**Overview**
+### Arc Smelter
 
-The table displays the number of **Arc Smelter** required to satisfy different production targets (items per minute).
+The number of **Arc Smelter** required to satisfy different production targets (items per minute).
 
-| Proliferation         | 360                  | 720                    | 1800                  |
-| --------------------- | -------------------- | ---------------------- | --------------------- |
-| None                  | [[#Smelting-I\|9*]]  | 18                     | 45                    |
-| Extra Products +12.5% | [[#Smelting-II\|8*]] | 16                     | 40                    |
-| Extra Products +20%   | 7.5                  | [[#Smelting-III\|15*]] | 37.5                  |
-| Extra Products +25%   | 7.2                  | 14.4                   | [[#Smelting-IV\|36*]] |
+| Proliferation            | 360  | 720   | 1800  |
+| ------------------------ | ---- | ----- | ----- |
+| None                     | 9    | 18    | 45    |
+| Extra Products +12.5%    | 8    | 16    | 40    |
+| Extra Products +20%      | 7.50 | 15    | 37.50 |
+| Extra Products +25%      | 7.20 | 14.40 | 36    |
+| Production Speedup +25%  | 7.20 | 14.40 | 36    |
+| Production Speedup +50%  | 6    | 12    | 30    |
+| Production Speedup +100% | 4.50 | 9     | 22.50 |
 
+### Plane Smelter
 
-### Smelting-I
+The number of **Plane Smelter** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 9 Arc Smelter
-- **Consumption** (items per minute)
-	- 360 Iron Ore
-- **Production** (items per minute)
-	- 360 Magnet
+| Proliferation            | 360  | 720  | 1800  |
+| ------------------------ | ---- | ---- | ----- |
+| None                     | 4.50 | 9    | 22.50 |
+| Extra Products +12.5%    | 4    | 8    | 20    |
+| Extra Products +20%      | 3.75 | 7.50 | 18.75 |
+| Extra Products +25%      | 3.60 | 7.20 | 18    |
+| Production Speedup +25%  | 3.60 | 7.20 | 18    |
+| Production Speedup +50%  | 3    | 6    | 15    |
+| Production Speedup +100% | 2.25 | 4.50 | 11.25 |
 
-### Smelting-II
-
-- **Facilities**: 8 Arc Smelter
-- **Consumption** (items per minute)
-	- 320 Iron Ore
-	- 56.67 unproliferated Proliferator Mk. I
-- **Production** (items per minute)
-	- 360 Magnet
-
-### Smelting-III
-
-- **Facilities**: 15 Arc Smelter
-- **Consumption** (items per minute)
-	- 600 Iron Ore
-	- 55 unproliferated Proliferator Mk. II
-- **Production** (items per minute)
-	- 720 Magnet
-
-### Smelting-IV
-
-- **Facilities**: 36 Arc Smelter
-- **Consumption** (items per minute)
-	- 1440 Iron Ore
-	- 54 unproliferated Proliferator Mk. III
-- **Production** (items per minute)
-	- 1800 Magnet
-
-### Smelting-V
-
-- **Facilities**: 18 Plane Smelter
-- **Consumption** (items per minute)
-	- Same as [[#Smelting-IV]]
-- **Production** (items per minute)
-	- Same as [[#Smelting-IV]]

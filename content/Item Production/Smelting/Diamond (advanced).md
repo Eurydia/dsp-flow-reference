@@ -4,56 +4,31 @@
 
 **Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
 
-**Overview**
+### Arc Smelter
 
-The table displays the number of **Arc Smelter** required to satisfy different production targets (items per minute).
+The number of **Arc Smelter** required to satisfy different production targets (items per minute).
 
-| Proliferation         | 360                   | 720                     | 1800                  |
-| --------------------- | --------------------- | ----------------------- | --------------------- |
-| None                  | [[#Smelting-I\|4.5*]] | 9                       | 22.5                  |
-| Extra Products +12.5% | [[#Smelting-II\|4*]]  | 8                       | 20                    |
-| Extra Products +20%   | 3.75                  | [[#Smelting-III\|7.5*]] | 18.75                 |
-| Extra Products +25%   | 3.6                   | 7.2                     | [[#Smelting-IV\|18*]] |
+| Proliferation            | 360  | 720  | 1800  |
+| ------------------------ | ---- | ---- | ----- |
+| None                     | 4.50 | 9    | 22.50 |
+| Extra Products +12.5%    | 4    | 8    | 20    |
+| Extra Products +20%      | 3.75 | 7.50 | 18.75 |
+| Extra Products +25%      | 3.60 | 7.20 | 18    |
+| Production Speedup +25%  | 3.60 | 7.20 | 18    |
+| Production Speedup +50%  | 3    | 6    | 15    |
+| Production Speedup +100% | 2.25 | 4.50 | 11.25 |
 
-### Smelting-I
+### Plane Smelter
 
-- **Facilities**: 4.5 Arc Smelter
-- **Consumption** (items per minute)
-	- 180 Kimberlite Ore
-- **Production** (items per minute)
-	- 360 Diamond
+The number of **Plane Smelter** required to satisfy different production targets (items per minute).
 
-### Smelting-II
+| Proliferation            | 360  | 720  | 1800  |
+| ------------------------ | ---- | ---- | ----- |
+| None                     | 2.25 | 4.50 | 11.25 |
+| Extra Products +12.5%    | 2    | 4    | 10    |
+| Extra Products +20%      | 1.88 | 3.75 | 9.38  |
+| Extra Products +25%      | 1.80 | 3.60 | 9     |
+| Production Speedup +25%  | 1.80 | 3.60 | 9     |
+| Production Speedup +50%  | 1.50 | 3    | 7.50  |
+| Production Speedup +100% | 1.12 | 2.25 | 5.62  |
 
-- **Facilities**: 4 Arc Smelter
-- **Consumption** (items per minute)
-	- 160 Kimberlite Ore
-	- 4.33 unproliferated Proliferator Mk. I
-- **Production** (items per minute)
-	- 360 Diamond
-
-### Smelting-III
-
-- **Facilities**: 7 Arc Smelter
-- **Consumption** (items per minute)
-	- 280 Kimberlite Ore
-	- 39.67 unproliferated Proliferator Mk. II
-- **Production** (items per minute)
-	- 672 Diamond
-
-### Smelting-IV
-
-- **Facilities**: 18 Arc Smelter
-- **Consumption** (items per minute)
-	- 720 Kimberlite Ore
-	- 42 unproliferated Proliferator Mk. III
-- **Production** (items per minute)
-	- 1800 Diamond
-
-### Smelting-V
-
-- **Facilities**: 9 Plane Smelter
-- **Consumption** (items per minute)
-	- Same as [[#Smelting-IV]]
-- **Production** (items per minute)
-	- Same as [[#Smelting-IV]]

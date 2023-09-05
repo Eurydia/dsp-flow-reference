@@ -4,44 +4,31 @@
 
 **Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/4-1.txt|4-1]]
 
-**Overview**
+### Arc Smelter
 
-The table displays the number of **Arc Smelter** required to satisfy different production targets (items per minute).
+The number of **Arc Smelter** required to satisfy different production targets (items per minute).
 
-| Proliferation         | 360                      | 720                    | 1800                  |
-| --------------------- | ------------------------ | ---------------------- | --------------------- |
-| None                  | [[#Smelting-I\|12*]]     | 24                     | 60                    |
-| Extra Products +12.5% | [[#Smelting-II\|10.67*]] | 21.33                  | 53.33                 |
-| Extra Products +20%   | 10                       | [[#Smelting-III\|20*]] | 50                    |
-| Extra Products +25%   | 9.6                      | 19.2                   | [[#Smelting-IV\|48*]] |
+| Proliferation            | 360   | 720   | 1800 |
+| ------------------------ | ----- | ----- | ---- |
+| None                     | 18    | 36    | 90   |
+| Extra Products +12.5%    | 16    | 32    | 80   |
+| Extra Products +20%      | 15    | 30    | 75   |
+| Extra Products +25%      | 14.40 | 28.80 | 72   |
+| Production Speedup +25%  | 14.40 | 28.80 | 72   |
+| Production Speedup +50%  | 12    | 24    | 60   |
+| Production Speedup +100% | 9     | 18    | 45   |
 
+### Plane Smelter
 
-### Smelting-III
+The number of **Plane Smelter** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 30 Arc Smelter
-- **Consumption** (items per minute)
-	- 600 Titanium Ingot
-	- 600 Steel
-	- 1200 Sulfuric Acid
-	- 130 unproliferated Proliferator Mk. II
-- **Production** (items per minute)
-	- 720 Titanium Alloy
+| Proliferation            | 360  | 720   | 1800  |
+| ------------------------ | ---- | ----- | ----- |
+| None                     | 9    | 18    | 45    |
+| Extra Products +12.5%    | 8    | 16    | 40    |
+| Extra Products +20%      | 7.50 | 15    | 37.50 |
+| Extra Products +25%      | 7.20 | 14.40 | 36    |
+| Production Speedup +25%  | 7.20 | 14.40 | 36    |
+| Production Speedup +50%  | 6    | 12    | 30    |
+| Production Speedup +100% | 4.50 | 9     | 22.50 |
 
-### Smelting-IV
-
-- **Facilities**: 72 Arc Smelter
-- **Consumption** (items per minute)
-	- 1440 Titanium Ingot
-	- 1440 Steel
-	- 2880 Sulfuric Acid
-	- 126 unproliferated Proliferator Mk. III
-- **Production** (items per minute)
-	- 1800 Titanium Alloy
-
-### Smelting-V
-
-- **Facilities**: 36 Plane Smelter
-- **Consumption** (items per minute)
-	- Same as [[#Smelting-IV]]
-- **Production** (items per minute)
-	- Same as [[#Smelting-IV]]

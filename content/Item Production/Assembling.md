@@ -1,31 +1,5 @@
 # Assembling
 
-## Keyword Reference
-
-### Assembling-I
-
-- **Objective**: output 360 product per minute
-- **Facilities**: Assembling Machine Mk. I
-- **Proliferation**: no proliferation
-
-### Assembling-II
-
-- **Objective**: output 360 product per minute
-- **Facilities**: Assembling Machine Mk. I
-- **Proliferation**: Proliferator Mk. I (Extra Products)
-
-### Assembling-III
-
-- **Objective**: output 720 product per minute
-- **Facilities**: Assembling Machine Mk. II
-- **Proliferation**: Proliferator Mk. II (Extra Products)
-
-### Assembling-IV
-
-- **Objective**: output 1800 product per minute
-- **Facilities**: Assembling Machine Mk. III
-- **Proliferation**: Proliferator Mk. III (Extra Products)
-
 ## Tracker 
 
 ### Group 1

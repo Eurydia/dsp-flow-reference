@@ -1,37 +1,5 @@
 # Smelting
 
-## Keyword Reference
-
-### Smelting-I
-
-- **Objective**: output 360 product per minute
-- **Facilities**: Arc Smelter
-- **Proliferation**: no proliferation
-
-### Smelting-II
-
-- **Objective**: output 360 product per minute
-- **Facilities**: Arc Smelter
-- **Proliferation**: Proliferator Mk. I (Extra Products)
-
-### Smelting-III
-
-- **Objective**: output 720 product per minute
-- **Facilities**: Arc Smelter
-- **Proliferation**: Proliferator Mk. II (Extra Products)
-
-### Smelting-IV
-
-- **Objective**: output 1800 product per minute
-- **Facilities**: Arc Smelter
-- **Proliferation**: Proliferator Mk. III (Extra Products)
-
-### Smelting-V
-
-- **Objective**: output 1800 product per minute
-- **Facilities**: Plane Smelter
-- **Proliferation**: Proliferator Mk. III (Extra Products)
-
 ## Recipe Tracker
 
 ### Group 1
