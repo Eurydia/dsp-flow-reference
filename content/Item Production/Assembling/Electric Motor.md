@@ -2,45 +2,57 @@
 
 ## Blueprints
 
-### Assembling-I
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/4-1.txt|4-1]]
 
-- **Facilities**: 8 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 360 Magnetic Coil
-	- 360 Gear
-	- 720 Iron Ingot
-- **Production** (per minute)
-	- 360 Electric Motor
+**Item transportation table**
 
-### Assembling-II
+| Conveyor Belt # | Direction | Item                 |
+| --------------- | --------- | -------------------- |
+| 1               | Input     | [[Iron Ingot]] (1/2) |
+| 2               | Input     | [[Iron Ingot]] (1/2) |
+| 3               | Input     | [[Gear]]             |
+| 4               | Input     | [[Magnetic Coil]]    |
+| 5               | Output    | [[Electric Motor]]   | 
 
-- **Facilities**: 7 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 315 Magnetic Coil
-	- 315 Gear
-	- 630 Iron Ingot
-	- 134.531 unproliferated Proliferator Mk. I
-- **Production**
-	- 354.375 Electric Motor
+### Assembling Machine Mk.I
 
-### Assembling-III
+The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 10 Assembling Machine Mk. II
-- **Consumption** (per minute)
-	- 600 Magnetic Coil
-	- 600 Gear
-	- 1200 Iron Ingot
-	- 130 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Electric Motor
+| Proliferation            | 360  | 720  | 1800 |
+| ------------------------ | ---- | ---- | ---- |
+| None                     | `16` | `32` | `80` |
+| Extra Products +12.5%    | `15` | `29` | `72` |
+| Extra Products +20%      | `14` | `27` | `67` |
+| Extra Products +25%      | `13` | `26` | `64` |
+| Production Speedup +25%  | `13` | `26` | `64` |
+| Production Speedup +50%  | `11` | `22` | `54` |
+| Production Speedup +100% | `8`  | `16` | `40` |
 
-### Assembling-IV
+### Assembling Machine Mk.II
 
-- **Facilities**: 32 Assembling Machine Mk. III
-- **Consumption** (per minute)
-	- 1440 Magnetic Coil
-	- 1440 Gear
-	- 2800 Iron Ingot
-	- 126 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Electric Motor
+The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360  | 720  | 1800 |
+| ------------------------ | ---- | ---- | ---- |
+| None                     | `12` | `24` | `60` |
+| Extra Products +12.5%    | `11` | `22` | `54` |
+| Extra Products +20%      | `10` | `20` | `50` |
+| Extra Products +25%      | `10` | `20` | `48` |
+| Production Speedup +25%  | `10` | `20` | `48` |
+| Production Speedup +50%  | `8`  | `16` | `40` |
+| Production Speedup +100% | `6`  | `12` | `30` |
+
+### Assembling Machine Mk.III
+
+The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360 | 720  | 1800 |
+| ------------------------ | --- | ---- | ---- |
+| None                     | `8` | `16` | `40` |
+| Extra Products +12.5%    | `8` | `15` | `36` |
+| Extra Products +20%      | `7` | `14` | `34` |
+| Extra Products +25%      | `7` | `13` | `32` |
+| Production Speedup +25%  | `7` | `13` | `32` |
+| Production Speedup +50%  | `6` | `11` | `27` |
+| Production Speedup +100% | `4` | `8`  | `20` |
+

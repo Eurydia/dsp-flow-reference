@@ -2,41 +2,56 @@
 
 ## Blueprints
 
-### Assembling-I
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/3-1.txt|3-1]]
 
-- **Facilities**: 16 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 360 Copper Ingot
-	- 720 High-purity Silicon
-- **Production** (per minute)
-	- 360 Microcrystalline Component
+**Item transportation table**
 
-### Assembling-II
+| Conveyor Belt # | Direction | Item                           |
+| --------------- | --------- | ------------------------------ |
+| 1               | Input     | [[High-purity Silicon]] (1/2)  |
+| 2               | Input     | [[High-purity Silicon]] (1/2)  |
+| 3               | Input     | [[Copper Ingot]]               |
+| 4               | Output    | [[Microcrystalline Component]] | 
 
-- **Facilities**: 7 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 315 Copper Ingot
-	- 630 High-purity Silicon
-	- 108.281 unproliferated Proliferator Mk. I
-- **Production**
-	- 354.375 Microcrystalline Component
+### Assembling Machine Mk.I
 
-### Assembling-III
+The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 20 Assembling Machine Mk. II
-- **Consumption** (per minute)
-	- 600 Copper Ingot
-	- 1200 High-purity Silicon
-	- 105 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Microcrystalline Component
+| Proliferation            | 360  | 720  | 1800 |
+| ------------------------ | ---- | ---- | ---- |
+| None                     | `16` | `32` | `80` |
+| Extra Products +12.5%    | `15` | `29` | `72` |
+| Extra Products +20%      | `14` | `27` | `67` |
+| Extra Products +25%      | `13` | `26` | `64` |
+| Production Speedup +25%  | `13` | `26` | `64` |
+| Production Speedup +50%  | `11` | `22` | `54` |
+| Production Speedup +100% | `8`  | `16` | `40` |
 
-### Assembling-IV
+### Assembling Machine Mk.II
 
-- **Facilities**: 32 Assembling Machine Mk. III
-- **Consumption** (per minute)
-	- 1440 Copper Ingot
-	- 2880 High-purity Silicon
-	- 102 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Microcrystalline Component
+The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360  | 720  | 1800 |
+| ------------------------ | ---- | ---- | ---- |
+| None                     | `12` | `24` | `60` |
+| Extra Products +12.5%    | `11` | `22` | `54` |
+| Extra Products +20%      | `10` | `20` | `50` |
+| Extra Products +25%      | `10` | `20` | `48` |
+| Production Speedup +25%  | `10` | `20` | `48` |
+| Production Speedup +50%  | `8`  | `16` | `40` |
+| Production Speedup +100% | `6`  | `12` | `30` |
+
+### Assembling Machine Mk.III
+
+The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360 | 720  | 1800 |
+| ------------------------ | --- | ---- | ---- |
+| None                     | `8` | `16` | `40` |
+| Extra Products +12.5%    | `8` | `15` | `36` |
+| Extra Products +20%      | `7` | `14` | `34` |
+| Extra Products +25%      | `7` | `13` | `32` |
+| Production Speedup +25%  | `7` | `13` | `32` |
+| Production Speedup +50%  | `6` | `11` | `27` |
+| Production Speedup +100% | `4` | `8`  | `20` |
+

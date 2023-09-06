@@ -1,23 +1,59 @@
 # Particle Broadband
 
-### Assembling-III
+## Blueprints
 
-- **Facilities**: 80 Assembling Machine Mk. II
-- **Consumption** (per minute)
-	- 600 Plastic
-	- 1200 Crystal Silicon
-	- 1800 Carbon Nanotube
-	- 155 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Particle Broadband
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/5-1.txt|5-1]]
 
-### Assembling-IV
+**Item transportation table**
 
-- **Facilities**: 128 Assembling Machine Mk. III
-- **Consumption** (per minute)
-	- 1440 Plastic
-	- 2800 Crystal Silicon
-	- 2880 Carbon Nanotube
-	- 150 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Particle Broadband
+| Conveyor Belt # | Direction | Item                      |
+| --------------- | --------- | ------------------------- |
+| 1               | Input     | [[Carbon Nanotube]] (1/2) |
+| 2               | Input     | [[Carbon Nanotube]] (1/2) |
+| 3               | Input     | [[Crystal Silicon]] (1/2) |
+| 4               | Input     | [[Crystal Silicon]] (1/2) |
+| 5               | Input     | [[Plastic]]               |
+| 6               | Output    | [[Particle Broadband]]    | 
+
+### Assembling Machine Mk.I
+
+The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360  | 720   | 1800  |
+| ------------------------ | ---- | ----- | ----- |
+| None                     | `64` | `128` | `320` |
+| Extra Products +12.5%    | `57` | `114` | `285` |
+| Extra Products +20%      | `54` | `107` | `267` |
+| Extra Products +25%      | `52` | `103` | `256` |
+| Production Speedup +25%  | `52` | `103` | `256` |
+| Production Speedup +50%  | `43` | `86`  | `214` |
+| Production Speedup +100% | `32` | `64`  | `160` |
+
+### Assembling Machine Mk.II
+
+The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360  | 720  | 1800  |
+| ------------------------ | ---- | ---- | ----- |
+| None                     | `48` | `96` | `240` |
+| Extra Products +12.5%    | `43` | `86` | `214` |
+| Extra Products +20%      | `40` | `80` | `200` |
+| Extra Products +25%      | `39` | `77` | `192` |
+| Production Speedup +25%  | `39` | `77` | `192` |
+| Production Speedup +50%  | `32` | `64` | `160` |
+| Production Speedup +100% | `24` | `48` | `120` |
+
+### Assembling Machine Mk.III
+
+The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360  | 720  | 1800  |
+| ------------------------ | ---- | ---- | ----- |
+| None                     | `32` | `64` | `160` |
+| Extra Products +12.5%    | `29` | `57` | `143` |
+| Extra Products +20%      | `27` | `54` | `134` |
+| Extra Products +25%      | `26` | `52` | `128` |
+| Production Speedup +25%  | `26` | `52` | `128` |
+| Production Speedup +50%  | `22` | `43` | `107` |
+| Production Speedup +100% | `16` | `32` | `80`  |
+

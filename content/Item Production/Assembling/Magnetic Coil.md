@@ -2,44 +2,56 @@
 
 ## Blueprints
 
-These blueprints also work with production of 
-- [[Item Production/Assembling/Circuit Board|Circuit Board]]
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/3-1.txt|3-1]]
 
-### Assembling-I
+**Item transportation table**
 
-- **Facilities**: 4 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 180 Copper Ingot
-	- 360 Magnet
-- **Production** (per minute)
-	- 360 Magnetic Coil
+| Conveyor Belt # | Direction | Item              |
+| --------------- | --------- | ----------------- |
+| 1               | Input     | [[Magnet]] (1/2)  |
+| 2               | Input     | [[Magnet]] (1/2)  | 
+| 3               | Input     | [[Copper Ingot]]  |
+| 4               | Output    | [[Circuit Board]] |
 
-### Assembling-II
+### Assembling Machine Mk.I
 
-- **Facilities**: 3 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 135 Copper Ingot
-	- 270 Magnet
-	- 59.063  unproliferated Proliferator Mk. I
-- **Production**
-	- 303.75 Magnetic Coil
+The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
 
-### Assembling-III
+| Proliferation            | 360         | 720         | 1800         |
+| ------------------------ | ----------- | ----------- | ------------ |
+| None                     | `2*2=4`     | `2*4=8`     | `2*10=20`    |
+| Extra Products +12.5%    | `2*2=4`     | `2*4=8`     | `2*9=18`     | 
+| Extra Products +20%      | `2*2=4`     | `(1*4)+3=7` | `(1*9)+8=17` |
+| Extra Products +25%      | `2*2=4`     | `(1*4)+3=7` | `2*8=16`     |
+| Production Speedup +25%  | `2*2=4`     | `(1*4)+3=7` | `2*8=16`     |
+| Production Speedup +50%  | `(1*2)+1=3` | `2*3=6`     | `2*7=14`     |
+| Production Speedup +100% | `2*1=2`     | `2*2=4`     | `2*5=10`     |
 
-- **Facilities**: 5 Assembling Machine Mk. II
-- **Consumption** (per minute)
-	- 300 Copper Ingot
-	- 600 Magnet
-	- 67.5 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Magnetic Coil
+### Assembling Machine Mk.II
 
-### Assembling-IV
+The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 8 Assembling Machine Mk. III
-- **Consumption** (per minute)
-	- 720 Copper Ingot
-	- 1440 Magnet
-	- 66 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Magnetic Coil
+| Proliferation            | 360         | 720         | 1800         |
+| ------------------------ | ----------- | ----------- | ------------ |
+| None                     | `(1*2)+1=3` | `2*3=6`     | `(1*8)+7=15` |
+| Extra Products +12.5%    | `(1*2)+1=3` | `2*3=6`     | `2*7=14`     |
+| Extra Products +20%      | `(1*2)+1=3` | `(1*3)+2=5` | `(1*7)+6=13` |
+| Extra Products +25%      | `(1*2)+1=3` | `(1*3)+2=5` | `2*6=12`     |
+| Production Speedup +25%  | `(1*2)+1=3` | `(1*3)+2=5` | `2*6=12`     |
+| Production Speedup +50%  | `2*1=2`     | `2*2=4`     | `2*5=10`     |
+| Production Speedup +100% | `2*1=2`     | `(1*2)+1=3` | `2*4=8`      |
+
+### Assembling Machine Mk.III
+
+The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360     | 720         | 1800        |
+| ------------------------ | ------- | ----------- | ----------- |
+| None                     | `2*1=2` | `2*2=4`     | `2*5=10`    |
+| Extra Products +12.5%    | `2*1=2` | `2*2=4`     | `(1*5)+4=9` |
+| Extra Products +20%      | `2*1=2` | `2*2=4`     | `(1*5)+4=9` |
+| Extra Products +25%      | `2*1=2` | `2*2=4`     | `2*4=8`     |
+| Production Speedup +25%  | `2*1=2` | `2*2=4`     | `2*4=8`     |
+| Production Speedup +50%  | `2*1=2` | `(1*2)+1=3` | `(1*4)+3=7` |
+| Production Speedup +100% | `1`     | `2*1=2`     | `(1*3)+2=5` |
+

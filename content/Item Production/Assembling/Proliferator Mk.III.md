@@ -1,18 +1,17 @@
-# Electromagnetic Turbine
+# Proliferator Mk.III
 
 ## Blueprints
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/4-1.txt|4-1]]
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/3-1.txt|3-1]]
 
 **Item transportation table**
 
-| Conveyor Belt # | Direction | Item                        |
-| --------------- | --------- | --------------------------- |
-| 1               | Input     | [[Electric Motor]] (1/2)    |
-| 2               | Input     | [[Electric Motor]] (1/2)    |
-| 3               | Input     | [[Magnetic Coil]] (1/2)     |
-| 4               | Input     | [[Magnetic Coil]] (1/2)     |
-| 5               | Output    | [[Electromagnetic Turbine]] | 
+| Conveyor Belt # | Direction | Item                         |
+| --------------- | --------- | ---------------------------- |
+| 1               | Input     | [[Proliferator Mk.II]] (1/2) |
+| 2               | Input     | [[Proliferator Mk.II]] (1/2) | 
+| 3               | Input     | [[Carbon Nanotube]]          |
+| 4               | Output    | [[Proliferator Mk.III]]      |
 
 ### Assembling Machine Mk.I
 
@@ -55,6 +54,4 @@ The number of **Assembling Machine Mk.III** required to satisfy different produc
 | Production Speedup +25%  | `7` | `13` | `32` |
 | Production Speedup +50%  | `6` | `11` | `27` |
 | Production Speedup +100% | `4` | `8`  | `20` |
-
-
 

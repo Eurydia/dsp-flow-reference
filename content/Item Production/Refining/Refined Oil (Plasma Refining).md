@@ -2,41 +2,27 @@
 
 ## Blueprints
 
-### Refining-I
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Oil Refinery/1-2.txt|1-2]]
 
-- **Facilities**: 12 Oil Refinery
-- **Consumption** (per minute)
-	- 360 Crude Oil
-- **Production** (per minute)
-	- 180 Hydrogen
-	- 360 Refined Oil
+**Item transportation table**
 
-### Refining-II
+| Conveyor Belt # | Direction  | Item            | Ratio |
+| --------------- | ---------- | --------------- | ----- |
+| 1               | Input      | [[Crude Oil]]   | 2/2   |
+| 2               | Output     | [[Hydrogen]]    | 1/1   |
+| 3               | Output (P) | [[Refined Oil]] | 2/2   |
 
-- **Facilities**: 10 Oil Refinery
-- **Consumption** (per minute)
-	- 300 Crude Oil
-	- 67.188 unproliferated Proliferator Mk. I (Production Speedup)
-- **Production**
-	- 168.75 Hydrogen
-	- 337.5 Refined Oil
+### Oil Refinery
 
-### Refining-III
+The number of **Oil Refinery** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 20 Oil Refinery
-- **Consumption** (per minute)
-	- 600 Crude Oil
-	- 70 unproliferated Proliferator Mk. II
-- **Production**
-	- 360 Hydrogen
-	- 720 Refined Oil
+| Proliferation            | 360  | 720  | 1800 |
+| ------------------------ | ---- | ---- | ---- |
+| None                     | `12` | `24` | `60` |
+| Extra Products +12.5%    | `11` | `22` | `54` |
+| Extra Products +20%      | `10` | `20` | `50` |
+| Extra Products +25%      | `10` | `20` | `48` |
+| Production Speedup +25%  | `10` | `20` | `48` |
+| Production Speedup +50%  | `8`  | `16` | `40` |
+| Production Speedup +100% | `6`  | `12` | `30` |
 
-### Refining-IV
-
-- **Facilities**: 48 Oil Refinery
-- **Consumption** (per minute)
-	- 1440 Crude Oil
-	- 69 unproliferated Proliferator Mk. III
-- **Production**
-	- 900 Hydrogen
-	- 1800 Refined Oil

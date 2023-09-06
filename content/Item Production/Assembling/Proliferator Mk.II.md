@@ -1,24 +1,23 @@
-# Foundation
+# Proliferator Mk.II
 
 ## Blueprints
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/4-1.txt|4-1]]
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/3-1.txt|3-1]]
 
 **Item transportation table**
 
-| Conveyor Belt # | Direction | Item                  |
-| --------------- | --------- | --------------------- |
-| 1               | Input     | [[Steel]]             | 
-| 2               | Input     | [[Stone Brick]] (1/3) |
-| 3               | Input     | [[Stone Brick]] (1/3) |
-| 4               | Input     | [[Stone Brick]] (1/3) |
-| 5               | Output    | [[Foundation]]        |
+| Conveyor Belt # | Direction | Item                        |
+| --------------- | --------- | --------------------------- |
+| 1               | Input     | [[Proliferator Mk.I]] (1/2) |
+| 2               | Input     | [[Proliferator Mk.I]] (1/2) |
+| 3               | Input     | [[Diamond]]                 |
+| 4               | Output    | [[Proliferator Mk.II]]      | 
 
 ### Assembling Machine Mk.I
 
 The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
 
-| Proliferation            | 360 | 720  | 1800 | 
+| Proliferation            | 360 | 720  | 1800 |
 | ------------------------ | --- | ---- | ---- |
 | None                     | `8` | `16` | `40` |
 | Extra Products +12.5%    | `8` | `15` | `36` |

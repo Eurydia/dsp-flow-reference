@@ -2,37 +2,54 @@
 
 ## Blueprints
 
-### Assembling-I
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Assembling Machine/1-1.txt|1-1]]
 
-- **Facilities**: 8 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 360 Iron Ingot
-- **Production** (per minute)
-	- 360 Gear
+**Item transportation table**
 
-### Assembling-II
+| Conveyor Belt # | Direction | Item           |
+| --------------- | --------- | -------------- |
+| 1               | Input     | [[Iron Ingot]] |
+| 2               | Output    | [[Gear]]       | 
 
-- **Facilities**: 7 Assembling Machine Mk. I
-- **Consumption** (per minute)
-	- 315 Iron Ingot
-	- 55.781 unproliferated Proliferator Mk. I
-- **Production**
-	- 354.375 Gear
+### Assembling Machine Mk.I
 
-### Assembling-III
+The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 10 Assembling Machine Mk. II
-- **Consumption** (per minute)
-	- 600 Iron Ingot
-	- 55 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Gear
+| Proliferation            | 360 | 720  | 1800 |
+| ------------------------ | --- | ---- | ---- |
+| None                     | `8` | `16` | `40` |
+| Extra Products +12.5%    | `8` | `15` | `36` | 
+| Extra Products +20%      | `7` | `14` | `34` |
+| Extra Products +25%      | `7` | `13` | `32` |
+| Production Speedup +25%  | `7` | `13` | `32` |
+| Production Speedup +50%  | `6` | `11` | `27` |
+| Production Speedup +100% | `4` | `8`  | `20` |
 
-### Assembling-IV
+### Assembling Machine Mk.II
 
-- **Facilities**: 16 Assembling Machine Mk. III
-- **Consumption** (per minute)
-	- 1440 Iron Ingot
-	- 54 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Gear
+The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360 | 720  | 1800 |
+| ------------------------ | --- | ---- | ---- |
+| None                     | `6` | `12` | `30` |
+| Extra Products +12.5%    | `6` | `11` | `27` |
+| Extra Products +20%      | `5` | `10` | `25` |
+| Extra Products +25%      | `5` | `10` | `24` |
+| Production Speedup +25%  | `5` | `10` | `24` |
+| Production Speedup +50%  | `4` | `8`  | `20` |
+| Production Speedup +100% | `3` | `6`  | `15` |
+
+### Assembling Machine Mk.III
+
+The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
+
+| Proliferation            | 360 | 720 | 1800 |
+| ------------------------ | --- | --- | ---- |
+| None                     | `4` | `8` | `20` |
+| Extra Products +12.5%    | `4` | `8` | `18` |
+| Extra Products +20%      | `4` | `7` | `17` |
+| Extra Products +25%      | `4` | `7` | `16` |
+| Production Speedup +25%  | `4` | `7` | `16` |
+| Production Speedup +50%  | `3` | `6` | `14` |
+| Production Speedup +100% | `2` | `4` | `10` |
+
