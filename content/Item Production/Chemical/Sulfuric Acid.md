@@ -1,54 +1,48 @@
 # Sulfuric Acid
 
-## Blueprints
+## Blueprint
 
-### Chemical-I
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Chemical/5-1.txt|5-1]]
 
-- **Facilities**: 9 Chemical Plant
-- **Consumption** (per minute)
-	- 360 Water
-	- 540 Refined Oil
-	- 720 Stone
-- **Production** (per minute)
-	- 360 Sulfuric Acid
+**Item transportation table**
 
-### Chemical-II
+| Conveyor Belt # | Direction | Item              | Ratio |
+| --------------- | --------- | ----------------- | ----- |
+| 1               | Input     | [[Water]]         | 4/4   |
+| 2               | Input     | [[Refined Oil]]   | 3/6   |
+| 3               | Input     | [[Refined Oil]]   | 3/6   |
+| 4               | Input     | [[Stone]]         | 4/8   |
+| 5               | Input     | [[Stone]]         | 4/8   |
+| 6               | Output    | [[Sulfuric Acid]] | 4/4   |
 
-- **Facilities**: 8 Chemical Plant
-- **Consumption** (per minute)
-	- 320 Water
-	- 480 Refined Oil
-	- 640 Stone
-	- 150 unproliferated Proliferator Mk. I
-- **Production**
-	- 360 Sulfuric Acid
+### Chemical Plant
 
-### Chemical-III
+The number of **Chemical Plant** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 15 Chemical Plant
-- **Consumption** (per minute)
-	- 600 Water
-	- 900 Refined Oil
-	- 1200 Stone
-	- 142.5 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Sulfuric Acid
+The square brackets represents the greatest production capacity without going over.
 
-### Chemical-IV
+| Proliferation            | 360         | 720          | 1800          |
+| ------------------------ | ----------- | ------------ | ------------- |
+| None                     | `9`         | `18`         | `45`          |
+| Extra Products +12.5%    | `8`         | `16`         | `40`          |
+| Extra Products +20%      | `7 [336.0]` | `15`         | `37 [1776.0]` |
+| Extra Products +25%      | `7 [350.0]` | `14 [700.0]` | `36`          |
+| Production Speedup +25%  | `7 [350.0]` | `14 [700.0]` | `36`          |
+| Production Speedup +50%  | `6`         | `12`         | `30`          |
+| Production Speedup +100% | `4 [320.0]` | `9`          | `22 [1760.0]` |
 
-- **Facilities**: 36 Chemical Plant
-- **Consumption** (per minute)
-	- 1440 Water
-	- 2160 Refined Oil
-	- 2880 Stone
-	- 138 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Sulfuric Acid
+### Quantum Chemical Plant
 
-### Chemical-V
+The number of **Quantum Chemical Plant** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 18 Quantum Chemical Plant
-- **Consumption** (per minute)
-	- Same as [[#Chemical-IV]]
-- **Production** (per minute)
-	- Same as [[#Chemical-IV]]
+The square brackets represents the greatest production capacity without going over.
+
+| Proliferation            | 360         | 720         | 1800          |
+| ------------------------ | ----------- | ----------- | ------------- |
+| None                     | `4 [320.0]` | `9`         | `22 [1760.0]` |
+| Extra Products +12.5%    | `4`         | `8`         | `20`          |
+| Extra Products +20%      | `3 [288.0]` | `7 [672.0]` | `18 [1728.0]` |
+| Extra Products +25%      | `3 [300.0]` | `7 [700.0]` | `18`          |
+| Production Speedup +25%  | `3 [300.0]` | `7 [700.0]` | `18`          |
+| Production Speedup +50%  | `3`         | `6`         | `15`          |
+| Production Speedup +100% | `2 [320.0]` | `4 [640.0]` | `11 [1760.0]` |

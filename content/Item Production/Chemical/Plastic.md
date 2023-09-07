@@ -1,50 +1,46 @@
 # Plastic
 
-## Blueprints
+## Blueprint
 
-### Chemical-I
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Chemical/3-1.txt|3-1]]
 
-- **Facilities**: 18 Chemical Plant
-- **Consumption** (per minute)
-	- 360 Graphene
-	- 720 Refined Oil
-- **Production** (per minute)
-	- 360 Plastic
+**Item transportation table**
 
-### Chemical-II
+| Conveyor Belt # | Direction | Item            | Ratio |
+| --------------- | --------- | --------------- | ----- |
+| 1               | Input     | [[Graphene]]    | 1/1   |
+| 2               | Input     | [[Refined Oil]] | 1/2   |
+| 3               | Input     | [[Refined Oil]] | 1/2   |
+| 4               | Output    | [[Plastic]]     | 1/1   |
 
-- **Facilities**: 8 Chemical Plant
-- **Consumption** (per minute)
-	- 320 Graphene
-	- 640 Refined Oil
-	- 110 unproliferated Proliferator Mk. I
-- **Production**
-	- 360 Plastic
+### Chemical Plant
 
-### Chemical-III
+The number of **Chemical Plant** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 30 Chemical Plant
-- **Consumption** (per minute)
-	- 600 Graphene
-	- 1200 Refined Oil
-	- 105 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Plastic
+The square brackets represents the greatest production capacity without going over.
 
-### Chemical-IV
+| Proliferation            | 360          | 720          | 1800 |
+| ------------------------ | ------------ | ------------ | ---- |
+| None                     | `18`         | `36`         | `90` |
+| Extra Products +12.5%    | `16`         | `32`         | `80` |
+| Extra Products +20%      | `15`         | `30`         | `75` |
+| Extra Products +25%      | `14 [350.0]` | `28 [700.0]` | `72` |
+| Production Speedup +25%  | `14 [350.0]` | `28 [700.0]` | `72` |
+| Production Speedup +50%  | `12`         | `24`         | `60` |
+| Production Speedup +100% | `9`          | `18`         | `45` |
 
-- **Facilities**: 36 Chemical Plant
-- **Consumption** (per minute)
-	- 1440 Graphene
-	- 2880 Refined Oil
-	- 102 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Plastic
+### Quantum Chemical Plant
 
-### Chemical-V
+The number of **Quantum Chemical Plant** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 18 Quantum Chemical Plant
-- **Consumption** (per minute)
-	- Same as [[#Chemical-IV]]
-- **Production** (per minute)
-	- Same as [[#Chemical-IV]]
+The square brackets represents the greatest production capacity without going over.
+
+| Proliferation            | 360         | 720          | 1800          |
+| ------------------------ | ----------- | ------------ | ------------- |
+| None                     | `9`         | `18`         | `45`          |
+| Extra Products +12.5%    | `8`         | `16`         | `40`          |
+| Extra Products +20%      | `7 [336.0]` | `15`         | `37 [1776.0]` |
+| Extra Products +25%      | `7 [350.0]` | `14 [700.0]` | `36`          |
+| Production Speedup +25%  | `7 [350.0]` | `14 [700.0]` | `36`          |
+| Production Speedup +50%  | `6`         | `12`         | `30`          |
+| Production Speedup +100% | `4 [320.0]` | `9`          | `22 [1760.0]` |

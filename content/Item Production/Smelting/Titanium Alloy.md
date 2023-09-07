@@ -1,15 +1,15 @@
 # Titanium Alloy
 
-## Blueprints
+## Blueprint
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/4-1.txt|4-1]]
+**Recommended standard blueprints**: [[content/Blueprints/Smelting/4-1.txt|4-1]]
 
 **Item transportation table**
 
 | Conveyor Belt # | Direction | Item               | Ratio |
 | --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Steel]]          | 4/4   |
-| 2               | Input     | [[Titanium Ingot]] | 4/4   |
+| 1               | Input     | [[Titanium Ingot]] | 4/4   |
+| 2               | Input     | [[Steel]]          | 4/4   |
 | 3               | Input     | [[Sulfuric Acid]]  | 4/8   |
 | 4               | Input     | [[Sulfuric Acid]]  | 4/8   |
 | 5               | Output    | [[Titanium Alloy]] | 4/4   |
@@ -45,4 +45,3 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +25%  | `7 [350.0]` | `14 [700.0]` | `36`          |
 | Production Speedup +50%  | `6`         | `12`         | `30`          |
 | Production Speedup +100% | `4 [320.0]` | `9`          | `22 [1760.0]` |
-

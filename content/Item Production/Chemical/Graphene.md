@@ -1,50 +1,47 @@
 # Graphene
 
-## Blueprints
+## Blueprint
 
-### Chemical-I
+**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Chemical/4-1.txt|4-1]]
 
-- **Facilities**: 9 Chemical Plant
-- **Consumption** (per minute)
-	- 180 Sulfuric Acid
-	- 540 Energetic Graphite
-- **Production** (per minute)
-	- 360 Graphene
+**Item transportation table**
 
-### Chemical-II
+| Conveyor Belt # | Direction | Item                   | Ratio |
+| --------------- | --------- | ---------------------- | ----- |
+| 1               | Input     | [[Energetic Graphite]] | 1/3   |
+| 2               | Input     | [[Energetic Graphite]] | 1/3   |
+| 3               | Input     | [[Energetic Graphite]] | 1/3   |
+| 4               | Input     | [[Sulfuric Acid]]      | 1/1   |
+| 5               | Output    | [[Graphene]]           | 2/2   |
 
-- **Facilities**: 8 Chemical Plant
-- **Consumption** (per minute)
-	- 160 Sulfuric Acid
-	- 480 Energetic Graphite
-	- 83.33 unproliferated Proliferator Mk. I
-- **Production**
-	- 360 Graphene
+### Chemical Plant
 
-### Chemical-III
+The number of **Chemical Plant** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 15 Chemical Plant
-- **Consumption** (per minute)
-	- 300 Sulfuric Acid
-	- 900 Energetic Graphite
-	- 80 unproliferated Proliferator Mk. II
-- **Production**  (per minute)
-	- 720 Graphene
+The square brackets represents the greatest production capacity without going over.
 
-### Chemical-IV
+| Proliferation            | 360         | 720          | 1800          |
+| ------------------------ | ----------- | ------------ | ------------- |
+| None                     | `9`         | `18`         | `45`          |
+| Extra Products +12.5%    | `8`         | `16`         | `40`          |
+| Extra Products +20%      | `7 [336.0]` | `15`         | `37 [1776.0]` |
+| Extra Products +25%      | `7 [350.0]` | `14 [700.0]` | `36`          |
+| Production Speedup +25%  | `7 [350.0]` | `14 [700.0]` | `36`          |
+| Production Speedup +50%  | `6`         | `12`         | `30`          |
+| Production Speedup +100% | `4 [320.0]` | `9`          | `22 [1760.0]` |
 
-- **Facilities**: 36 Chemical Plant
-- **Consumption** (per minute)
-	- 720 Sulfuric Acid
-	- 2160 Energetic Graphite
-	- 78 unproliferated Proliferator Mk. III
-- **Production** (per minute)
-	- 1800 Graphene
+### Quantum Chemical Plant
 
-### Chemical-V
+The number of **Quantum Chemical Plant** required to satisfy different production targets (items per minute).
 
-- **Facilities**: 18 Quantum Chemical Plant
-- **Consumption** (per minute)
-	- Same as [[#Chemical-IV]]
-- **Production** (per minute)
-	- Same as [[#Chemical-IV]]
+The square brackets represents the greatest production capacity without going over.
+
+| Proliferation            | 360         | 720         | 1800          |
+| ------------------------ | ----------- | ----------- | ------------- |
+| None                     | `4 [320.0]` | `9`         | `22 [1760.0]` |
+| Extra Products +12.5%    | `4`         | `8`         | `20`          |
+| Extra Products +20%      | `3 [288.0]` | `7 [672.0]` | `18 [1728.0]` |
+| Extra Products +25%      | `3 [300.0]` | `7 [700.0]` | `18`          |
+| Production Speedup +25%  | `3 [300.0]` | `7 [700.0]` | `18`          |
+| Production Speedup +50%  | `3`         | `6`         | `15`          |
+| Production Speedup +100% | `2 [320.0]` | `4 [640.0]` | `11 [1760.0]` |

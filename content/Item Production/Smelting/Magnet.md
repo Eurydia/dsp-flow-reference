@@ -1,8 +1,8 @@
 # Magnet
 
-## Blueprints
+## Blueprint
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
+**Recommended standard blueprints**: [[content/Blueprints/Smelting/1-1.txt|1-1]]
 
 **Item transportation table**
 
@@ -42,4 +42,3 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +25%  | `3 [300.0]` | `7 [700.0]` | `18`          |
 | Production Speedup +50%  | `3`         | `6`         | `15`          |
 | Production Speedup +100% | `2 [320.0]` | `4 [640.0]` | `11 [1760.0]` |
-

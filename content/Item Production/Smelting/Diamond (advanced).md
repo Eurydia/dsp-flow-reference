@@ -1,15 +1,15 @@
 # Diamond (advanced)
 
-## Blueprints
+## Blueprint
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
+**Recommended standard blueprints**: [[content/Blueprints/Smelting/1-1.txt|1-1]]
 
 **Item transportation table**
 
 | Conveyor Belt # | Direction | Item               | Ratio |
 | --------------- | --------- | ------------------ | ----- |
 | 1               | Input     | [[Kimberlite Ore]] | 1/1   |
-| 2               | Output    | [[Diamond]]        | 2/2   | 
+| 2               | Output    | [[Diamond]]        | 2/2   |
 
 ### Arc Smelter
 
@@ -42,4 +42,3 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +25%  | `1 [200.0]` | `3 [600.0]` | `9`           |
 | Production Speedup +50%  | `1 [240.0]` | `3`         | `7 [1680.0]`  |
 | Production Speedup +100% | `1 [320.0]` | `2 [640.0]` | `5 [1600.0]`  |
-

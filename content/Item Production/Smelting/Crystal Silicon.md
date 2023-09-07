@@ -1,15 +1,15 @@
 # Crystal Silicon
 
-## Blueprints
+## Blueprint
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
+**Recommended standard blueprints**: [[content/Blueprints/Smelting/1-1.txt|1-1]]
 
 **Item transportation table**
 
-| Conveyor Belt # | Direction  | Item                    | Ratio |
-| --------------- | ---------- | ----------------------- | ----- |
-| 1               | Input      | [[High-purity Silicon]] | 1/1   | 
-| 2               | Output (P) | [[Crystal Silicon]]     | 1/1   |
+| Conveyor Belt # | Direction | Item                    | Ratio |
+| --------------- | --------- | ----------------------- | ----- |
+| 1               | Input     | [[High-Purity Silicon]] | 1/1   |
+| 2               | Output    | [[Crystal Silicon]]     | 1/1   |
 
 ### Arc Smelter
 
@@ -42,4 +42,3 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +25%  | `4 [300.0]` | `9 [675.0]`  | `24`          |
 | Production Speedup +50%  | `4`         | `8`          | `20`          |
 | Production Speedup +100% | `3`         | `6`          | `15`          |
-

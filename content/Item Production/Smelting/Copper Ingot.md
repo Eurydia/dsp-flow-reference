@@ -1,15 +1,15 @@
 # Copper Ingot
 
-## Blueprints
+## Blueprint
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Smelter/1-1.txt|1-1]]
+**Recommended standard blueprints**: [[content/Blueprints/Smelting/1-1.txt|1-1]]
 
 **Item transportation table**
 
-| Conveyor Belt # | Direction  | Item             | Ratio |
-| --------------- | ---------- | ---------------- | ----- |
-| 1               | Input      | [[Copper Ore]]   | 1/1   |
-| 2               | Output (P) | [[Copper Ingot]] | 1/1   |
+| Conveyor Belt # | Direction | Item             | Ratio |
+| --------------- | --------- | ---------------- | ----- |
+| 1               | Input     | [[Copper Ore]]   | 1/1   |
+| 2               | Output    | [[Copper Ingot]] | 1/1   |
 
 ### Arc Smelter
 
@@ -42,4 +42,3 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +25%  | `2 [300.0]` | `4 [600.0]` | `12`          |
 | Production Speedup +50%  | `2`         | `4`         | `10`          |
 | Production Speedup +100% | `1 [240.0]` | `3`         | `7 [1680.0]`  |
-
