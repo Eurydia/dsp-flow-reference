@@ -4,6 +4,8 @@
 
 ### Smelter: [[content/Blueprints/Smelting/1-1.txt|1-1]]
 
+![[Smelter 1I-1O.png]]
+
 - [[Copper Ingot]]
 - [[Magnet]]
 - [[Iron Ingot]]
