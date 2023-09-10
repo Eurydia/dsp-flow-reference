@@ -2,7 +2,7 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Standard Set/Blueprints/Particle Collider/1-2.txt|1-2]]
+**Recommended standard blueprints**: [[content/Blueprints/Particle Collider/Particle Collider 1I-2O.txt|Particle Collider 1I-2O]]
 
 **Item transportation table**
 

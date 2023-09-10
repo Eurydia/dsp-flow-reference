@@ -2,7 +2,7 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Assembler/1-1.txt|1-1]]
+**Recommended standard blueprints**: [[content/Blueprints/Assembler/Assembler 1I-1O.txt|Assembler 1I-1O]]
 
 **Item transportation table**
 
