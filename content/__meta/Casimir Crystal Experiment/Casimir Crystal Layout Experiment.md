@@ -2,6 +2,7 @@
 
 **Controlled variables:**
 - no proliferation
+- no cargo stacking
 - Assembling Machine Mk. III only
 - Conveyor Belt Mk.III only
 - Planetary Logistic Station as source/sink
