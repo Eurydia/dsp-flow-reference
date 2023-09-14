@@ -2,9 +2,9 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Refining Facility/Refining Facility 1I-2O.txt|Refining Facility 1I-2O]]
+**Recommended standard blueprints**: [[Refining Facility 1-2.txt]]
 
-**Item transportation table**
+**I/O table**
 
 | Conveyor Belt # | Direction | Item            | Ratio |
 | --------------- | --------- | --------------- | ----- |
@@ -13,10 +13,6 @@
 | 3               | Output    | [[Refined Oil]] | 2/2   |
 
 ### Oil Refinery
-
-The number of **Oil Refinery** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360          | 720           | 1800           |
 | ------------------------ | ------------ | ------------- | -------------- |

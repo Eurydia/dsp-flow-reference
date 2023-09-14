@@ -2,9 +2,9 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Chemical Facility/Chemical Facility 1I-2O.txt|Chemical Facility 1I-2O]]
+**Recommended standard blueprints**: [[Chemical Facility 1-2.txt]]
 
-**Item transportation table**
+**I/O table**
 
 | Conveyor Belt # | Direction | Item         | Ratio |
 | --------------- | --------- | ------------ | ----- |
@@ -13,10 +13,6 @@
 | 3               | Output    | [[Graphene]] | 2/2   |
 
 ### Chemical Plant
-
-The number of **Chemical Plant** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360         | 720          | 1800          |
 | ------------------------ | ----------- | ------------ | ------------- |
@@ -29,10 +25,6 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +100% | `3`         | `6`          | `15`          |
 
 ### Quantum Chemical Plant
-
-The number of **Quantum Chemical Plant** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360         | 720         | 1800          |
 | ------------------------ | ----------- | ----------- | ------------- |

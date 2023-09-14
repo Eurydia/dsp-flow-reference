@@ -2,9 +2,9 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Smelting Facility/Smelting Facility 4I-1O.txt|Smelting Facility 4I-1O]]
+**Recommended standard blueprints**: [[Smelting Facility 4-1.txt]]
 
-**Item transportation table**
+**I/O table**
 
 | Conveyor Belt # | Direction | Item               | Ratio |
 | --------------- | --------- | ------------------ | ----- |
@@ -15,10 +15,6 @@
 | 5               | Output    | [[Titanium Alloy]] | 4/4   |
 
 ### Arc Smelter
-
-The number of **Arc Smelter** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360          | 720          | 1800 |
 | ------------------------ | ------------ | ------------ | ---- |
@@ -31,10 +27,6 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +100% | `9`          | `18`         | `45` |
 
 ### Plane Smelter
-
-The number of **Plane Smelter** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360         | 720          | 1800          |
 | ------------------------ | ----------- | ------------ | ------------- |

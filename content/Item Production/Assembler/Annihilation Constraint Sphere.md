@@ -2,9 +2,9 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Assembler/Assembler 2I-1O.txt|Assembler 2I-1O]]
+**Recommended standard blueprints**: [[Assembler 2-1.txt]]
 
-**Item transportation table**
+**I/O table**
 
 | Conveyor Belt # | Direction | Item                               | Ratio |
 | --------------- | --------- | ---------------------------------- | ----- |
@@ -13,10 +13,6 @@
 | 3               | Output    | [[Annihilation Constraint Sphere]] | 1/1   |
 
 ### Assembling Machine Mk.I
-
-The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360            | 720            | 1800            |
 | ------------------------ | -------------- | -------------- | --------------- |
@@ -30,10 +26,6 @@ The square brackets represents the greatest production capacity without going ov
 
 ### Assembling Machine Mk.II
 
-The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
-
 | Proliferation            | 360            | 720            | 1800            |
 | ------------------------ | -------------- | -------------- | --------------- |
 | None                     | `120`          | `240`          | `600`           |
@@ -45,10 +37,6 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +100% | `60`           | `120`          | `300`           |
 
 ### Assembling Machine Mk.III
-
-The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360           | 720            | 1800            |
 | ------------------------ | ------------- | -------------- | --------------- |

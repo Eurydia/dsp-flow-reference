@@ -2,9 +2,9 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Research Facility/Research Facility 6I-1O.txt|Research Facility 6I-1O]]
+**Recommended standard blueprints**: [[Research Facility 6-1.txt]]
 
-**Item transportation table**
+**I/O table**
 
 | Conveyor Belt # | Direction | Item                       | Ratio |
 | --------------- | --------- | -------------------------- | ----- |
@@ -17,10 +17,6 @@
 | 7               | Output    | [[Universe Matrix]]        | 1/1   |
 
 ### Matrix Lab
-
-The number of **Matrix Lab** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360  | 720   | 1800  |
 | ------------------------ | ---- | ----- | ----- |

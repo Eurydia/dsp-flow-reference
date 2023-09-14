@@ -24,4 +24,5 @@ All blueprints must be designed with the following conventions in mind.
 
 - **Grounded**: Conveyor Belts must not leave the ground level
 - **Manhattan geometry**: Conveyor Belts must follow the Manhattan geometry
-- **End-extensible**: A module extends one another at the end and not the front 
+- **End-extensible**: A module extends one another at the end, not the front
+- **Belt connection**: A facility can connect to a line of Conveyor Belt at most once

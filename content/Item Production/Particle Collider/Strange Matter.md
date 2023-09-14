@@ -2,9 +2,9 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Particle Collider/Particle Collider 4I-1O.txt|Particle Collider 4I-1O]]
+**Recommended standard blueprints**: [[Particle Collider 4-1.txt]]
 
-**Item transportation table**
+**I/O table**
 
 | Conveyor Belt # | Direction | Item                   | Ratio |
 | --------------- | --------- | ---------------------- | ----- |
@@ -15,10 +15,6 @@
 | 5               | Output    | [[Strange Matter]]     | 1/1   |
 
 ### Miniature Particle Collider
-
-The number of **Miniature Particle Collider** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360                   | 720                    | 1800                      |
 | ------------------------ | --------------------- | ---------------------- | ------------------------- |

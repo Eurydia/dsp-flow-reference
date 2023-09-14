@@ -2,9 +2,9 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[content/Blueprints/Assembler/Assembler 3I-1O.txt|Assembler 3I-1O]]
+**Recommended standard blueprints**: [[Assembler 3-1.txt]]
 
-**Item transportation table**
+**I/O table**
 
 | Conveyor Belt # | Direction | Item               | Ratio |
 | --------------- | --------- | ------------------ | ----- |
@@ -14,10 +14,6 @@
 | 4               | Output    | [[Titanium Glass]] | 2/2   |
 
 ### Assembling Machine Mk.I
-
-The number of **Assembling Machine Mk.I** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360           | 720           | 1800          |
 | ------------------------ | ------------- | ------------- | ------------- |
@@ -31,10 +27,6 @@ The square brackets represents the greatest production capacity without going ov
 
 ### Assembling Machine Mk.II
 
-The number of **Assembling Machine Mk.II** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
-
 | Proliferation            | 360          | 720          | 1800          |
 | ------------------------ | ------------ | ------------ | ------------- |
 | None                     | `15`         | `30`         | `75`          |
@@ -46,10 +38,6 @@ The square brackets represents the greatest production capacity without going ov
 | Production Speedup +100% | `7 [336.0]`  | `15`         | `37 [1776.0]` |
 
 ### Assembling Machine Mk.III
-
-The number of **Assembling Machine Mk.III** required to satisfy different production targets (items per minute).
-
-The square brackets represents the greatest production capacity without going over.
 
 | Proliferation            | 360         | 720          | 1800          |
 | ------------------------ | ----------- | ------------ | ------------- |
