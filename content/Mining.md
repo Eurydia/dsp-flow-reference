@@ -16,9 +16,11 @@ n = Bv / (M * (1 + (0.1 * Vu)))
 
 > [!important] Ores and rare veins are gathered at a fixed speed regardless of the difficulty level.
 
-## Mining Machines
+## Reference
 
-### 360 items per minute
+### Mining Machines
+
+#### 360 items per minute
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
@@ -35,7 +37,7 @@ n = Bv / (M * (1 + (0.1 * Vu)))
 | 50                     | 2                        |
 | 110                    | 1                        |
 
-### 720 items per minute
+#### 720 items per minute
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
@@ -61,7 +63,7 @@ n = Bv / (M * (1 + (0.1 * Vu)))
 | 110                    | 2                        |
 | 230                    | 1                        |
 
-### 1800 items per minute
+#### 1800 items per minute
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
@@ -105,9 +107,9 @@ n = Bv / (M * (1 + (0.1 * Vu)))
 | 290                    | 2                        |
 | 590                    | 1                        |
 
-## Advanced Mining Machines
+### Advanced Mining Machines
 
-### 1800 items per minuet
+#### 1800 items per minuet
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
