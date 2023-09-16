@@ -5,6 +5,7 @@
 While writing notes, the content must be written with the following in mind:
 - ~~**Markdown syntax**: Notes must be written in basic Markdown syntax to ensure portability~~
 - **In-game items**: Mentions of in-game items are capitalized based on what is displayed in the game
+- **Avoid math block**: Use a multiline code block instead of a math block
 
 ## Vault Structure
 

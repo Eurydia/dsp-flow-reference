@@ -2,24 +2,23 @@
 
 ## General Formula
 
-$$
-\begin{align*}
-n = \frac{V}{M\cdot(1+0.1k)}
-\end{align*}
-$$
 
-| Symbol | Meaning                                 |
-| ------ | --------------------------------------- |
-| $n$    | Number of nodes required                |
-| $V$    | Transport volume (item per minute)      |
-| $M$    | Mining speed (item per minute per node) |
-| $k$    | Vein Utilization level                  |
+```
+n = Bv / (M * (1 + (0.1 * Vu)))
+```
+
+| Symbol | Meaning                                      |
+| ------ | -------------------------------------------- |
+| `n`    | # of nodes required                          |
+| `Bv`   | Belt capacity (item per minute)              |
+| `M`    | Base mining speed (item per minute per node) |
+| `Vu`   | Vein Utilization level                       |
 
 > [!important] Ores and rare veins are gathered at a fixed speed regardless of the difficulty level.
 
 ## Mining Machines
 
-### 360 items per minuet
+### 360 items per minute
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
