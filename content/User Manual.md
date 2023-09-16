@@ -13,15 +13,7 @@ For example, the term "14-Arc Smelter factory" conveys that the factory consists
 
 ### Assembler
 
-#### [[Assembler 1-1.txt]]
-
-**Individual module**
-
-![[Assembler 1-1.png]]
-
-**Connected**
-
-![[Assembler 1-1 (connected).png]]
+#### Assembler 1-1.txt
 
 **Recommended recipes:**
 - [[Crystal Silicon (advanced)]]
@@ -30,15 +22,7 @@ For example, the term "14-Arc Smelter factory" conveys that the factory consists
 - [[Space Warper]]
 - [[Space Warper (advanced)]]
 
-#### [[Assembler 2-1.txt]]
-
-**Individual module**
-
-![[Assembler 2-1.png]]
-
-**Connected**
-
-![[Assembler 2-1 (connected).png]]
+#### Assembler 2-1.txt
 
 **Recommended recipes:**
 - [[Annihilation Constraint Sphere]]
@@ -46,15 +30,7 @@ For example, the term "14-Arc Smelter factory" conveys that the factory consists
 - [[Reinforced Thruster]]
 - [[Solar Sail]]
 
-#### [[Assembler 3-1.txt]]
-
-**Individual module**
-
-![[Assembler 3-1.png]]
-
-**Connected**
-
-![[Assembler 3-1 (connected).png]]
+#### Assembler 3-1.txt
 
 **Recommended recipes:**
 - [[Circuit Board]]
@@ -75,15 +51,7 @@ For example, the term "14-Arc Smelter factory" conveys that the factory consists
 - [[Thruster]]
 - [[Titanium Glass]]
 
-#### [[Assembler 4-1.txt]]
-
-**Individual module**
-
-![[Assembler 4-1.png]]
-
-**Connected**
-
-![[Assembler 4-1 (connected).png]]
+#### Assembler 4-1.txt
 
 **Recommended recipes:**
 - [[Antimatter Fuel Rod]]
@@ -98,15 +66,7 @@ For example, the term "14-Arc Smelter factory" conveys that the factory consists
 - [[Small Carrier Rocket]]
 - [[Titanium Crystal]]
 
-#### [[Assembler 5-1.txt]]
-
-**Individual module**
-
-![[Assembler 5-1.png]]
-
-**Connected**
-
-![[Assembler 5-1 (connected).png]]
+#### Assembler 5-1.txt
 
 **Recommended recipes:**
 - [[Casimir Crystal]]
@@ -117,222 +77,106 @@ For example, the term "14-Arc Smelter factory" conveys that the factory consists
 
 ### Chemical Facility
 
-#### [[Chemical Facility 1-2.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Chemical Facility 1-2.txt
 
 **Recommended recipes:**
 - [[Graphene (advanced)]]
 
-#### [[Chemical Facility 2-3.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Chemical Facility 2-3.txt
 
 **Recommended recipes:**
 - [[Hydrogen (Graphene (advanced))]]
 
-#### [[Chemical Facility 3-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Chemical Facility 3-1.txt
 
 **Recommended recipes:**
 - [[Carbon Nanotube (advanced)]]
 - [[Plastic]]
 
-#### [[Chemical Facility 4-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Chemical Facility 4-1.txt
 
 **Recommended recipes:**
 - [[Carbon Nanotube]]
 - [[Graphene]]
 - [[Organic Crystal]]
 
-#### [[Chemical Facility 5-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Chemical Facility 5-1.txt
 
 **Recommended recipes:**
 - [[Sulfuric Acid]]
 
 ### Particle Collider
 
-#### [[Particle Collider 1-2.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Particle Collider 1-2.txt
 
 **Recommended recipes:**
 - [[Antimatter]]
 - [[Hydrogen (Critical Photon)]]
 
-#### [[Particle Collider 2-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Particle Collider 2-1.txt
 
 **Recommended recipes:**
 - [[Deuterium]]
 
-#### [[Particle Collider 4-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Particle Collider 4-1.txt
 
 **Recommended recipes:**
 - [[Strange Matter]]
 
 ### Refining Facility
 
-#### [[Refining Facility 1-2.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Refining Facility 1-2.txt
 
 **Recommended recipes:**
 - [[Refined Oil]]
 
-#### [[Refining Facility 2-2.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Refining Facility 2-2.txt
 
 **Recommended recipes:**
 - [[Hydrogen (X-Ray Cracking)]]
 
-#### [[Refining Facility 2-3.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Refining Facility 2-3.txt
 
 **Recommended recipes:**
 - [[Hydrogen (Plasma Refining)]]
 
-#### [[Refining Facility 2-4.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Refining Facility 2-4.txt
 
 **Recommended recipes:**
 - [[Energetic Graphite]]
 
-#### [[Refining Facility 3-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Refining Facility 3-1.txt
 
 **Recommended recipes:**
 - [[Refined Oil (Reforming Refine)]]
 
 ### Research Facility
 
-%% The Assembler modules can be placed on the first zone to the eighth zone on either hemisphere.
-Their footprints do not fit on the ninth, tenth, eleventh, and twelfth zone. %%
-
-#### [[Research Facility 2-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Research Facility 2-1.txt
 
 **Recommended recipes:**
 - [[Electromagnetic Matrix]]
 - [[Gravity Matrix]]
 - [[Structure Matrix]]
 
-#### [[Research Facility 3-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Research Facility 3-1.txt
 
 **Recommended recipes:**
 - [[Information Matrix]]
 
-#### [[Research Facility 4-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Research Facility 4-1.txt
 
 **Recommended recipes:**
 - [[Energy Matrix]]
 
-#### [[Research Facility 6-1.txt]]
-
-**Individual module**
-
-
-**Connected**
-
+#### Research Facility 6-1.txt
 
 **Recommended recipes:**
 - [[Universe Matrix]]
 
 ### Smelting Facility
 
-The Smelting Facility modules can be placed on the first zone to the eighth zone on either hemisphere.
-Their footprints do not fit on the ninth, tenth, eleventh, and twelfth zone.
-
-#### [[Smelting Facility 1-1.txt]]
-
-**Individual module**
-
-![[Smelting Facility 1-1.png]]
-
-**Connected**
-
-![[Smelting Facility 1-1 (connected).png]]
+#### Smelting Facility 1-1.txt
 
 **Recommended recipes**:
 - [[Copper Ingot]]
@@ -343,15 +187,7 @@ Their footprints do not fit on the ninth, tenth, eleventh, and twelfth zone.
 - [[Diamond (advanced)]]
 - [[Stone Brick]]
 
-#### [[Smelting Facility 2-1.txt]]
-
-**Individual module**
-
-![[Smelting Facility 2-1.png]]
-
-**Connected**
-
-![[Smelting Facility 2-1 (connected).png]]
+#### Smelting Facility 2-1.txt
 
 **Recommended recipes:**
 - [[Glass]]
@@ -359,28 +195,12 @@ Their footprints do not fit on the ninth, tenth, eleventh, and twelfth zone.
 - [[High-purity Silicon]]
 - [[Titanium Ingot]]
 
-#### [[Smelting Facility 3-1.txt]]
-
-**Individual module**
-
-![[Smelting Facility 3-1.png]]
-
-**Connected**
-
-![[Smelting Facility 3-1 (connected).png]]
+#### Smelting Facility 3-1.txt
 
 **Recommended recipes:**
 - [[Steel]]
 
-#### [[Smelting Facility 4-1.txt]]
-
-**Individual module**
-
-![[Smelting Facility 4-1.png]]
-
-**Connected**
-
-![[Smelting Facility 4-1 (connected).png]]
+#### Smelting Facility 4-1.txt
 
 **Recommended recipes:**
 - [[Titanium Alloy]]

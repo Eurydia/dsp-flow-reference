@@ -15,14 +15,11 @@ $$
 | $M$    | Mining speed (item per minute per node) |
 | $k$    | Vein Utilization level                  |
 
-## Scenarios
+> [!important] Ores and rare veins are gathered at a fixed speed regardless of the difficulty level.
 
-Ores and rare veins are gathered at a fixed speed regardless of the difficulty level.
+## Mining Machines
 
-### Conveyor Belt Mk. I + Mining Machines
-
-> [!important] Production target
-> 360 items per minute
+### 360 items per minuet
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
@@ -39,10 +36,7 @@ Ores and rare veins are gathered at a fixed speed regardless of the difficulty l
 | 50                     | 2                        |
 | 110                    | 1                        |
 
-### Conveyor Belt Mk. II + Mining Machines
-
-> [!important] Production target
-> 720 items per minute
+### 720 items per minute
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
@@ -68,10 +62,7 @@ Ores and rare veins are gathered at a fixed speed regardless of the difficulty l
 | 110                    | 2                        |
 | 230                    | 1                        |
 
-### Conveyor Belt Mk. III + Mining Machines
-
-> [!important] Production target
-> 1800 items per minute
+### 1800 items per minute
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |
@@ -115,10 +106,9 @@ Ores and rare veins are gathered at a fixed speed regardless of the difficulty l
 | 290                    | 2                        |
 | 590                    | 1                        |
 
-### Conveyor Belt Mk. III + Advanced Mining Machines
+## Advanced Mining Machines
 
-> [!important] Production target
-> 1800 items per minute
+### 1800 items per minuet
 
 | Vein Utilization Level | Number of Nodes Required |
 | ---------------------- | ------------------------ |

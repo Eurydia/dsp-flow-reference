@@ -1,4 +1,4 @@
-# Principles
+# __vault_meta
 
 ## Style Conventions
 
@@ -11,6 +11,10 @@ While writing notes, the content must be written with the following in mind:
 To ensure the compatibility as an Obsidian vault, the `content/` directory is the root directory, instead of the repository.
 
 This measure is done to avoid the inclusion of `git` such as `.gitignore`, `LISCENSE` and, `README,md` files in Obsidian.
+
+
+%%
+!-- The following content is deprecated. --!
 
 The vault structure is separated into two categories of directories.
 
@@ -26,3 +30,4 @@ All blueprints must be designed with the following conventions in mind.
 - **Manhattan geometry**: Conveyor Belts must follow the Manhattan geometry
 - **End-extensible**: A module extends one another at the end, not the front
 - **Belt connection**: A facility can connect to a line of Conveyor Belt at most once
+%%
