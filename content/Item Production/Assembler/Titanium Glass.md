@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item               | Ratio |
-| --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Glass]]          | 2/2   |
-| 2               | Input     | [[Titanium Ingot]] | 2/2   |
-| 3               | Input     | [[Water]]          | 2/2   |
-| 4               | Output    | [[Titanium Glass]] | 2/2   |
+| Channel # | Direction | Item               | Ratio |
+| --------- | --------- | ------------------ | ----- |
+| 1         | Input     | [[Glass]]          | 2/2   |
+| 2         | Input     | [[Titanium Ingot]] | 2/2   |
+| 3         | Input     | [[Water]]          | 2/2   |
+| 4         | Output    | [[Titanium Glass]] | 2/2   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

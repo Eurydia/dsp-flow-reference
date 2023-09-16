@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                           | Ratio |
-| --------------- | --------- | ------------------------------ | ----- |
-| 1               | Input     | [[Copper Ingot]]               | 1/1   |
-| 2               | Input     | [[High-Purity Silicon]]        | 1/2   |
-| 3               | Input     | [[High-Purity Silicon]]        | 1/2   |
-| 4               | Output    | [[Microcrystalline Component]] | 1/1   |
+| Channel # | Direction | Item                           | Ratio |
+| --------- | --------- | ------------------------------ | ----- |
+| 1         | Input     | [[Copper Ingot]]               | 1/1   |
+| 2         | Input     | [[High-Purity Silicon]]        | 1/2   |
+| 3         | Input     | [[High-Purity Silicon]]        | 1/2   |
+| 4         | Output    | [[Microcrystalline Component]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

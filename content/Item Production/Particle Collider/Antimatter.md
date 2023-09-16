@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Particle Collider 1-2.txt]]
+**Recommended configuration**: Particle Collider 1-2
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                | Ratio |
-| --------------- | --------- | ------------------- | ----- |
-| 1               | Input     | [[Critical Photon]] | 2/2   |
-| 2               | Output    | [[Hydrogen]]        | 2/2   |
-| 3               | Output    | [[Antimatter]]      | 2/2   |
+| Channel # | Direction | Item                | Ratio |
+| --------- | --------- | ------------------- | ----- |
+| 1         | Input     | [[Critical Photon]] | 2/2   |
+| 2         | Output    | [[Hydrogen]]        | 2/2   |
+| 3         | Output    | [[Antimatter]]      | 2/2   |
+
+## Reference Tables
 
 ### Miniature Particle Collider
 

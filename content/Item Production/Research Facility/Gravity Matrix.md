@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Research Facility 2-1.txt]]
+**Recommended configuration**: Research Facility 2-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item               | Ratio |
-| --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Graviton Lens]]  | 1/1   |
-| 2               | Input     | [[Quantum Chip]]   | 1/1   |
-| 3               | Output    | [[Gravity Matrix]] | 2/2   |
+| Channel # | Direction | Item               | Ratio |
+| --------- | --------- | ------------------ | ----- |
+| 1         | Input     | [[Graviton Lens]]  | 1/1   |
+| 2         | Input     | [[Quantum Chip]]   | 1/1   |
+| 3         | Output    | [[Gravity Matrix]] | 2/2   |
+
+## Reference Tables
 
 ### Matrix Lab
 

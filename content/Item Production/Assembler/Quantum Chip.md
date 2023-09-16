@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item             | Ratio |
-| --------------- | --------- | ---------------- | ----- |
-| 1               | Input     | [[Processor]]    | 1/2   |
-| 2               | Input     | [[Processor]]    | 1/2   |
-| 3               | Input     | [[Plane Filter]] | 1/2   |
-| 4               | Input     | [[Plane Filter]] | 1/2   |
-| 5               | Output    | [[Quantum Chip]] | 1/1   |
+| Channel # | Direction | Item             | Ratio |
+| --------- | --------- | ---------------- | ----- |
+| 1         | Input     | [[Processor]]    | 1/2   |
+| 2         | Input     | [[Processor]]    | 1/2   |
+| 3         | Input     | [[Plane Filter]] | 1/2   |
+| 4         | Input     | [[Plane Filter]] | 1/2   |
+| 5         | Output    | [[Quantum Chip]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

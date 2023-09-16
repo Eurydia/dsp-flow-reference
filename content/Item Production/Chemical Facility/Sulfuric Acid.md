@@ -2,18 +2,20 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Chemical Facility 5-1.txt]]
+**Recommended configuration**: Chemical Facility 5-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item              | Ratio |
-| --------------- | --------- | ----------------- | ----- |
-| 1               | Input     | [[Water]]         | 4/4   |
-| 2               | Input     | [[Refined Oil]]   | 3/6   |
-| 3               | Input     | [[Refined Oil]]   | 3/6   |
-| 4               | Input     | [[Stone]]         | 4/8   |
-| 5               | Input     | [[Stone]]         | 4/8   |
-| 6               | Output    | [[Sulfuric Acid]] | 4/4   |
+| Channel # | Direction | Item              | Ratio |
+| --------- | --------- | ----------------- | ----- |
+| 1         | Input     | [[Water]]         | 4/4   |
+| 2         | Input     | [[Refined Oil]]   | 3/6   |
+| 3         | Input     | [[Refined Oil]]   | 3/6   |
+| 4         | Input     | [[Stone]]         | 4/8   |
+| 5         | Input     | [[Stone]]         | 4/8   |
+| 6         | Output    | [[Sulfuric Acid]] | 4/4   |
+
+## Reference Tables
 
 ### Chemical Plant
 

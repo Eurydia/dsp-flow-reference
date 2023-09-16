@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Chemical Facility 3-1.txt]]
+**Recommended configuration**: Chemical Facility 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                             | Ratio |
-| --------------- | --------- | -------------------------------- | ----- |
-| 1               | Input     | [[Spiniform Stalagmite Crystal]] | 2/6   |
-| 2               | Input     | [[Spiniform Stalagmite Crystal]] | 2/6   |
-| 3               | Input     | [[Spiniform Stalagmite Crystal]] | 2/6   |
-| 4               | Output    | [[Carbon Nanotube]]              | 2/2   |
+| Channel # | Direction | Item                             | Ratio |
+| --------- | --------- | -------------------------------- | ----- |
+| 1         | Input     | [[Spiniform Stalagmite Crystal]] | 2/6   |
+| 2         | Input     | [[Spiniform Stalagmite Crystal]] | 2/6   |
+| 3         | Input     | [[Spiniform Stalagmite Crystal]] | 2/6   |
+| 4         | Output    | [[Carbon Nanotube]]              | 2/2   |
+
+## Reference Tables
 
 ### Chemical Plant
 

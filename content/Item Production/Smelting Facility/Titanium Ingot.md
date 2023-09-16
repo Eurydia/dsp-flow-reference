@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Smelting Facility 2-1.txt]]
+**Recommended configuration**: Smelting Facility 2-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item               | Ratio |
-| --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Titanium Ore]]   | 1/2   |
-| 2               | Input     | [[Titanium Ore]]   | 1/2   |
-| 3               | Output    | [[Titanium Ingot]] | 1/1   |
+| Channel # | Direction | Item               | Ratio |
+| --------- | --------- | ------------------ | ----- |
+| 1         | Input     | [[Titanium Ore]]   | 1/2   |
+| 2         | Input     | [[Titanium Ore]]   | 1/2   |
+| 3         | Output    | [[Titanium Ingot]] | 1/1   |
+
+## Reference Tables
 
 ### Arc Smelter
 

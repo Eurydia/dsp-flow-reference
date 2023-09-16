@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 2-1.txt]]
+**Recommended configuration**: Assembler 2-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                | Ratio |
-| --------------- | --------- | ------------------- | ----- |
-| 1               | Input     | [[Graphene]]        | 1/1   |
-| 2               | Input     | [[Photon Combiner]] | 1/1   |
-| 3               | Output    | [[Solar Sail]]      | 2/2   |
+| Channel # | Direction | Item                | Ratio |
+| --------- | --------- | ------------------- | ----- |
+| 1         | Input     | [[Graphene]]        | 1/1   |
+| 2         | Input     | [[Photon Combiner]] | 1/1   |
+| 3         | Output    | [[Solar Sail]]      | 2/2   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

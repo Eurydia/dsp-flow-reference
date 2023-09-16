@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                | Ratio |
-| --------------- | --------- | ------------------- | ----- |
-| 1               | Input     | [[Casimir Crystal]] | 1/1   |
-| 2               | Input     | [[Titanium Glass]]  | 1/2   |
-| 3               | Input     | [[Titanium Glass]]  | 1/2   |
-| 4               | Output    | [[Plane Filter]]    | 1/1   |
+| Channel # | Direction | Item                | Ratio |
+| --------- | --------- | ------------------- | ----- |
+| 1         | Input     | [[Casimir Crystal]] | 1/1   |
+| 2         | Input     | [[Titanium Glass]]  | 1/2   |
+| 3         | Input     | [[Titanium Glass]]  | 1/2   |
+| 4         | Output    | [[Plane Filter]]    | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

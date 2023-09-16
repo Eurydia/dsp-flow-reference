@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Chemical Facility 4-1.txt]]
+**Recommended configuration**: Chemical Facility 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                   | Ratio |
-| --------------- | --------- | ---------------------- | ----- |
-| 1               | Input     | [[Energetic Graphite]] | 1/3   |
-| 2               | Input     | [[Energetic Graphite]] | 1/3   |
-| 3               | Input     | [[Energetic Graphite]] | 1/3   |
-| 4               | Input     | [[Sulfuric Acid]]      | 1/1   |
-| 5               | Output    | [[Graphene]]           | 2/2   |
+| Channel # | Direction | Item                   | Ratio |
+| --------- | --------- | ---------------------- | ----- |
+| 1         | Input     | [[Energetic Graphite]] | 1/3   |
+| 2         | Input     | [[Energetic Graphite]] | 1/3   |
+| 3         | Input     | [[Energetic Graphite]] | 1/3   |
+| 4         | Input     | [[Sulfuric Acid]]      | 1/1   |
+| 5         | Output    | [[Graphene]]           | 2/2   |
+
+## Reference Tables
 
 ### Chemical Plant
 

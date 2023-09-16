@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                  | Ratio |
-| --------------- | --------- | --------------------- | ----- |
-| 1               | Input     | [[Titanium Ingot]]    | 1/1   |
-| 2               | Input     | [[Magnet]]            | 5/10  |
-| 3               | Input     | [[Magnet]]            | 5/10  |
-| 4               | Output    | [[Hydrogen Fuel Rod]] | 2/2   |
+| Channel # | Direction | Item                  | Ratio |
+| --------- | --------- | --------------------- | ----- |
+| 1         | Input     | [[Titanium Ingot]]    | 1/1   |
+| 2         | Input     | [[Magnet]]            | 5/10  |
+| 3         | Input     | [[Magnet]]            | 5/10  |
+| 4         | Output    | [[Hydrogen Fuel Rod]] | 2/2   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

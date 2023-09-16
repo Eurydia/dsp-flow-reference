@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Refining Facility 1-2.txt]]
+**Recommended configuration**: Refining Facility 1-2
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item            | Ratio |
-| --------------- | --------- | --------------- | ----- |
-| 1               | Input     | [[Crude Oil]]   | 2/2   |
-| 2               | Output    | [[Hydrogen]]    | 1/1   |
-| 3               | Output    | [[Refined Oil]] | 2/2   |
+| Channel # | Direction | Item            | Ratio |
+| --------- | --------- | --------------- | ----- |
+| 1         | Input     | [[Crude Oil]]   | 2/2   |
+| 2         | Output    | [[Hydrogen]]    | 1/1   |
+| 3         | Output    | [[Refined Oil]] | 2/2   |
+
+## Reference Tables
 
 ### Oil Refinery
 

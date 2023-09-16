@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 2-1.txt]]
+**Recommended configuration**: Assembler 2-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                               | Ratio |
-| --------------- | --------- | ---------------------------------- | ----- |
-| 1               | Input     | [[Particle Container]]             | 1/1   |
-| 2               | Input     | [[Processor]]                      | 1/1   |
-| 3               | Output    | [[Annihilation Constraint Sphere]] | 1/1   |
+| Channel # | Direction | Item                               | Ratio |
+| --------- | --------- | ---------------------------------- | ----- |
+| 1         | Input     | [[Particle Container]]             | 1/1   |
+| 2         | Input     | [[Processor]]                      | 1/1   |
+| 3         | Output    | [[Annihilation Constraint Sphere]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

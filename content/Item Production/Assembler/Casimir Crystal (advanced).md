@@ -2,18 +2,20 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 5-1.txt]]
+**Recommended configuration**: Assembler 5-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                        | Ratio |
-| --------------- | --------- | --------------------------- | ----- |
-| 1               | Input     | [[Graphene]]                | 2/2   |
-| 2               | Input     | [[Optical Grating Crystal]] | 4/8   |
-| 3               | Input     | [[Optical Grating Crystal]] | 4/8   |
-| 4               | Input     | [[Hydrogen]]                | 6/12  |
-| 5               | Input     | [[Hydrogen]]                | 6/12  |
-| 6               | Output    | [[Casimir Crystal]]         | 1/1   |
+| Channel # | Direction | Item                        | Ratio |
+| --------- | --------- | --------------------------- | ----- |
+| 1         | Input     | [[Graphene]]                | 2/2   |
+| 2         | Input     | [[Optical Grating Crystal]] | 4/8   |
+| 3         | Input     | [[Optical Grating Crystal]] | 4/8   |
+| 4         | Input     | [[Hydrogen]]                | 6/12  |
+| 5         | Input     | [[Hydrogen]]                | 6/12  |
+| 6         | Output    | [[Casimir Crystal]]         | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

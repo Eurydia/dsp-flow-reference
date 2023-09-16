@@ -2,19 +2,21 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Research Facility 6-1.txt]]
+**Recommended configuration**: Research Facility 6-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                       | Ratio |
-| --------------- | --------- | -------------------------- | ----- |
-| 1               | Input     | [[Electromagnetic Matrix]] | 1/1   |
-| 2               | Input     | [[Energy Matrix]]          | 1/1   |
-| 3               | Input     | [[Structure Matrix]]       | 1/1   |
-| 4               | Input     | [[Information Matrix]]     | 1/1   |
-| 5               | Input     | [[Graviton Lens]]          | 1/1   |
-| 6               | Input     | [[Antimatter]]             | 1/1   |
-| 7               | Output    | [[Universe Matrix]]        | 1/1   |
+| Channel # | Direction | Item                       | Ratio |
+| --------- | --------- | -------------------------- | ----- |
+| 1         | Input     | [[Electromagnetic Matrix]] | 1/1   |
+| 2         | Input     | [[Energy Matrix]]          | 1/1   |
+| 3         | Input     | [[Structure Matrix]]       | 1/1   |
+| 4         | Input     | [[Information Matrix]]     | 1/1   |
+| 5         | Input     | [[Graviton Lens]]          | 1/1   |
+| 6         | Input     | [[Antimatter]]             | 1/1   |
+| 7         | Output    | [[Universe Matrix]]        | 1/1   |
+
+## Reference Tables
 
 ### Matrix Lab
 

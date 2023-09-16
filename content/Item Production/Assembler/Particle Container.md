@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                        | Ratio |
-| --------------- | --------- | --------------------------- | ----- |
-| 1               | Input     | [[Electromagnetic Turbine]] | 2/2   |
-| 2               | Input     | [[Graphene]]                | 2/2   |
-| 3               | Input     | [[Copper Ingot]]            | 2/2   |
-| 4               | Output    | [[Particle Container]]      | 1/1   |
+| Channel # | Direction | Item                        | Ratio |
+| --------- | --------- | --------------------------- | ----- |
+| 1         | Input     | [[Electromagnetic Turbine]] | 2/2   |
+| 2         | Input     | [[Graphene]]                | 2/2   |
+| 3         | Input     | [[Copper Ingot]]            | 2/2   |
+| 4         | Output    | [[Particle Container]]      | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

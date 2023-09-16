@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item      | Ratio |
-| --------------- | --------- | --------- | ----- |
-| 1               | Input     | [[Glass]] | 1/3   |
-| 2               | Input     | [[Glass]] | 1/3   |
-| 3               | Input     | [[Glass]] | 1/3   |
-| 4               | Output    | [[Prism]] | 2/2   |
+| Channel # | Direction | Item      | Ratio |
+| --------- | --------- | --------- | ----- |
+| 1         | Input     | [[Glass]] | 1/3   |
+| 2         | Input     | [[Glass]] | 1/3   |
+| 3         | Input     | [[Glass]] | 1/3   |
+| 4         | Output    | [[Prism]] | 2/2   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

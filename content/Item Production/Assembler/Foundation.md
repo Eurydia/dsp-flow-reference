@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item            | Ratio |
-| --------------- | --------- | --------------- | ----- |
-| 1               | Input     | [[Steel]]       | 1/1   |
-| 2               | Input     | [[Stone Brick]] | 1/3   |
-| 3               | Input     | [[Stone Brick]] | 1/3   |
-| 4               | Input     | [[Stone Brick]] | 1/3   |
-| 5               | Output    | [[Foundation]]  | 1/1   |
+| Channel # | Direction | Item            | Ratio |
+| --------- | --------- | --------------- | ----- |
+| 1         | Input     | [[Steel]]       | 1/1   |
+| 2         | Input     | [[Stone Brick]] | 1/3   |
+| 3         | Input     | [[Stone Brick]] | 1/3   |
+| 4         | Input     | [[Stone Brick]] | 1/3   |
+| 5         | Output    | [[Foundation]]  | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

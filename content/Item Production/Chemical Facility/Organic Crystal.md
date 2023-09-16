@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Chemical Facility 4-1.txt]]
+**Recommended configuration**: Chemical Facility 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                | Ratio |
-| --------------- | --------- | ------------------- | ----- |
-| 1               | Input     | [[Water]]           | 1/3   |
-| 2               | Input     | [[Refined Oil]]     | 1/1   |
-| 3               | Input     | [[Plastic]]         | 1/2   |
-| 4               | Input     | [[Plastic]]         | 1/2   |
-| 5               | Output    | [[Organic Crystal]] | 1/1   |
+| Channel # | Direction | Item                | Ratio |
+| --------- | --------- | ------------------- | ----- |
+| 1         | Input     | [[Water]]           | 1/3   |
+| 2         | Input     | [[Refined Oil]]     | 1/1   |
+| 3         | Input     | [[Plastic]]         | 1/2   |
+| 4         | Input     | [[Plastic]]         | 1/2   |
+| 5         | Output    | [[Organic Crystal]] | 1/1   |
+
+## Reference Tables
 
 ### Chemical Plant
 

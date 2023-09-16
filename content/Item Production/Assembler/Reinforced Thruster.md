@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 2-1.txt]]
+**Recommended configuration**: Assembler 2-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                        | Ratio |
-| --------------- | --------- | --------------------------- | ----- |
-| 1               | Input     | [[Titanium Alloy]]          | 5/5   |
-| 2               | Input     | [[Electromagnetic Turbine]] | 5/5   |
-| 3               | Output    | [[Reinforced Thruster]]     | 1/1   |
+| Channel # | Direction | Item                        | Ratio |
+| --------- | --------- | --------------------------- | ----- |
+| 1         | Input     | [[Titanium Alloy]]          | 5/5   |
+| 2         | Input     | [[Electromagnetic Turbine]] | 5/5   |
+| 3         | Output    | [[Reinforced Thruster]]     | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

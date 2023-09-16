@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                    | Ratio |
-| --------------- | --------- | ----------------------- | ----- |
-| 1               | Input     | [[High-Purity Silicon]] | 1/1   |
-| 2               | Input     | [[Titanium Ingot]]      | 1/1   |
-| 3               | Input     | [[Carbon Nanotube]]     | 2/4   |
-| 4               | Input     | [[Carbon Nanotube]]     | 2/4   |
-| 5               | Output    | [[Frame Material]]      | 1/1   |
+| Channel # | Direction | Item                    | Ratio |
+| --------- | --------- | ----------------------- | ----- |
+| 1         | Input     | [[High-Purity Silicon]] | 1/1   |
+| 2         | Input     | [[Titanium Ingot]]      | 1/1   |
+| 3         | Input     | [[Carbon Nanotube]]     | 2/4   |
+| 4         | Input     | [[Carbon Nanotube]]     | 2/4   |
+| 5         | Output    | [[Frame Material]]      | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

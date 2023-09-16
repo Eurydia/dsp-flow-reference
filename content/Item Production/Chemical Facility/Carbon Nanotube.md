@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Chemical Facility 4-1.txt]]
+**Recommended configuration**: Chemical Facility 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                | Ratio |
-| --------------- | --------- | ------------------- | ----- |
-| 1               | Input     | [[Titanium Ingot]]  | 1/1   |
-| 2               | Input     | [[Graphene]]        | 1/3   |
-| 3               | Input     | [[Graphene]]        | 1/3   |
-| 4               | Input     | [[Graphene]]        | 1/3   |
-| 5               | Output    | [[Carbon Nanotube]] | 2/2   |
+| Channel # | Direction | Item                | Ratio |
+| --------- | --------- | ------------------- | ----- |
+| 1         | Input     | [[Titanium Ingot]]  | 1/1   |
+| 2         | Input     | [[Graphene]]        | 1/3   |
+| 3         | Input     | [[Graphene]]        | 1/3   |
+| 4         | Input     | [[Graphene]]        | 1/3   |
+| 5         | Output    | [[Carbon Nanotube]] | 2/2   |
+
+## Reference Tables
 
 ### Chemical Plant
 

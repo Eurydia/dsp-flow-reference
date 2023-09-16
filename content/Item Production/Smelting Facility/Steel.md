@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Smelting Facility 3-1.txt]]
+**Recommended configuration**: Smelting Facility 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item           | Ratio |
-| --------------- | --------- | -------------- | ----- |
-| 1               | Input     | [[Iron Ingot]] | 1/3   |
-| 2               | Input     | [[Iron Ingot]] | 1/3   |
-| 3               | Input     | [[Iron Ingot]] | 1/3   |
-| 4               | Output    | [[Steel]]      | 1/1   |
+| Channel # | Direction | Item           | Ratio |
+| --------- | --------- | -------------- | ----- |
+| 1         | Input     | [[Iron Ingot]] | 1/3   |
+| 2         | Input     | [[Iron Ingot]] | 1/3   |
+| 3         | Input     | [[Iron Ingot]] | 1/3   |
+| 4         | Output    | [[Steel]]      | 1/1   |
+
+## Reference Tables
 
 ### Arc Smelter
 

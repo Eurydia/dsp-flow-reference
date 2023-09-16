@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                   | Ratio |
-| --------------- | --------- | ---------------------- | ----- |
-| 1               | Input     | [[Diamond]]            | 1/1   |
-| 2               | Input     | [[Proliferator Mk.I]]  | 1/2   |
-| 3               | Input     | [[Proliferator Mk.I]]  | 1/2   |
-| 4               | Output    | [[Proliferator Mk.II]] | 1/1   |
+| Channel # | Direction | Item                   | Ratio |
+| --------- | --------- | ---------------------- | ----- |
+| 1         | Input     | [[Diamond]]            | 1/1   |
+| 2         | Input     | [[Proliferator Mk.I]]  | 1/2   |
+| 3         | Input     | [[Proliferator Mk.I]]  | 1/2   |
+| 4         | Output    | [[Proliferator Mk.II]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

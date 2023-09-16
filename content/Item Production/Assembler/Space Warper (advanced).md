@@ -2,14 +2,16 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 1-1.txt]]
+**Recommended configuration**: Assembler 1-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item               | Ratio |
-| --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Gravity Matrix]] | 1/1   |
-| 2               | Output    | [[Space Warper]]   | 8/8   |
+| Channel # | Direction | Item               | Ratio |
+| --------- | --------- | ------------------ | ----- |
+| 1         | Input     | [[Gravity Matrix]] | 1/1   |
+| 2         | Output    | [[Space Warper]]   | 8/8   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

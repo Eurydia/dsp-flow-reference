@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Chemical Facility 1-2.txt]]
+**Recommended configuration**: Chemical Facility 1-2
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item         | Ratio |
-| --------------- | --------- | ------------ | ----- |
-| 1               | Input     | [[Fire Ice]] | 2/2   |
-| 2               | Output    | [[Hydrogen]] | 1/1   |
-| 3               | Output    | [[Graphene]] | 2/2   |
+| Channel # | Direction | Item         | Ratio |
+| --------- | --------- | ------------ | ----- |
+| 1         | Input     | [[Fire Ice]] | 2/2   |
+| 2         | Output    | [[Hydrogen]] | 1/1   |
+| 3         | Output    | [[Graphene]] | 2/2   |
+
+## Reference Tables
 
 ### Chemical Plant
 

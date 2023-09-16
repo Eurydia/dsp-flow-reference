@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                       | Ratio |
-| --------------- | --------- | -------------------------- | ----- |
-| 1               | Input     | [[Frame Material]]         | 3/3   |
-| 2               | Input     | [[Processor]]              | 3/3   |
-| 3               | Input     | [[Solar Sail]]             | 3/3   |
-| 4               | Output    | [[Dyson Sphere Component]] | 1/1   |
+| Channel # | Direction | Item                       | Ratio |
+| --------- | --------- | -------------------------- | ----- |
+| 1         | Input     | [[Frame Material]]         | 3/3   |
+| 2         | Input     | [[Processor]]              | 3/3   |
+| 3         | Input     | [[Solar Sail]]             | 3/3   |
+| 4         | Output    | [[Dyson Sphere Component]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

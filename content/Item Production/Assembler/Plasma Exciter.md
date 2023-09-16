@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item               | Ratio |
-| --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Prism]]          | 2/2   |
-| 2               | Input     | [[Magnetic Coil]]  | 2/4   |
-| 3               | Input     | [[Magnetic Coil]]  | 2/4   |
-| 4               | Output    | [[Plasma Exciter]] | 1/1   |
+| Channel # | Direction | Item               | Ratio |
+| --------- | --------- | ------------------ | ----- |
+| 1         | Input     | [[Prism]]          | 2/2   |
+| 2         | Input     | [[Magnetic Coil]]  | 2/4   |
+| 3         | Input     | [[Magnetic Coil]]  | 2/4   |
+| 4         | Output    | [[Plasma Exciter]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

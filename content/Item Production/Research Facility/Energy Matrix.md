@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Research Facility 4-1.txt]]
+**Recommended configuration**: Research Facility 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                   | Ratio |
-| --------------- | --------- | ---------------------- | ----- |
-| 1               | Input     | [[Hydrogen]]           | 1/2   |
-| 2               | Input     | [[Hydrogen]]           | 1/2   |
-| 3               | Input     | [[Energetic Graphite]] | 1/2   |
-| 4               | Input     | [[Energetic Graphite]] | 1/2   |
-| 5               | Output    | [[Energy Matrix]]      | 1/1   |
+| Channel # | Direction | Item                   | Ratio |
+| --------- | --------- | ---------------------- | ----- |
+| 1         | Input     | [[Hydrogen]]           | 1/2   |
+| 2         | Input     | [[Hydrogen]]           | 1/2   |
+| 3         | Input     | [[Energetic Graphite]] | 1/2   |
+| 4         | Input     | [[Energetic Graphite]] | 1/2   |
+| 5         | Output    | [[Energy Matrix]]      | 1/1   |
+
+## Reference Tables
 
 ### Matrix Lab
 

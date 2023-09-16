@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                 | Ratio |
-| --------------- | --------- | -------------------- | ----- |
-| 1               | Input     | [[Titanium Ingot]]   | 1/3   |
-| 2               | Input     | [[Titanium Ingot]]   | 1/3   |
-| 3               | Input     | [[Titanium Ingot]]   | 1/3   |
-| 4               | Input     | [[Organic Crystal]]  | 1/1   |
-| 5               | Output    | [[Titanium Crystal]] | 1/1   |
+| Channel # | Direction | Item                 | Ratio |
+| --------- | --------- | -------------------- | ----- |
+| 1         | Input     | [[Titanium Ingot]]   | 1/3   |
+| 2         | Input     | [[Titanium Ingot]]   | 1/3   |
+| 3         | Input     | [[Titanium Ingot]]   | 1/3   |
+| 4         | Input     | [[Organic Crystal]]  | 1/1   |
+| 5         | Output    | [[Titanium Crystal]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

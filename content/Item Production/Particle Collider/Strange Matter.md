@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Particle Collider 4-1.txt]]
+**Recommended configuration**: Particle Collider 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                   | Ratio |
-| --------------- | --------- | ---------------------- | ----- |
-| 1               | Input     | [[Particle Container]] | 2/2   |
-| 2               | Input     | [[Iron Ingot]]         | 2/2   |
-| 3               | Input     | [[Deuterium]]          | 5/10  |
-| 4               | Input     | [[Deuterium]]          | 5/10  |
-| 5               | Output    | [[Strange Matter]]     | 1/1   |
+| Channel # | Direction | Item                   | Ratio |
+| --------- | --------- | ---------------------- | ----- |
+| 1         | Input     | [[Particle Container]] | 2/2   |
+| 2         | Input     | [[Iron Ingot]]         | 2/2   |
+| 3         | Input     | [[Deuterium]]          | 5/10  |
+| 4         | Input     | [[Deuterium]]          | 5/10  |
+| 5         | Output    | [[Strange Matter]]     | 1/1   |
+
+## Reference Tables
 
 ### Miniature Particle Collider
 

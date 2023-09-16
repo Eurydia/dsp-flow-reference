@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 3-1.txt]]
+**Recommended configuration**: Assembler 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item             | Ratio |
-| --------------- | --------- | ---------------- | ----- |
-| 1               | Input     | [[Steel]]        | 1/2   |
-| 2               | Input     | [[Steel]]        | 1/2   |
-| 3               | Input     | [[Copper Ingot]] | 1/1   |
-| 4               | Output    | [[Thruster]]     | 1/1   |
+| Channel # | Direction | Item             | Ratio |
+| --------- | --------- | ---------------- | ----- |
+| 1         | Input     | [[Steel]]        | 1/2   |
+| 2         | Input     | [[Steel]]        | 1/2   |
+| 3         | Input     | [[Copper Ingot]] | 1/1   |
+| 4         | Output    | [[Thruster]]     | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

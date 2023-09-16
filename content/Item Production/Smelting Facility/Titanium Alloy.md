@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Smelting Facility 4-1.txt]]
+**Recommended configuration**: Smelting Facility 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item               | Ratio |
-| --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Titanium Ingot]] | 4/4   |
-| 2               | Input     | [[Steel]]          | 4/4   |
-| 3               | Input     | [[Sulfuric Acid]]  | 4/8   |
-| 4               | Input     | [[Sulfuric Acid]]  | 4/8   |
-| 5               | Output    | [[Titanium Alloy]] | 4/4   |
+| Channel # | Direction | Item               | Ratio |
+| --------- | --------- | ------------------ | ----- |
+| 1         | Input     | [[Titanium Ingot]] | 4/4   |
+| 2         | Input     | [[Steel]]          | 4/4   |
+| 3         | Input     | [[Sulfuric Acid]]  | 4/8   |
+| 4         | Input     | [[Sulfuric Acid]]  | 4/8   |
+| 5         | Output    | [[Titanium Alloy]] | 4/4   |
+
+## Reference Tables
 
 ### Arc Smelter
 

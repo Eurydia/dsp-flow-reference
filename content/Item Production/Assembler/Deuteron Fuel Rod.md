@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                    | Ratio |
-| --------------- | --------- | ----------------------- | ----- |
-| 1               | Input     | [[Titanium Alloy]]      | 1/1   |
-| 2               | Input     | [[Super-magnetic Ring]] | 1/1   |
-| 3               | Input     | [[Deuterium]]           | 10/20 |
-| 4               | Input     | [[Deuterium]]           | 10/20 |
-| 5               | Output    | [[Deuteron Fuel Rod]]   | 2/2   |
+| Channel # | Direction | Item                    | Ratio |
+| --------- | --------- | ----------------------- | ----- |
+| 1         | Input     | [[Titanium Alloy]]      | 1/1   |
+| 2         | Input     | [[Super-magnetic Ring]] | 1/1   |
+| 3         | Input     | [[Deuterium]]           | 10/20 |
+| 4         | Input     | [[Deuterium]]           | 10/20 |
+| 5         | Output    | [[Deuteron Fuel Rod]]   | 2/2   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

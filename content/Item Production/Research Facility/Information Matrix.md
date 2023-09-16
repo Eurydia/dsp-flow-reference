@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Research Facility 3-1.txt]]
+**Recommended configuration**: Research Facility 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                   | Ratio |
-| --------------- | --------- | ---------------------- | ----- |
-| 1               | Input     | [[Particle Broadband]] | 1/1   |
-| 2               | Input     | [[Processor]]          | 1/2   |
-| 3               | Input     | [[Processor]]          | 1/2   |
-| 4               | Output    | [[Information Matrix]] | 1/1   |
+| Channel # | Direction | Item                   | Ratio |
+| --------- | --------- | ---------------------- | ----- |
+| 1         | Input     | [[Particle Broadband]] | 1/1   |
+| 2         | Input     | [[Processor]]          | 1/2   |
+| 3         | Input     | [[Processor]]          | 1/2   |
+| 4         | Output    | [[Information Matrix]] | 1/1   |
+
+## Reference Tables
 
 ### Matrix Lab
 

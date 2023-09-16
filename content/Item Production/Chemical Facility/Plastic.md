@@ -2,16 +2,18 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Chemical Facility 3-1.txt]]
+**Recommended configuration**: Chemical Facility 3-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item            | Ratio |
-| --------------- | --------- | --------------- | ----- |
-| 1               | Input     | [[Graphene]]    | 1/1   |
-| 2               | Input     | [[Refined Oil]] | 1/2   |
-| 3               | Input     | [[Refined Oil]] | 1/2   |
-| 4               | Output    | [[Plastic]]     | 1/1   |
+| Channel # | Direction | Item            | Ratio |
+| --------- | --------- | --------------- | ----- |
+| 1         | Input     | [[Graphene]]    | 1/1   |
+| 2         | Input     | [[Refined Oil]] | 1/2   |
+| 3         | Input     | [[Refined Oil]] | 1/2   |
+| 4         | Output    | [[Plastic]]     | 1/1   |
+
+## Reference Tables
 
 ### Chemical Plant
 

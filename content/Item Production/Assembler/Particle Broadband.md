@@ -2,18 +2,20 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 5-1.txt]]
+**Recommended configuration**: Assembler 5-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                   | Ratio |
-| --------------- | --------- | ---------------------- | ----- |
-| 1               | Input     | [[Plastic]]            | 1/1   |
-| 2               | Input     | [[Crystal Silicon]]    | 1/2   |
-| 3               | Input     | [[Crystal Silicon]]    | 1/2   |
-| 4               | Input     | [[Carbon Nanotube]]    | 1/2   |
-| 5               | Input     | [[Carbon Nanotube]]    | 1/2   |
-| 6               | Output    | [[Particle Broadband]] | 1/1   |
+| Channel # | Direction | Item                   | Ratio |
+| --------- | --------- | ---------------------- | ----- |
+| 1         | Input     | [[Plastic]]            | 1/1   |
+| 2         | Input     | [[Crystal Silicon]]    | 1/2   |
+| 3         | Input     | [[Crystal Silicon]]    | 1/2   |
+| 4         | Input     | [[Carbon Nanotube]]    | 1/2   |
+| 5         | Input     | [[Carbon Nanotube]]    | 1/2   |
+| 6         | Output    | [[Particle Broadband]] | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

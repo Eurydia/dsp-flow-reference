@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                       | Ratio |
-| --------------- | --------- | -------------------------- | ----- |
-| 1               | Input     | [[Dyson Sphere Component]] | 2/2   |
-| 2               | Input     | [[Quantum Chip]]           | 2/2   |
-| 3               | Input     | [[Deuteron Fuel Rod]]      | 2/4   |
-| 4               | Input     | [[Deuteron Fuel Rod]]      | 2/4   |
-| 5               | Output    | [[Small Carrier Rocket]]   | 1/1   |
+| Channel # | Direction | Item                       | Ratio |
+| --------- | --------- | -------------------------- | ----- |
+| 1         | Input     | [[Dyson Sphere Component]] | 2/2   |
+| 2         | Input     | [[Quantum Chip]]           | 2/2   |
+| 3         | Input     | [[Deuteron Fuel Rod]]      | 2/4   |
+| 4         | Input     | [[Deuteron Fuel Rod]]      | 2/4   |
+| 5         | Output    | [[Small Carrier Rocket]]   | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

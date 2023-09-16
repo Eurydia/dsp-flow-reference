@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                               | Ratio |
-| --------------- | --------- | ---------------------------------- | ----- |
-| 1               | Input     | [[Titanium Alloy]]                 | 1/1   |
-| 2               | Input     | [[Annihilation Constraint Sphere]] | 1/1   |
-| 3               | Input     | [[Hydrogen]]                       | 12/12 |
-| 4               | Input     | [[Antimatter]]                     | 12/12 |
-| 5               | Output    | [[Deuteron Fuel Rod]]              | 2/2   |
+| Channel # | Direction | Item                               | Ratio |
+| --------- | --------- | ---------------------------------- | ----- |
+| 1         | Input     | [[Titanium Alloy]]                 | 1/1   |
+| 2         | Input     | [[Annihilation Constraint Sphere]] | 1/1   |
+| 3         | Input     | [[Hydrogen]]                       | 12/12 |
+| 4         | Input     | [[Antimatter]]                     | 12/12 |
+| 5         | Output    | [[Deuteron Fuel Rod]]              | 2/2   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

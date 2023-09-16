@@ -2,18 +2,20 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 5-1.txt]]
+**Recommended configuration**: Assembler 5-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                    | Ratio |
-| --------------- | --------- | ----------------------- | ----- |
-| 1               | Input     | [[Titanium Alloy]]      | 5/10  |
-| 2               | Input     | [[Titanium Alloy]]      | 5/10  |
-| 3               | Input     | [[Processor]]           | 5/10  |
-| 4               | Input     | [[Processor]]           | 5/10  |
-| 5               | Input     | [[Reinforced Thruster]] | 2/2   |
-| 6               | Output    | [[Logistics Vessel]]    | 1/1   |
+| Channel # | Direction | Item                    | Ratio |
+| --------- | --------- | ----------------------- | ----- |
+| 1         | Input     | [[Titanium Alloy]]      | 5/10  |
+| 2         | Input     | [[Titanium Alloy]]      | 5/10  |
+| 3         | Input     | [[Processor]]           | 5/10  |
+| 4         | Input     | [[Processor]]           | 5/10  |
+| 5         | Input     | [[Reinforced Thruster]] | 2/2   |
+| 6         | Output    | [[Logistics Vessel]]    | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

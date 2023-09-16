@@ -2,18 +2,20 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 5-1.txt]]
+**Recommended configuration**: Assembler 5-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item               | Ratio |
-| --------------- | --------- | ------------------ | ----- |
-| 1               | Input     | [[Strange Matter]] | 1/1   |
-| 2               | Input     | [[Diamond]]        | 1/4   |
-| 3               | Input     | [[Diamond]]        | 1/4   |
-| 4               | Input     | [[Diamond]]        | 1/4   |
-| 5               | Input     | [[Diamond]]        | 1/4   |
-| 6               | Output    | [[Graviton Lens]]  | 1/1   |
+| Channel # | Direction | Item               | Ratio |
+| --------- | --------- | ------------------ | ----- |
+| 1         | Input     | [[Strange Matter]] | 1/1   |
+| 2         | Input     | [[Diamond]]        | 1/4   |
+| 3         | Input     | [[Diamond]]        | 1/4   |
+| 4         | Input     | [[Diamond]]        | 1/4   |
+| 5         | Input     | [[Diamond]]        | 1/4   |
+| 6         | Output    | [[Graviton Lens]]  | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 

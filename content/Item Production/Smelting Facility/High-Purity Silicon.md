@@ -2,15 +2,17 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Smelting Facility 2-1.txt]]
+**Recommended configuration**: Smelting Facility 2-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                    | Ratio |
-| --------------- | --------- | ----------------------- | ----- |
-| 1               | Input     | [[Silicon Ore]]         | 1/2   |
-| 2               | Input     | [[Silicon Ore]]         | 1/2   |
-| 3               | Output    | [[High-Purity Silicon]] | 1/1   |
+| Channel # | Direction | Item                    | Ratio |
+| --------- | --------- | ----------------------- | ----- |
+| 1         | Input     | [[Silicon Ore]]         | 1/2   |
+| 2         | Input     | [[Silicon Ore]]         | 1/2   |
+| 3         | Output    | [[High-Purity Silicon]] | 1/1   |
+
+## Reference Tables
 
 ### Arc Smelter
 

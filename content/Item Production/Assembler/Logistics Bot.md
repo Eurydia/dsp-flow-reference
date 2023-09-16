@@ -2,17 +2,19 @@
 
 ## Blueprint
 
-**Recommended standard blueprints**: [[Assembler 4-1.txt]]
+**Recommended configuration**: Assembler 4-1
 
 **I/O table**
 
-| Conveyor Belt # | Direction | Item                        | Ratio |
-| --------------- | --------- | --------------------------- | ----- |
-| 1               | Input     | [[Iron Ingot]]              | 1/2   |
-| 2               | Input     | [[Iron Ingot]]              | 1/2   |
-| 3               | Input     | [[Electromagnetic Turbine]] | 1/1   |
-| 4               | Input     | [[Processor]]               | 1/1   |
-| 5               | Output    | [[Logistics Bot]]           | 1/1   |
+| Channel # | Direction | Item                        | Ratio |
+| --------- | --------- | --------------------------- | ----- |
+| 1         | Input     | [[Iron Ingot]]              | 1/2   |
+| 2         | Input     | [[Iron Ingot]]              | 1/2   |
+| 3         | Input     | [[Electromagnetic Turbine]] | 1/1   |
+| 4         | Input     | [[Processor]]               | 1/1   |
+| 5         | Output    | [[Logistics Bot]]           | 1/1   |
+
+## Reference Tables
 
 ### Assembling Machine Mk.I
 
